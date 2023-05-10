@@ -28,10 +28,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 205422,
-    "LastUpdate": "1659757956",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Accountant?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Accountant?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Accountant/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Accountant?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Accountant?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Accountant/latest.zip"
   },
   {
     "Author": "Haplo064",
@@ -54,10 +54,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1618369127",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AccurateCountDown?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AccurateCountDown?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AccurateCountDown/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/AccurateCountDown?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/AccurateCountDown?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/AccurateCountDown/latest.zip"
   },
   {
     "Author": "Helios",
@@ -78,10 +78,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 7287,
-    "LastUpdate": "1652891391",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AdaptiveHud?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AdaptiveHud?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AdaptiveHud/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/AdaptiveHud?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/AdaptiveHud?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/AdaptiveHud/latest.zip"
   },
   {
     "Author": "Caraxi",
@@ -100,10 +100,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650001104",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AdventurerInNeed?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AdventurerInNeed?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AdventurerInNeed/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/AdventurerInNeed?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/AdventurerInNeed?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/AdventurerInNeed/latest.zip"
   },
   {
     "Author": "Gotest",
@@ -125,10 +125,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 17178,
-    "LastUpdate": "1661476302",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AudibleCharacterStatus?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AudibleCharacterStatus?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AudibleCharacterStatus/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/AudibleCharacterStatus?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/AudibleCharacterStatus?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/AudibleCharacterStatus/latest.zip"
   },
   {
     "Author": "zhudotexe",
@@ -151,10 +151,10 @@
     "CategoryTags": [
       "other"
     ],
-    "LastUpdate": "1661352410",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/autoSweep?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/autoSweep?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/autoSweep/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/autoSweep?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/autoSweep?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/autoSweep/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -173,10 +173,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649987015",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/BetterPartyFinder?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/BetterPartyFinder?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/BetterPartyFinder/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/BetterPartyFinder?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/BetterPartyFinder?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/BetterPartyFinder/latest.zip"
   },
   {
     "Author": "d87",
@@ -200,10 +200,10 @@
       "UI",
       "jobs"
     ],
-    "LastUpdate": "1655798927",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/BigPlayerDebuffs?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/BigPlayerDebuffs?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/BigPlayerDebuffs/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/BigPlayerDebuffs?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/BigPlayerDebuffs?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/BigPlayerDebuffs/latest.zip"
   },
   {
     "Author": "ackwell",
@@ -226,10 +226,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1633321448",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/BrowserHost.Plugin?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/BrowserHost.Plugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/BrowserHost.Plugin/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/BrowserHost.Plugin?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/BrowserHost.Plugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/BrowserHost.Plugin/latest.zip"
   },
   {
     "Author": "Styr1x",
@@ -255,10 +255,10 @@
     "TestingAssemblyVersion": "1.0.0.2",
     "IsTestingExclusive": "False",
     "DownloadCount": 48102,
-    "LastUpdate": "1657056932",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Browsingway?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Browsingway?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Browsingway/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Browsingway?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Browsingway?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Browsingway/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -276,10 +276,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649987015",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/BurntToast?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/BurntToast?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/BurntToast/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/BurntToast?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/BurntToast?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/BurntToast/latest.zip"
   },
   {
     "Author": "Caraxi & Ottermandias",
@@ -303,10 +303,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 18109,
-    "LastUpdate": "1649935803",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatAlerts?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatAlerts?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChatAlerts/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/ChatAlerts?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/ChatAlerts?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/ChatAlerts/latest.zip"
   },
   {
     "Author": "Haplo064",
@@ -333,10 +333,10 @@
     "CategoryTags": [
       "social"
     ],
-    "LastUpdate": "1655592924",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatBubbles?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatBubbles?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChatBubbles/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/ChatBubbles?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/ChatBubbles?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/ChatBubbles/latest.zip"
   },
   {
     "Author": "kij",
@@ -356,10 +356,10 @@
       "social",
       "utility"
     ],
-    "LastUpdate": "1649939103",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatCoordinates?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatCoordinates?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChatCoordinates/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/ChatCoordinates?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/ChatCoordinates?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/ChatCoordinates/latest.zip"
   },
   {
     "Author": "Haplo064",
@@ -384,10 +384,10 @@
     "CategoryTags": [
       "social"
     ],
-    "LastUpdate": "1594007235",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatExtender?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatExtender?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChatExtender/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/ChatExtender?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/ChatExtender?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/ChatExtender/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -403,10 +403,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 87447,
-    "LastUpdate": "1657813198",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatTwo?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatTwo?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChatTwo/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/ChatTwo?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/ChatTwo?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/ChatTwo/latest.zip"
   },
   {
     "Author": "Franz",
@@ -422,10 +422,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 4755,
-    "LastUpdate": "1654262838",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatTyper?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatTyper?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChatTyper/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/ChatTyper?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/ChatTyper?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/ChatTyper/latest.zip"
   },
   {
     "Author": "MidoriKami",
@@ -447,10 +447,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 74682,
-    "LastUpdate": "1655860162",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChillFrames?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChillFrames?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChillFrames/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/ChillFrames?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/ChillFrames?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/ChillFrames/latest.zip"
   },
   {
     "Author": "NotNite",
@@ -472,10 +472,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 9225,
-    "LastUpdate": "1659379158",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/cl_showpos?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/cl_showpos?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/cl_showpos/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/cl_showpos?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/cl_showpos?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/cl_showpos/latest.zip"
   },
   {
     "Author": "Chivalrik",
@@ -489,16 +489,16 @@
     "LoadPriority": 0,
     "Punchline": "Monodimensional compass for your adventures.",
     "Changelog": "- feat: Ability to disable Cardinals\n- feat: Add intercardinals\n- feat: Add own FC filter\n- feat: Enable negative X position values\n- feat: ALL circles filter (FATEs & Quests)\n- fix: Update to new Clientstructs\n- chore: Behind-the-scenes refactoring",
-    "IsHide": "True",
+    "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 42267,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1658536031",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Compass?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Compass?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Compass/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Compass?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Compass?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Compass/latest.zip"
   },
   {
     "Author": "Lharz",
@@ -521,10 +521,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 41560,
-    "LastUpdate": "1650129121",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/CurrencyAlert?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/CurrencyAlert?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/CurrencyAlert/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/CurrencyAlert?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/CurrencyAlert?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/CurrencyAlert/latest.zip"
   },
   {
     "Author": "MidoriKami",
@@ -543,13 +543,13 @@
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Easily Track Daily and Weekly tasks.",
-    "IsHide": "True",
+    "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 997807,
-    "LastUpdate": "1660171063",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DailyDuty?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DailyDuty?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DailyDuty/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/DailyDuty?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/DailyDuty?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/DailyDuty/latest.zip"
   },
   {
     "Author": "goat, modded by Franz",
@@ -572,10 +572,10 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1654262822",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.DiscordBridge?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.DiscordBridge?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Dalamud.DiscordBridge/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Dalamud.DiscordBridge?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Dalamud.DiscordBridge?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Dalamud.DiscordBridge/latest.zip"
   },
   {
     "Author": "goat",
@@ -595,10 +595,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 71033,
-    "LastUpdate": "1659308660",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.FindAnything?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.FindAnything?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Dalamud.FindAnything/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Dalamud.FindAnything?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Dalamud.FindAnything?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Dalamud.FindAnything/latest.zip"
   },
   {
     "Author": "Not Cara",
@@ -619,10 +619,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 11167,
-    "LastUpdate": "1650060943",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.FullscreenCutscenes?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.FullscreenCutscenes?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Dalamud.FullscreenCutscenes/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Dalamud.FullscreenCutscenes?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Dalamud.FullscreenCutscenes?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Dalamud.FullscreenCutscenes/latest.zip"
   },
   {
     "Author": "goat",
@@ -641,10 +641,10 @@
     "CategoryTags": [
       "other"
     ],
-    "LastUpdate": "1650836854",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.LoadingImage?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.LoadingImage?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Dalamud.LoadingImage/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Dalamud.LoadingImage?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Dalamud.LoadingImage?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Dalamud.LoadingImage/latest.zip"
   },
   {
     "Author": "goat",
@@ -666,10 +666,10 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1656150031",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.RichPresence?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.RichPresence?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Dalamud.RichPresence/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Dalamud.RichPresence?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Dalamud.RichPresence?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Dalamud.RichPresence/latest.zip"
   },
   {
     "Author": "goat",
@@ -692,10 +692,10 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1604857638",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DalamudVox?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DalamudVox?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DalamudVox/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/DalamudVox?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/DalamudVox?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/DalamudVox/latest.zip"
   },
   {
     "Author": "perchbird",
@@ -714,10 +714,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1658965435",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DamageInfoPlugin?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DamageInfoPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DamageInfoPlugin/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/DamageInfoPlugin?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/DamageInfoPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/DamageInfoPlugin/latest.zip"
   },
   {
     "Author": "Kouzukii",
@@ -741,10 +741,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 245702,
-    "LastUpdate": "1657216479",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DeathRecap?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DeathRecap?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DeathRecap/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/DeathRecap?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/DeathRecap?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/DeathRecap/latest.zip"
   },
   {
     "Author": "WildWolf",
@@ -763,17 +763,17 @@
     "LoadPriority": 0,
     "Punchline": "Live monster data for Deep Dungeons.",
     "Changelog": "### [1.6.3](https://github.com/wolfcomp/DeepDungeonDex/compare/v1.6.2...v1.6.3) (2022-07-20)\r\n\r\n\r\n### Bug Fixes\r\n\r\n* missing dispose on command ([ac23f4f](https://github.com/wolfcomp/DeepDungeonDex/commit/ac23f4f6e4ee72df817b1bb872fec811031ed322))\r\n\r\n",
-    "IsHide": "True",
+    "IsHide": "False",
     "TestingAssemblyVersion": "1.7.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 442741,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1658309534",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DeepDungeonDex?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DeepDungeonDex?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DeepDungeonDex/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/DeepDungeonDex?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/DeepDungeonDex?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/DeepDungeonDex/latest.zip"
   },
   {
     "Author": "jdsmith2816",
@@ -795,10 +795,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1660717072",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DelvUI?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DelvUI?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DelvUI/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/DelvUI?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/DelvUI?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/DelvUI/latest.zip"
   },
   {
     "Author": "PGGB",
@@ -818,10 +818,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 33295,
-    "LastUpdate": "1650099594",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DeviceChangeFix?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DeviceChangeFix?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DeviceChangeFix/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/DeviceChangeFix?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/DeviceChangeFix?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/DeviceChangeFix/latest.zip"
   },
   {
     "Author": "PunishedPineapple",
@@ -853,10 +853,10 @@
     "TestingAssemblyVersion": "0.9.8.3",
     "IsTestingExclusive": "False",
     "DownloadCount": 38163,
-    "LastUpdate": "1659136542",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Distance?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Distance?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Distance/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Distance?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Distance?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Distance/latest.zip"
   },
   {
     "Author": "ocealot",
@@ -879,10 +879,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649971187",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/EasyEyes?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/EasyEyes?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/EasyEyes/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/EasyEyes?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/EasyEyes?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/EasyEyes/latest.zip"
   },
   {
     "Author": "Dante Souza e Souza - aka lokinmodar",
@@ -913,10 +913,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650295430",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Echoglossian?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Echoglossian?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Echoglossian/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Echoglossian?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Echoglossian?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Echoglossian/latest.zip"
   },
   {
     "Author": "Felys",
@@ -934,10 +934,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650322450",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/EnemyListDebuffs?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/EnemyListDebuffs?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/EnemyListDebuffs/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/EnemyListDebuffs?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/EnemyListDebuffs?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/EnemyListDebuffs/latest.zip"
   },
   {
     "Author": "Xorus",
@@ -971,10 +971,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 410863,
-    "LastUpdate": "1655755871",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/EngageTimer?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/EngageTimer?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/EngageTimer/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/EngageTimer?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/EngageTimer?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/EngageTimer/latest.zip"
   },
   {
     "Author": "Eternita",
@@ -990,10 +990,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 59281,
-    "LastUpdate": "1659757988",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/EnmityHp?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/EnmityHp?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/EnmityHp/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/EnmityHp?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/EnmityHp?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/EnmityHp/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -1012,10 +1012,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649987015",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ExpandedSearchInfo?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ExpandedSearchInfo?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ExpandedSearchInfo/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/ExpandedSearchInfo?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/ExpandedSearchInfo?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/ExpandedSearchInfo/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -1031,10 +1031,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 10860,
-    "LastUpdate": "1658472569",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ExtraChat?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ExtraChat?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ExtraChat/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/ExtraChat?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/ExtraChat?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/ExtraChat/latest.zip"
   },
   {
     "Author": "daemitus",
@@ -1057,10 +1057,10 @@
     "CategoryTags": [
       "minigames"
     ],
-    "LastUpdate": "1650054506",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FauxHollowsSolver?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FauxHollowsSolver?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/FauxHollowsSolver/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/FauxHollowsSolver?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/FauxHollowsSolver?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/FauxHollowsSolver/latest.zip"
   },
   {
     "Author": "CFG",
@@ -1087,10 +1087,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 204258,
-    "LastUpdate": "1651438795",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FCNameColor?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FCNameColor?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/FCNameColor/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/FCNameColor?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/FCNameColor?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/FCNameColor/latest.zip"
   },
   {
     "Author": "X'pahtalo",
@@ -1106,10 +1106,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 814,
-    "LastUpdate": "1658536039",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Ffxiv2Mqtt?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Ffxiv2Mqtt?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Ffxiv2Mqtt/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Ffxiv2Mqtt?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Ffxiv2Mqtt?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Ffxiv2Mqtt/latest.zip"
   },
   {
     "Author": "Franz",
@@ -1128,10 +1128,10 @@
       "social",
       "utility"
     ],
-    "LastUpdate": "1649905267",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FlashOnTell?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FlashOnTell?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/FlashOnTell/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/FlashOnTell?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/FlashOnTell?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/FlashOnTell/latest.zip"
   },
   {
     "Author": "Aireil",
@@ -1150,10 +1150,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1659330116",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FlyTextFilter?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FlyTextFilter?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/FlyTextFilter/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/FlyTextFilter?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/FlyTextFilter?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/FlyTextFilter/latest.zip"
   },
   {
     "Author": "Caraxi",
@@ -1172,10 +1172,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1652164369",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FPSPlugin?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FPSPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/FPSPlugin/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/FPSPlugin?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/FPSPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/FPSPlugin/latest.zip"
   },
   {
     "Author": "XIV Tools",
@@ -1194,10 +1194,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 26,
-    "LastUpdate": "1651577177",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FullscreenToggle?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FullscreenToggle?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/FullscreenToggle/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/FullscreenToggle?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/FullscreenToggle?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/FullscreenToggle/latest.zip"
   },
   {
     "Author": "Ottermandias",
@@ -1221,16 +1221,16 @@
     "LoadPriority": 0,
     "ImageUrls": null,
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/GatherBuddy/main/images/icon.png",
-    "IsHide": "True",
+    "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1168957,
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1659129635",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/GatherBuddy/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/GatherBuddy?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/GatherBuddy/latest.zip"
   },
   {
     "Author": "Chivalrik",
@@ -1250,10 +1250,10 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1651353561",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/GentleTouch?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/GentleTouch?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/GentleTouch/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/GentleTouch?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/GentleTouch?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/GentleTouch/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -1266,13 +1266,13 @@
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Save and swap your glamour plates.",
-    "IsHide": "True",
+    "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 144020,
-    "LastUpdate": "1657734553",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Glamaholic?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Glamaholic?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Glamaholic/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Glamaholic?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Glamaholic?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Glamaholic/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -1291,10 +1291,10 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1649987015",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Globetrotter?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Globetrotter?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Globetrotter/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Globetrotter?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Globetrotter?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Globetrotter/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -1314,10 +1314,10 @@
       "UI",
       "utility"
     ],
-    "LastUpdate": "1638836667",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/GoodMemory?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/GoodMemory?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/GoodMemory/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/GoodMemory?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/GoodMemory?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/GoodMemory/latest.zip"
   },
   {
     "Author": "MgAl2O4",
@@ -1350,10 +1350,10 @@
       "utility",
       "sound"
     ],
-    "LastUpdate": "1649968033",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/HarpHero?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/HarpHero?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/HarpHero/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/HarpHero?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/HarpHero?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/HarpHero/latest.zip"
   },
   {
     "Author": "perchbird",
@@ -1366,16 +1366,16 @@
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Displays information about housing fixtures and objects.",
-    "IsHide": "True",
+    "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 74539,
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649900977",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Housemate?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Housemate?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Housemate/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Housemate?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Housemate?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Housemate/latest.zip"
   },
   {
     "Author": "Critical_Impact",
@@ -1402,7 +1402,7 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/crafts/InventoryTools/Images/icon.png",
     "Punchline": "Can't find an item in your inventory? Need to find a specific item from all the games many items? Need help working out what materials you need for a craft? Allagan Tools can probably help. (formerly Inventory Tools)",
-    "IsHide": "True",
+    "IsHide": "False",
     "TestingAssemblyVersion": "1.1.0.10",
     "IsTestingExclusive": "False",
     "DownloadCount": 346592,
@@ -1410,10 +1410,10 @@
       "inventory",
       "utility"
     ],
-    "LastUpdate": "1661034144",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/InventoryTools?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/InventoryTools?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/InventoryTools/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/InventoryTools?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/InventoryTools?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/InventoryTools/latest.zip"
   },
   {
     "Author": "Caraxi",
@@ -1433,10 +1433,10 @@
       "inventory",
       "utility"
     ],
-    "LastUpdate": "1651966347",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ItemSearchPlugin?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ItemSearchPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ItemSearchPlugin/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/ItemSearchPlugin?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/ItemSearchPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/ItemSearchPlugin/latest.zip"
   },
   {
     "Author": "ocealot",
@@ -1458,10 +1458,10 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1658010544",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/JobBars?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/JobBars?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/JobBars/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/JobBars?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/JobBars?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/JobBars/latest.zip"
   },
   {
     "Author": "haplo, daemitus",
@@ -1479,10 +1479,10 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1618736205",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/JobIcons?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/JobIcons?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/JobIcons/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/JobIcons?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/JobIcons?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/JobIcons/latest.zip"
   },
   {
     "Author": "Eternita",
@@ -1498,10 +1498,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 83204,
-    "LastUpdate": "1656719006",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/JustBackup?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/JustBackup?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/JustBackup/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/JustBackup?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/JustBackup?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/JustBackup/latest.zip"
   },
   {
     "Author": "kalilistic",
@@ -1527,10 +1527,10 @@
       "UI",
       "utility"
     ],
-    "LastUpdate": "1649991445",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Kapture?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Kapture?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Kapture/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Kapture?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Kapture?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Kapture/latest.zip"
   },
   {
     "Author": "Gotest",
@@ -1550,10 +1550,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1661474629",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/KingdomHeartsPlugin?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/KingdomHeartsPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/KingdomHeartsPlugin/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/KingdomHeartsPlugin?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/KingdomHeartsPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/KingdomHeartsPlugin/latest.zip"
   },
   {
     "Author": "Caraxi",
@@ -1572,10 +1572,10 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1655802063",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MacroChain?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MacroChain?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/MacroChain/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/MacroChain?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/MacroChain?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/MacroChain/latest.zip"
   },
   {
     "Disabled": false,
@@ -1606,10 +1606,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650115996",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MapLinker?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MapLinker?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/MapLinker/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/MapLinker?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/MapLinker?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/MapLinker/latest.zip"
   },
   {
     "Author": "fmauNeko",
@@ -1630,10 +1630,10 @@
       "UI",
       "inventory"
     ],
-    "LastUpdate": "1657906753",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MarketBoardPlugin?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MarketBoardPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/MarketBoardPlugin/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/MarketBoardPlugin?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/MarketBoardPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/MarketBoardPlugin/latest.zip"
   },
   {
     "Author": "RedMage1993",
@@ -1654,10 +1654,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 15388,
-    "LastUpdate": "1661404683",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MimicryHelper?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MimicryHelper?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/MimicryHelper/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/MimicryHelper?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/MimicryHelper?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/MimicryHelper/latest.zip"
   },
   {
     "Author": "Eternita",
@@ -1673,10 +1673,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 28853,
-    "LastUpdate": "1661410192",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Mini?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Mini?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Mini/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Mini?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Mini?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Mini/latest.zip"
   },
   {
     "Author": "daemitus",
@@ -1700,10 +1700,10 @@
     "CategoryTags": [
       "minigames"
     ],
-    "LastUpdate": "1649901661",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MiniCactpotSolver?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MiniCactpotSolver?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/MiniCactpotSolver/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/MiniCactpotSolver?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/MiniCactpotSolver?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/MiniCactpotSolver/latest.zip"
   },
   {
     "Author": "attick",
@@ -1726,10 +1726,10 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1651007539",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MOAction?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MOAction?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/MOAction/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/MOAction?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/MOAction?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/MOAction/latest.zip"
   },
   {
     "Author": "Marconsou",
@@ -1756,10 +1756,10 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1651958187",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MPTickBar?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MPTickBar?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/MPTickBar/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/MPTickBar?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/MPTickBar?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/MPTickBar/latest.zip"
   },
   {
     "Author": "aers, JHerig",
@@ -1772,17 +1772,17 @@
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Displays debuffs you cast on nameplates of enemies",
-    "IsHide": "True",
+    "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 34737,
     "CategoryTags": [
       "UI",
       "jobs"
     ],
-    "LastUpdate": "1650994278",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NamePlateDebuffs?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NamePlateDebuffs?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/NamePlateDebuffs/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/NamePlateDebuffs?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/NamePlateDebuffs?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/NamePlateDebuffs/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -1802,10 +1802,10 @@
       "UI",
       "jobs"
     ],
-    "LastUpdate": "1649987015",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Namingway?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Namingway?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Namingway/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Namingway?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Namingway?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Namingway/latest.zip"
   },
   {
     "Author": "kalilistic, karashiiro",
@@ -1831,10 +1831,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650062926",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NeatNoter?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NeatNoter?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/NeatNoter/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/NeatNoter?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/NeatNoter?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/NeatNoter/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -1854,10 +1854,10 @@
       "UI",
       "social"
     ],
-    "LastUpdate": "1651181668",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NoSoliciting?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NoSoliciting?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/NoSoliciting/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/NoSoliciting?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/NoSoliciting?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/NoSoliciting/latest.zip"
   },
   {
     "Author": "MidoriKami",
@@ -1880,10 +1880,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 404059,
-    "LastUpdate": "1659989019",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NoTankYou?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NoTankYou?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/NoTankYou/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/NoTankYou?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/NoTankYou?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/NoTankYou/latest.zip"
   },
   {
     "Author": "Eternita",
@@ -1903,10 +1903,10 @@
     "TestingAssemblyVersion": "2.1.0.2",
     "IsTestingExclusive": "False",
     "DownloadCount": 20733,
-    "LastUpdate": "1661403658",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NotificationMaster?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NotificationMaster?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/NotificationMaster/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/NotificationMaster?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/NotificationMaster?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/NotificationMaster/latest.zip"
   },
   {
     "Author": "Avaflow",
@@ -1920,16 +1920,16 @@
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/OopsAllLalafells/images/icon.png",
     "Punchline": "That one funny plugin your friend told you about.",
-    "IsHide": "True",
+    "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 55247,
     "CategoryTags": [
       "other"
     ],
-    "LastUpdate": "1639300451",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/OopsAllLalafells?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/OopsAllLalafells?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/OopsAllLalafells/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/OopsAllLalafells?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/OopsAllLalafells?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/OopsAllLalafells/latest.zip"
   },
   {
     "Author": "Meli & perchbird",
@@ -1946,17 +1946,17 @@
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Adds a simple front-end for browsing and changing the in-game BGM.",
-    "IsHide": "True",
+    "IsHide": "False",
     "TestingAssemblyVersion": "1.8.4.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 429884,
     "CategoryTags": [
       "sound"
     ],
-    "LastUpdate": "1652369431",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/orchestrion?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/orchestrion?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/orchestrion/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/orchestrion?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/orchestrion?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/orchestrion/latest.zip"
   },
   {
     "Author": "goat, modded by Franz",
@@ -1982,10 +1982,10 @@
     "CategoryTags": [
       "social"
     ],
-    "LastUpdate": "1649905267",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/owofy?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/owofy?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/owofy/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/owofy?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/owofy?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/owofy/latest.zip"
   },
   {
     "Author": "shdwp, Avaflow",
@@ -2011,10 +2011,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 206395,
-    "LastUpdate": "1658087250",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PartyIcons?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PartyIcons?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PartyIcons/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/PartyIcons?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/PartyIcons?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/PartyIcons/latest.zip"
   },
   {
     "Author": "MgAl2O4",
@@ -2038,10 +2038,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 127646,
-    "LastUpdate": "1653954723",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PatMe?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PatMe?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PatMe/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/PatMe?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/PatMe?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/PatMe/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -2061,10 +2061,10 @@
       "UI",
       "social"
     ],
-    "LastUpdate": "1649987015",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PeepingTom?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PeepingTom?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PeepingTom/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/PeepingTom?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/PeepingTom?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/PeepingTom/latest.zip"
   },
   {
     "Author": "tesu",
@@ -2093,10 +2093,10 @@
     "CategoryTags": [
       "inventory"
     ],
-    "LastUpdate": "1655000686",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PennyPincher?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PennyPincher?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PennyPincher/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/PennyPincher?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/PennyPincher?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/PennyPincher/latest.zip"
   },
   {
     "Author": "karashiiro",
@@ -2125,10 +2125,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1653261156",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PingPlugin?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PingPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PingPlugin/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/PingPlugin?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/PingPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/PingPlugin/latest.zip"
   },
   {
     "Author": "Haplo064",
@@ -2159,10 +2159,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1651731293",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PixelPerfect?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PixelPerfect?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PixelPerfect/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/PixelPerfect?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/PixelPerfect?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/PixelPerfect/latest.zip"
   },
   {
     "Author": "r00telement, Pilzinsel64",
@@ -2186,10 +2186,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 117903,
-    "LastUpdate": "1657825717",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PlayerTags?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PlayerTags?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PlayerTags/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/PlayerTags?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/PlayerTags?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/PlayerTags/latest.zip"
   },
   {
     "Author": "kalilistic",
@@ -2213,17 +2213,17 @@
     ],
     "IconUrl": "https://github.com/goatcorp/DalamudPlugins/blob/api6/plugins/PlayerTrack/images/icon.png",
     "Punchline": "Keep track of players you meet.",
-    "IsHide": "True",
+    "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 111899,
     "CategoryTags": [
       "social",
       "utility"
     ],
-    "LastUpdate": "1657568759",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PlayerTrack?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PlayerTrack?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PlayerTrack/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/PlayerTrack?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/PlayerTrack?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/PlayerTrack/latest.zip"
   },
   {
     "Author": "perchbird",
@@ -2242,10 +2242,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649900977",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PrefPro?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PrefPro?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PrefPro/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/PrefPro?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/PrefPro?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/PrefPro/latest.zip"
   },
   {
     "Author": "kalilistic",
@@ -2274,10 +2274,10 @@
     "CategoryTags": [
       "inventory"
     ],
-    "LastUpdate": "1654043492",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PriceCheck?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PriceCheck?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PriceCheck/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/PriceCheck?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/PriceCheck?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/PriceCheck/latest.zip"
   },
   {
     "Author": "UnknownX",
@@ -2302,10 +2302,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 126964,
-    "LastUpdate": "1657907770",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/QoLBar?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/QoLBar?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/QoLBar/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/QoLBar?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/QoLBar?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/QoLBar/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -2324,10 +2324,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649987015",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Quest Map?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Quest Map?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Quest Map/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Quest Map?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Quest Map?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Quest Map/latest.zip"
   },
   {
     "Author": "Eternita, Chalkos",
@@ -2346,10 +2346,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1652946451",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/QuestAWAY?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/QuestAWAY?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/QuestAWAY/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/QuestAWAY?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/QuestAWAY?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/QuestAWAY/latest.zip"
   },
   {
     "Author": "srkizer",
@@ -2370,10 +2370,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 3338,
-    "LastUpdate": "1650135154",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/QuoteOfTheLobby?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/QuoteOfTheLobby?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/QuoteOfTheLobby/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/QuoteOfTheLobby?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/QuoteOfTheLobby?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/QuoteOfTheLobby/latest.zip"
   },
   {
     "Author": "PunishedPineapple",
@@ -2399,10 +2399,10 @@
     "TestingAssemblyVersion": "0.9.5.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 71242,
-    "LastUpdate": "1654494610",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ReadyCheckHelper?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ReadyCheckHelper?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ReadyCheckHelper/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/ReadyCheckHelper?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/ReadyCheckHelper?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/ReadyCheckHelper/latest.zip"
   },
   {
     "Author": "Cair",
@@ -2423,10 +2423,10 @@
     "TestingAssemblyVersion": "1.0.3.1",
     "IsTestingExclusive": "False",
     "DownloadCount": 32604,
-    "LastUpdate": "1651404128",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Redirect?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Redirect?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Redirect/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Redirect?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Redirect?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Redirect/latest.zip"
   },
   {
     "Author": "Caraxi",
@@ -2445,10 +2445,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1633186612",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/RemindMe?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/RemindMe?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/RemindMe/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/RemindMe?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/RemindMe?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/RemindMe/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -2464,10 +2464,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 8365,
-    "LastUpdate": "1657056911",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/RemotePartyFinder?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/RemotePartyFinder?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/RemotePartyFinder/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/RemotePartyFinder?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/RemotePartyFinder?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/RemotePartyFinder/latest.zip"
   },
   {
     "Author": "Chalkos",
@@ -2501,10 +2501,10 @@
     "CategoryTags": [
       "inventory"
     ],
-    "LastUpdate": "1655782903",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/RepairMe?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/RepairMe?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/RepairMe/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/RepairMe?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/RepairMe?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/RepairMe/latest.zip"
   },
   {
     "Author": "akira0245",
@@ -2530,10 +2530,10 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1657229988",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Reset enmity command?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Reset enmity command?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Reset enmity command/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Reset enmity command?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Reset enmity command?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Reset enmity command/latest.zip"
   },
   {
     "Author": "Ottermandias",
@@ -2565,10 +2565,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650020213",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/RezPls?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/RezPls?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/RezPls/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/RezPls?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/RezPls?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/RezPls/latest.zip"
   },
   {
     "Author": "kalilistic",
@@ -2597,10 +2597,10 @@
       "other",
       "social"
     ],
-    "LastUpdate": "1650060667",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SillyChat?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SillyChat?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SillyChat/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/SillyChat?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/SillyChat?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/SillyChat/latest.zip"
   },
   {
     "Author": "Caraxi",
@@ -2613,7 +2613,7 @@
     "DalamudApiLevel": 7,
     "LoadPriority": 0,
     "Punchline": "This was supposed to be simple...",
-    "IsHide": "True",
+    "IsHide": "False",
     "TestingAssemblyVersion": "0.1.4.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 2948362,
@@ -2623,10 +2623,10 @@
       "utility",
       "social"
     ],
-    "LastUpdate": "1661769313",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SimpleTweaksPlugin?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SimpleTweaksPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SimpleTweaksPlugin/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/SimpleTweaksPlugin?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/SimpleTweaksPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/SimpleTweaksPlugin/latest.zip"
   },
   {
     "Author": "ocealot",
@@ -2648,10 +2648,10 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1650554788",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SkillSwap?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SkillSwap?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SkillSwap/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/SkillSwap?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/SkillSwap?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/SkillSwap/latest.zip"
   },
   {
     "Author": "Haplo064",
@@ -2670,16 +2670,16 @@
     "AssemblyVersion": "0.7.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 3,
-    "IsHide": "True",
+    "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 46951,
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1618376375",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SlideCast?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SlideCast?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SlideCast/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/SlideCast?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/SlideCast?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/SlideCast/latest.zip"
   },
   {
     "Author": "Vielle Janlenoux",
@@ -2703,10 +2703,10 @@
     "TestingAssemblyVersion": "0.2.0.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 16986,
-    "LastUpdate": "1652513829",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Snooper?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Snooper?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Snooper/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Snooper?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Snooper?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Snooper/latest.zip"
   },
   {
     "Author": "Sonar Team",
@@ -2749,10 +2749,10 @@
     "TestingAssemblyVersion": "0.1.0.11",
     "IsTestingExclusive": "False",
     "DownloadCount": 329243,
-    "LastUpdate": "1673986386",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SonarPlugin/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/SonarPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/SonarPlugin/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -2771,10 +2771,10 @@
     "CategoryTags": [
       "sound"
     ],
-    "LastUpdate": "1649987015",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SoundFilter?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SoundFilter?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SoundFilter/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/SoundFilter?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/SoundFilter?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/SoundFilter/latest.zip"
   },
   {
     "Author": "karashiiro",
@@ -2799,10 +2799,10 @@
     "CategoryTags": [
       "sound"
     ],
-    "LastUpdate": "1652393447",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SoundSetter?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SoundSetter?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SoundSetter/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/SoundSetter?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/SoundSetter?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/SoundSetter/latest.zip"
   },
   {
     "Author": "VariableVixen",
@@ -2819,10 +2819,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 11389,
-    "LastUpdate": "1655508212",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/StackSellPrice?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/StackSellPrice?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/StackSellPrice/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/StackSellPrice?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/StackSellPrice?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/StackSellPrice/latest.zip"
   },
   {
     "Author": "Pohky",
@@ -2842,10 +2842,10 @@
       "UI",
       "utility"
     ],
-    "LastUpdate": "1652728705",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TeleporterPlugin?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TeleporterPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TeleporterPlugin/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/TeleporterPlugin?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/TeleporterPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/TeleporterPlugin/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -2864,10 +2864,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649987015",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TextBoxStyler?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TextBoxStyler?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TextBoxStyler/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/TextBoxStyler?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/TextBoxStyler?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/TextBoxStyler/latest.zip"
   },
   {
     "Author": "karashiiro",
@@ -2895,10 +2895,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1656041930",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TextToTalk?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TextToTalk?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TextToTalk/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/TextToTalk?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/TextToTalk?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/TextToTalk/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -2917,10 +2917,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649987015",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TheGreatSeparator?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TheGreatSeparator?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TheGreatSeparator/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/TheGreatSeparator?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/TheGreatSeparator?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/TheGreatSeparator/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -2936,10 +2936,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 6193,
-    "LastUpdate": "1650234200",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TheHeartOfTheParty?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TheHeartOfTheParty?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TheHeartOfTheParty/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/TheHeartOfTheParty?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/TheHeartOfTheParty?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/TheHeartOfTheParty/latest.zip"
   },
   {
     "Author": "Nadya",
@@ -2964,10 +2964,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 70931,
-    "LastUpdate": "1657996787",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TidyChat?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TidyChat?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TidyChat/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/TidyChat?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/TidyChat?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/TidyChat/latest.zip"
   },
   {
     "Author": "kalilistic",
@@ -2983,10 +2983,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 13296,
-    "LastUpdate": "1654046726",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Tippy?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Tippy?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Tippy/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Tippy?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Tippy?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Tippy/latest.zip"
   },
   {
     "Author": "attick & perchbird",
@@ -3007,10 +3007,10 @@
       "UI",
       "utility"
     ],
-    "LastUpdate": "1657734560",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TitleEdit?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TitleEdit?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TitleEdit/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/TitleEdit?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/TitleEdit?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/TitleEdit/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -3023,17 +3023,17 @@
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Finish your sightseeing log.",
-    "IsHide": "True",
+    "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 133023,
     "CategoryTags": [
       "UI",
       "utility"
     ],
-    "LastUpdate": "1650157384",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Tourist?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Tourist?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Tourist/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Tourist?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Tourist?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Tourist/latest.zip"
   },
   {
     "Author": "Tischel",
@@ -3053,10 +3053,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 78364,
-    "LastUpdate": "1658101831",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TPie?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TPie?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TPie/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/TPie?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/TPie?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/TPie/latest.zip"
   },
   {
     "Author": "MgAl2O4",
@@ -3086,10 +3086,10 @@
     "CategoryTags": [
       "minigames"
     ],
-    "LastUpdate": "1650907663",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TriadBuddy?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TriadBuddy?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TriadBuddy/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/TriadBuddy?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/TriadBuddy?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/TriadBuddy/latest.zip"
   },
   {
     "Author": "ocealot",
@@ -3112,10 +3112,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1658965453",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/VFXEditor?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/VFXEditor?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/VFXEditor/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/VFXEditor?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/VFXEditor?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/VFXEditor/latest.zip"
   },
   {
     "Author": "Dragon",
@@ -3144,10 +3144,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650025085",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Visibility?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Visibility?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Visibility/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Visibility?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Visibility?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Visibility/latest.zip"
   },
   {
     "Author": "Haplo064",
@@ -3170,10 +3170,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1594726916",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/VoidList?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/VoidList?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/VoidList/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/VoidList?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/VoidList?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/VoidList/latest.zip"
   },
   {
     "Author": "Avaflow",
@@ -3193,10 +3193,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 10984,
-    "LastUpdate": "1649924890",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Waitingway.Dalamud?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Waitingway.Dalamud?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Waitingway.Dalamud/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Waitingway.Dalamud?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Waitingway.Dalamud?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Waitingway.Dalamud/latest.zip"
   },
   {
     "Author": "PunishedPineapple",
@@ -3227,10 +3227,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1658965447",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WaymarkPresetPlugin?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WaymarkPresetPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/WaymarkPresetPlugin/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/WaymarkPresetPlugin?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/WaymarkPresetPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/WaymarkPresetPlugin/latest.zip"
   },
   {
     "Author": "Eternita",
@@ -3246,10 +3246,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 45063,
-    "LastUpdate": "1659330161",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Weatherman?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Weatherman?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Weatherman/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Weatherman?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Weatherman?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Weatherman/latest.zip"
   },
   {
     "Author": "PunishedPineapple",
@@ -3274,10 +3274,10 @@
     "TestingAssemblyVersion": "0.9.3.0",
     "IsTestingExclusive": "False",
     "DownloadCount": 19775,
-    "LastUpdate": "1657062356",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WhatDidYouSay?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WhatDidYouSay?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/WhatDidYouSay/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/WhatDidYouSay?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/WhatDidYouSay?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/WhatDidYouSay/latest.zip"
   },
   {
     "Author": "Haplo064, maintained by Franz",
@@ -3301,10 +3301,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 24798,
-    "LastUpdate": "1649905267",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WheresWOLdo?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WheresWOLdo?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/WheresWOLdo/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/WheresWOLdo?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/WheresWOLdo?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/WheresWOLdo/latest.zip"
   },
   {
     "Author": "Azure Gem",
@@ -3321,10 +3321,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1649969323",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WinTitle?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WinTitle?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/WinTitle/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/WinTitle?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/WinTitle?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/WinTitle/latest.zip"
   },
   {
     "Author": "daemitus",
@@ -3347,10 +3347,10 @@
     "CategoryTags": [
       "minigames"
     ],
-    "LastUpdate": "1649968540",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WondrousTailsSolver?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WondrousTailsSolver?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/WondrousTailsSolver/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/WondrousTailsSolver?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/WondrousTailsSolver?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/WondrousTailsSolver/latest.zip"
   },
   {
     "Author": "Lady Defile",
@@ -3372,10 +3372,10 @@
     "TestingAssemblyVersion": "1.3.5",
     "IsTestingExclusive": "False",
     "DownloadCount": 70586,
-    "LastUpdate": "1658684862",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Wordsmith?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Wordsmith?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Wordsmith/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Wordsmith?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Wordsmith?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Wordsmith/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -3393,10 +3393,10 @@
     "CategoryTags": [
       "social"
     ],
-    "LastUpdate": "1651160616",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/XIVChat?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/XIVChat?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/XIVChat/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/XIVChat?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/XIVChat?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/XIVChat/latest.zip"
   },
   {
     "Author": "attick",
@@ -3412,16 +3412,16 @@
     ],
     "AcceptsFeedback": false,
     "DalamudApiLevel": 6,
-    "IsHide": "True",
+    "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 396272,
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1650050604",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/XIVCombo?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/XIVCombo?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/XIVCombo/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/XIVCombo?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/XIVCombo?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/XIVCombo/latest.zip"
   },
   {
     "Author": "Kaz Wolfe",
@@ -3447,10 +3447,10 @@
     "TestingAssemblyVersion": "0.2.9",
     "IsTestingExclusive": "False",
     "DownloadCount": 22672,
-    "LastUpdate": "1656728272",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/XIVDeck.FFXIVPlugin?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/XIVDeck.FFXIVPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/XIVDeck.FFXIVPlugin/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/XIVDeck.FFXIVPlugin?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/XIVDeck.FFXIVPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/XIVDeck.FFXIVPlugin/latest.zip"
   },
   {
     "Author": "Cadaeix",
@@ -3476,10 +3476,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650074147",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/XIVLogger?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/XIVLogger?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/XIVLogger/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/XIVLogger?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/XIVLogger?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/XIVLogger/latest.zip"
   },
   {
     "Author": "daemitus, hiroa",
@@ -3496,10 +3496,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 186632,
-    "LastUpdate": "1659330146",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ZodiacBuddy?isUpdate=False&isTesting=False&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ZodiacBuddy?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ZodiacBuddy/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/ZodiacBuddy?isUpdate=False&isTesting=False&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/ZodiacBuddy?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/ZodiacBuddy/latest.zip"
   },
   {
     "Author": "Left",
@@ -3519,10 +3519,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.0.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1633893198",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ACTEndcounter?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ACTEndcounter?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ACTEndcounter/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/ACTEndcounter?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/ACTEndcounter?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/ACTEndcounter/latest.zip"
   },
   {
     "Author": "yomishino",
@@ -3548,10 +3548,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.4.3.2",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1661521183",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AetherCompass?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AetherCompass?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AetherCompass/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/AetherCompass?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/AetherCompass?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/AetherCompass/latest.zip"
   },
   {
     "Author": "UnknownX",
@@ -3576,10 +3576,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.4.1.1",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1657734539",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ARealmRecorded?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ARealmRecorded?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ARealmRecorded/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/ARealmRecorded?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/ARealmRecorded?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/ARealmRecorded/latest.zip"
   },
   {
     "Author": "Icehunter",
@@ -3597,10 +3597,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.0.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1649918622",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/AutoTranslateXIV?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/AutoTranslateXIV?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/AutoTranslateXIV/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/AutoTranslateXIV?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/AutoTranslateXIV?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/AutoTranslateXIV/latest.zip"
   },
   {
     "Author": "Kaz Wolfe",
@@ -3624,10 +3624,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.0.2.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1649909331",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/BatteryGauge?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/BatteryGauge?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/BatteryGauge/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/BatteryGauge?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/BatteryGauge?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/BatteryGauge/latest.zip"
   },
   {
     "Author": "Sl0nderman",
@@ -3653,10 +3653,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.1.0.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1643593973",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/BlueMageHelper?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/BlueMageHelper?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/BlueMageHelper/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/BlueMageHelper?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/BlueMageHelper?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/BlueMageHelper/latest.zip"
   },
   {
     "Author": "Kouzukii",
@@ -3673,14 +3673,14 @@
       "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/image2.png"
     ],
     "IconUrl": "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/icon.png",
-    "IsHide": "True",
+    "IsHide": "False",
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.1.1.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1652131874",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/CharacterPanelRefined?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/CharacterPanelRefined?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/CharacterPanelRefined/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/CharacterPanelRefined?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/CharacterPanelRefined?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/CharacterPanelRefined/latest.zip"
   },
   {
     "Author": "Azure Gem",
@@ -3713,10 +3713,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.1.0.2",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1634803020",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/CharSyncPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/CharSyncPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/CharSyncPlugin/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/CharSyncPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/CharSyncPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/CharSyncPlugin/latest.zip"
   },
   {
     "Author": "Arrest Everybody",
@@ -3732,10 +3732,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.0.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1642086708",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatEmoteColor?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatEmoteColor?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChatEmoteColor/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/ChatEmoteColor?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/ChatEmoteColor?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/ChatEmoteColor/latest.zip"
   },
   {
     "Author": "Haplo064",
@@ -3756,17 +3756,17 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 5,
     "LoadPriority": 100,
-    "IsHide": "True",
+    "IsHide": "False",
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.2.1.0",
     "IsTestingExclusive": "True",
     "CategoryTags": [
       "social"
     ],
-    "LastUpdate": "1639446947",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatTranslator?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatTranslator?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ChatTranslator/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/ChatTranslator?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/ChatTranslator?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/ChatTranslator/latest.zip"
   },
   {
     "Author": "Aelexe",
@@ -3791,10 +3791,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.0.1.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1659103149",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/CoinPouch?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/CoinPouch?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/CoinPouch/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/CoinPouch?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/CoinPouch?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/CoinPouch/latest.zip"
   },
   {
     "Author": "ItsBexy",
@@ -3807,14 +3807,14 @@
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Customize the Cross Hotbar!",
-    "IsHide": "True",
+    "IsHide": "False",
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.3.2.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1654978399",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/CrossUp?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/CrossUp?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/CrossUp/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/CrossUp?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/CrossUp?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/CrossUp/latest.zip"
   },
   {
     "Author": "goat",
@@ -3836,10 +3836,10 @@
     "CategoryTags": [
       "utility"
     ],
-    "LastUpdate": "1650832842",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Dalamud.CharacterSync?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Dalamud.CharacterSync?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Dalamud.CharacterSync/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Dalamud.CharacterSync?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Dalamud.CharacterSync?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Dalamud.CharacterSync/latest.zip"
   },
   {
     "Author": "Infi",
@@ -3864,10 +3864,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.0.3.1",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1658472720",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DeathRoll?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DeathRoll?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DeathRoll/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/DeathRoll?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/DeathRoll?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/DeathRoll/latest.zip"
   },
   {
     "Author": "iamevn",
@@ -3884,10 +3884,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.1.1.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1658472613",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/DomanMahjongStatus?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/DomanMahjongStatus?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/DomanMahjongStatus/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/DomanMahjongStatus?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/DomanMahjongStatus?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/DomanMahjongStatus/latest.zip"
   },
   {
     "Author": "Roselyn",
@@ -3910,10 +3910,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.0.0.4",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1653252844",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/EldenRing?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/EldenRing?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/EldenRing/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/EldenRing?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/EldenRing?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/EldenRing/latest.zip"
   },
   {
     "Author": "BiscuitUmU, Kazumi",
@@ -3932,10 +3932,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1650030540",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/FantasyPlayer.Dalamud?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/FantasyPlayer.Dalamud?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/FantasyPlayer.Dalamud/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/FantasyPlayer.Dalamud?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/FantasyPlayer.Dalamud?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/FantasyPlayer.Dalamud/latest.zip"
   },
   {
     "Author": "Khloe Leclair",
@@ -3964,10 +3964,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.5.0.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1651788536",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/GearsetHelperPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/GearsetHelperPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/GearsetHelperPlugin/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/GearsetHelperPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/GearsetHelperPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/GearsetHelperPlugin/latest.zip"
   },
   {
     "Author": "Fr4nsson",
@@ -3985,10 +3985,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.3.0.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1641897544",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/HidePadlock?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/HidePadlock?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/HidePadlock/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/HidePadlock?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/HidePadlock?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/HidePadlock/latest.zip"
   },
   {
     "Author": "Kirrana",
@@ -4010,10 +4010,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.6.2.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1661560852",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/HighFpsPhysicsPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/HighFpsPhysicsPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/HighFpsPhysicsPlugin/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/HighFpsPhysicsPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/HighFpsPhysicsPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/HighFpsPhysicsPlugin/latest.zip"
   },
   {
     "Author": "Necoji (prev. ascclemens)",
@@ -4026,14 +4026,14 @@
     "DalamudApiLevel": 7,
     "LoadPriority": 0,
     "Punchline": "Take total control over your HUD.",
-    "IsHide": "True",
+    "IsHide": "False",
     "DownloadCount": 0,
     "TestingAssemblyVersion": "2.5.7.1",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1661404636",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/HUDManager?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/HUDManager?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/HUDManager/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/HUDManager?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/HUDManager?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/HUDManager/latest.zip"
   },
   {
     "Author": "Dragon",
@@ -4051,14 +4051,14 @@
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Helps you track your daily hunt bills",
-    "IsHide": "True",
+    "IsHide": "False",
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.9.1.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1656718993",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/HuntBuddy?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/HuntBuddy?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/HuntBuddy/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/HuntBuddy?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/HuntBuddy?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/HuntBuddy/latest.zip"
   },
   {
     "Author": "Tischel",
@@ -4075,14 +4075,14 @@
     "LoadPriority": 0,
     "Punchline": "Adds a search bar directly in the inventory window to filter items.",
     "Changelog": "0.2.0.0\n- Fixed the search bar being visible on windows that aren't focused which could lead to bad visual overlaps with other windows.\n- Fixed not being able to close the inventory windows with the Escape key after focusing on the search bar.",
-    "IsHide": "True",
+    "IsHide": "False",
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.2.0.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1659210390",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/InventorySearchBar?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/InventorySearchBar?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/InventorySearchBar/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/InventorySearchBar?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/InventorySearchBar?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/InventorySearchBar/latest.zip"
   },
   {
     "Author": "electr0sheep",
@@ -4104,10 +4104,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.0.0.4",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1650249295",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ItemVendorLocation?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ItemVendorLocation?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ItemVendorLocation/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/ItemVendorLocation?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/ItemVendorLocation?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/ItemVendorLocation/latest.zip"
   },
   {
     "Author": "BitsOfAByte",
@@ -4125,14 +4125,14 @@
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "The ultimate guidebook for in-game duties, great for daily roulettes!",
-    "IsHide": "True",
+    "IsHide": "False",
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.1.3.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1659758606",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/KikoGuide?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/KikoGuide?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/KikoGuide/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/KikoGuide?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/KikoGuide?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/KikoGuide/latest.zip"
   },
   {
     "Author": "Infi",
@@ -4156,10 +4156,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.0.3.1",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1657229937",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MBHistory?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MBHistory?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/MBHistory/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/MBHistory?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/MBHistory?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/MBHistory/latest.zip"
   },
   {
     "Author": "Eternita",
@@ -4177,10 +4177,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.2.0.1",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1660544887",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Messenger?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Messenger?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Messenger/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Messenger?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Messenger?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Messenger/latest.zip"
   },
   {
     "Author": "Samuelka",
@@ -4193,14 +4193,14 @@
     "LoadPriority": 0,
     "Punchline": "Plugin for track collected mounts",
     "Description": "A plugin allows you to track received mounts by character.",
-    "IsHide": "True",
+    "IsHide": "False",
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.1.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1645888580",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MountCollectioner?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MountCollectioner?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/MountCollectioner/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/MountCollectioner?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/MountCollectioner?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/MountCollectioner/latest.zip"
   },
   {
     "Author": "Gotest",
@@ -4222,10 +4222,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.0.1.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1636336392",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MouseTargetTooltip?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MouseTargetTooltip?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/MouseTargetTooltip/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/MouseTargetTooltip?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/MouseTargetTooltip?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/MouseTargetTooltip/latest.zip"
   },
   {
     "Author": "Talim",
@@ -4249,10 +4249,10 @@
     "CategoryTags": [
       "jobs"
     ],
-    "LastUpdate": "1629050803",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/MPTimer?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/MPTimer?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/MPTimer/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/MPTimer?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/MPTimer?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/MPTimer/latest.zip"
   },
   {
     "Author": "Meisterlala",
@@ -4280,10 +4280,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.7.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1659757926",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Neko?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Neko?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/Neko/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/Neko?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/Neko?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/Neko/latest.zip"
   },
   {
     "Author": "Kaminaris",
@@ -4304,10 +4304,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "6.11.0.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1651005408",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NextUIPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NextUIPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/NextUIPlugin/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/NextUIPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/NextUIPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/NextUIPlugin/latest.zip"
   },
   {
     "Author": "Bluefissure",
@@ -4325,10 +4325,10 @@
     "CategoryTags": [
       "other"
     ],
-    "LastUpdate": "1652153257",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/NoKillPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/NoKillPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/NoKillPlugin/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/NoKillPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/NoKillPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/NoKillPlugin/latest.zip"
   },
   {
     "Author": "Bluefissure",
@@ -4349,10 +4349,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.1.2",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1650418291",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/OBSPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/OBSPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/OBSPlugin/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/OBSPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/OBSPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/OBSPlugin/latest.zip"
   },
   {
     "Author": "Sl0nderman",
@@ -4381,10 +4381,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "2.2.0.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1639505750",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/OceanFishin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/OceanFishin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/OceanFishin/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/OceanFishin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/OceanFishin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/OceanFishin/latest.zip"
   },
   {
     "Author": "darkarchon",
@@ -4406,10 +4406,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.0.21.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1658604828",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/OhGeeCD?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/OhGeeCD?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/OhGeeCD/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/OhGeeCD?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/OhGeeCD?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/OhGeeCD/latest.zip"
   },
   {
     "Author": "Caraxi",
@@ -4429,10 +4429,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1658016445",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/PartyListLayout?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/PartyListLayout?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/PartyListLayout/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/PartyListLayout?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/PartyListLayout?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/PartyListLayout/latest.zip"
   },
   {
     "Author": "Sevii",
@@ -4456,10 +4456,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.3.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1651002342",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ProperHousing?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ProperHousing?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ProperHousing/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/ProperHousing?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/ProperHousing?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/ProperHousing/latest.zip"
   },
   {
     "Author": "srkizer",
@@ -4480,10 +4480,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.0.4",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1650960451",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ResetAudio?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ResetAudio?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ResetAudio/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/ResetAudio?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/ResetAudio?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/ResetAudio/latest.zip"
   },
   {
     "Author": "perchbird",
@@ -4499,10 +4499,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.0.1.4",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1649899806",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ResLogger2.Plugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ResLogger2.Plugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/ResLogger2.Plugin/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/ResLogger2.Plugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/ResLogger2.Plugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/ResLogger2.Plugin/latest.zip"
   },
   {
     "Author": "Dragon",
@@ -4521,10 +4521,10 @@
     "CategoryTags": [
       "UI"
     ],
-    "LastUpdate": "1635806954",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SideHUDPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SideHUDPlugin?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SideHUDPlugin/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/SideHUDPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/SideHUDPlugin?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/SideHUDPlugin/latest.zip"
   },
   {
     "Author": "rennerdo30",
@@ -4545,10 +4545,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.0.0.3",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1645046793",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SimpleCompare?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SimpleCompare?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SimpleCompare/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/SimpleCompare?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/SimpleCompare?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/SimpleCompare/latest.zip"
   },
   {
     "Author": "joshua.software.dev",
@@ -4566,10 +4566,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.0.1",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1644444142",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SizeMattersFishing?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SizeMattersFishing?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SizeMattersFishing/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/SizeMattersFishing?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/SizeMattersFishing?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/SizeMattersFishing/latest.zip"
   },
   {
     "Author": "wozaiha",
@@ -4591,10 +4591,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.0.0.5",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1653050971",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SkillDisplay?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SkillDisplay?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SkillDisplay/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/SkillDisplay?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/SkillDisplay?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/SkillDisplay/latest.zip"
   },
   {
     "Author": "SupineSnail (Tinuviel)",
@@ -4611,10 +4611,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.4.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1650078538",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/SupineSnail.JobGaugeAdjustments?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/SupineSnail.JobGaugeAdjustments?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/SupineSnail.JobGaugeAdjustments/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/SupineSnail.JobGaugeAdjustments?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/SupineSnail.JobGaugeAdjustments?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/SupineSnail.JobGaugeAdjustments/latest.zip"
   },
   {
     "Author": "Avaflow",
@@ -4635,10 +4635,10 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.1.0",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1618383582",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TabTab?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TabTab?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TabTab/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/TabTab?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/TabTab?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/TabTab/latest.zip"
   },
   {
     "Author": "Det",
@@ -4663,14 +4663,14 @@
     "IconUrl": "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/icon.png",
     "Punchline": "Adds an option that lets you Select/Move a housing item from the Housing Menu",
     "Changelog": "Added new icon (Ty Vec7rex)",
-    "IsHide": "True",
+    "IsHide": "False",
     "DownloadCount": 0,
     "TestingAssemblyVersion": "1.0.1.3",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1655258476",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/TargetFurniture?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/TargetFurniture?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/TargetFurniture/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/TargetFurniture?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/TargetFurniture?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/TargetFurniture/latest.zip"
   },
   {
     "Author": "cassandra308",
@@ -4698,9 +4698,9 @@
     "DownloadCount": 0,
     "TestingAssemblyVersion": "0.0.0.10",
     "IsTestingExclusive": "True",
-    "LastUpdate": "1655762872",
-    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/WhereAmIAgain?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/WhereAmIAgain?isUpdate=False&isTesting=True&branch=api6",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/plugins/WhereAmIAgain/latest.zip"
+    "LastUpdate": "1683456677",
+    "DownloadLinkInstall": "https://dohwacorp.github.io/Plugin/Download/WhereAmIAgain?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkTesting": "https://dohwacorp.github.io/Plugin/Download/WhereAmIAgain?isUpdate=False&isTesting=True&branch=api6",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/plugins/WhereAmIAgain/latest.zip"
   }
 ]
