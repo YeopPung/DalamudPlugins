@@ -30,7 +30,7 @@ jobs:
         git commit -m "Update download counts"
     - name: Push changes
       continue-on-error: true
-      uses: ad-m/github-push-action@master
+      uses: ad-m/github-push-action@main
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ steps.extract_branch.outputs.branch }}
