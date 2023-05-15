@@ -20,7 +20,8 @@ jobs:
     - uses: actions/checkout@v1
     - name: Update download counts
       run: |
-        wget -O downloadcounts.json https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/downloadcounts.json
+        # wget -O downloadcounts.json https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/downloadcounts.json
+        wget -O downloadcounts.json https://jjae.xyz/Plugin/DownloadCounts
     - name: Commit files
       continue-on-error: true
       run: |
