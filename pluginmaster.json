@@ -78,7 +78,7 @@
 		"CategoryTags":null,
 		"IsHide":false,
 		"InternalName":"Dalamud.DiscordBridge",
-		"AssemblyVersion":"1.4.1.0",
+		"AssemblyVersion":"1.4.3.0",
 		"TestingAssemblyVersion":null,
 		"IsTestingExclusive":false,
 		"RepoUrl":"https://github.com/reiichi001/Dalamud.DiscordBridge",
