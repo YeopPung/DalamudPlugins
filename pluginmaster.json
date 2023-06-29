@@ -163,6 +163,50 @@
     "_Dip17Channel":"stable"
   },
   {
+    "Author":"Xorus",
+    "Name":"EngageTimer",
+    "Punchline":"초읽기 플러그인",
+    "Description":"초읽기 플러그인\n\n기능들 :\n- 커다란 초읽기\n- 커스텀 가능한 숫자 (기본, 노랑, WoW 스타일 또는 커스텀 파일)\n- 서버 정보 바, 또 다른 창에 전투 시간 표시\n- 초읽기와 현재 전투 시간에 대한 OBS 브라우저 소스 지원\n\n녹화할 때 OBS가 필요할지도 모르잖아요?",
+    "Changelog":"-",
+    "Tags":[
+      "countdown",
+      "pull timer",
+      "stopwatch",
+      "OBS",
+      "overlay",
+      "streaming",
+      "combat"
+    ],
+    "CategoryTags":[
+      "jobs"
+    ],
+    "IsHide":false,
+    "InternalName":"EngageTimer",
+    "AssemblyVersion":"2.2.5.2",
+    "TestingAssemblyVersion":null,
+    "IsTestingExclusive":false,
+    "RepoUrl":"https://github.com/xorus/EngageTimer",
+    "ApplicableVersion":"any",
+    "DalamudApiLevel":8,
+    "DownloadCount":409456,
+    "LastUpdate":1675631580,
+    "DownloadLinkInstall":"https://raw.githubusercontent.com/dohwacorp/DalamudKRPlugins/main/stable/EngageTimer/latest.zip",
+    "DownloadLinkUpdate":"https://raw.githubusercontent.com/dohwacorp/DalamudKRPlugins/main/stable/EngageTimer/latest.zip",
+    "DownloadLinkTesting":"https://raw.githubusercontent.com/dohwacorp/DalamudKRPlugins/main/stable/EngageTimer/latest.zip",
+    "LoadPriority":0,
+    "ImageUrls":[
+      "https://raw.githubusercontent.com/dohwacorp/DalamudKRPlugins/main/stable/EngageTimer/images/image1.png",
+      "https://raw.githubusercontent.com/dohwacorp/DalamudKRPlugins/main/stable/EngageTimer/images/image2.png",
+      "https://raw.githubusercontent.com/dohwacorp/DalamudKRPlugins/main/stable/EngageTimer/images/image3.png"
+    ],
+    "IconUrl":"https://raw.githubusercontent.com/dohwacorp/DalamudKRPlugins/main/stable/EngageTimer/images/icon.png",
+    "AcceptsFeedback":true,
+    "FeedbackMessage":null,
+    "FeedbackWebhook":null,
+    "_isDip17Plugin":true,
+    "_Dip17Channel":"stable"
+  },
+  {
     "Author":"ascclemens",
     "Name":"Glamaholic",
     "Punchline":"플러그인으로 저장하는 투영 세트.",
