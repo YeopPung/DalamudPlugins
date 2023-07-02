@@ -483,6 +483,38 @@
     "_Dip17Channel":"stable"
   },
 	{
+		"Author":"electr0sheep",
+		"Name":"Item Vendor Location",
+		"Punchline":"아이템 판매 위치 알려주는 플러그인",
+		"Description":"Adds a context menu option for items that will show you where to find items you can buy off a vendor",
+		"Changelog":"-",
+		"Tags": [
+			"vendor plugin item"
+		],
+		"CategoryTags":null,
+		"IsHide":false,
+		"InternalName":"ItemVendorLocation",
+		"AssemblyVersion":"2.2.0.1",
+		"TestingAssemblyVersion":null,
+		"IsTestingExclusive":false,
+		"RepoUrl": "https://github.com/electr0sheep/ItemVendorLocation",
+		"ApplicableVersion":"any",
+		"DalamudApiLevel":8,
+		"DownloadCount":203476,
+		"LastUpdate":1679699527,
+		"DownloadLinkInstall":"https://raw.githubusercontent.com/dohwacorp/DalamudKRPlugins/main/stable/ItemVendorLocation/latest.zip",
+		"DownloadLinkUpdate":"https://raw.githubusercontent.com/dohwacorp/DalamudKRPlugins/main/stable/ItemVendorLocation/latest.zip",
+		"DownloadLinkTesting":"https://raw.githubusercontent.com/dohwacorp/DalamudKRPlugins/main/stable/ItemVendorLocation/latest.zip",
+		"LoadPriority":0,
+		"ImageUrls":null,
+		"IconUrl":"https://raw.githubusercontent.com/dohwacorp/DalamudKRPlugins/main/stable/ItemVendorLocation/images/icon.png",
+		"AcceptsFeedback":true,
+		"FeedbackMessage":null,
+		"FeedbackWebhook":null,
+		"_isDip17Plugin":true,
+		"_Dip17Channel":"stable"
+	},
+	{
 		"Author": "Chirp",
 		"Name": "Ktisis",
 		"Punchline": "A robust posing tool for creating screenshots in GPose.",
