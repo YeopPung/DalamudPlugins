@@ -594,6 +594,35 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/GatherBuddy/latest.zip"
   },
   {
+    "Author": "Kirrana",
+    "Name": "High FPS Physics Fix",
+    "InternalName": "HighFpsPhysicsPlugin",
+    "AssemblyVersion": "7.2.0.0",
+    "Description": "Causes the game's physics to work at higher FPS by making it update every few frames. \nToggle with '/physics t', or use on/off instead of t. \nMay cause excessive jiggling at lower FPS values. \nDisabling the entire plugin after turning on/off with /physics requires reboot to reenable.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Kirrana/xivlauncher_physics_plugin",
+    "Tags": [
+      "plugin",
+      "jank",
+      "graphics"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Reduces the refresh rate of movement physics, \"fixing\" it at high fps.",
+    "AcceptsFeedback": true,
+    "IsHide": "False",
+    "TestingAssemblyVersion": "0.6.2.0",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 17980,
+    "LastUpdate": "1698776381",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/HighFpsPhysicsPlugin/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/HighFpsPhysicsPlugin/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/HighFpsPhysicsPlugin/latest.zip"
+  },
+  {
     "Author": "Tischel",
     "Name": "Inventory Search Bar",
     "InternalName": "InventorySearchBar",
@@ -1855,31 +1884,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/HidePadlock/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/HidePadlock/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/HidePadlock/latest.zip"
-  },
-  {
-    "Author": "Kirrana",
-    "Name": "High FPS Physics Fix",
-    "InternalName": "HighFpsPhysicsPlugin",
-    "AssemblyVersion": "0.6.2.0",
-    "Description": "Causes the game's physics to work at higher FPS by making it update every second frame. \nToggle with /physics. \nMay cause excessive jiggling at lower FPS values. \nDisabling the entire plugin after turning on/off with /physics requires reboot to reenable.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Kirrana/xivlauncher_physics_plugin",
-    "Tags": [
-      "plugin",
-      "jank",
-      "graphics"
-    ],
-    "DalamudApiLevel": 7,
-    "LoadPriority": 0,
-    "Punchline": "Cuts the refresh rate of physics in half, \"fixing\" it at high fps.",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.6.2.0",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1683456677",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/HighFpsPhysicsPlugin/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/HighFpsPhysicsPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/HighFpsPhysicsPlugin/latest.zip"
   },
   {
     "Author": "Necoji (prev. ascclemens)",
