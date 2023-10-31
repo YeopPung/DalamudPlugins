@@ -6,15 +6,14 @@ $notInclude = "sdgfdsgfgdfs", "sdfgdfg", "XIVStats", "bffbbf", "VoidList", "asdf
 $counts = Get-Content "downloadcounts.json" | ConvertFrom-Json
 $categoryFallbacksMap = Get-Content "categoryfallbacks.json" | ConvertFrom-Json
 
-$pluginBlacklistUrl = "https://dohwacorp.github.io/DalamudAssets/UIRes/bannedplugin.json"
+$pluginBlacklistUrl = "https://raw.githubusercontent.com/dohwacorp/DalamudAssets/main/UIRes/bannedplugin.json"
 
 $wc = New-Object system.Net.WebClient
 $blackList = $wc.downloadString($pluginBlacklistUrl) | ConvertFrom-Json
 
-$dlTemplateInstall = "https://dohwacorp.github.io/Plugin/Download/{0}?isUpdate=False&isTesting={1}&branch=api6"
-$dlTemplateUpdate = "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/api6/{0}/{1}/latest.zip"
-
-$apiLevel = 6
+$dlTemplateInstall = "https://github.com/dohwacorp/DalamudPlugins/raw/main/stable/{0}/latest.zip"
+$dlTemplateUpdate = "https://github.com/dohwacorp/DalamudPlugins/raw/main/stable/{0}/latest.zip"
+$apiLevel = 8
 
 $thisPath = Get-Location
 
