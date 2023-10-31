@@ -1,0 +1,23 @@
+{
+  "Author": "MidoriKami",
+  "Name": "Daily Duty",
+  "InternalName": "DailyDuty",
+  "AssemblyVersion": "4.0.3.4",
+  "Description": "Automatically track and complete many daily and weekly tasks.\n\n/dd help → Display all available commands",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/MidoriKami/DailyDuty",
+  "Tags": [
+    "utility"
+  ],
+  "CategoryTags": [
+    "Utility",
+    "Other"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Easily Track Daily and Weekly tasks",
+  "AcceptsFeedback": false
+}
