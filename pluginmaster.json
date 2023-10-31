@@ -35,6 +35,47 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Accountant/latest.zip"
   },
   {
+    "Author": "PunishedPineapple",
+    "Name": "Distance",
+    "InternalName": "Distance",
+    "AssemblyVersion": "1.0.1.3",
+    "Description": "Displays the distance in yalms to the target (or optionally to the target's ring), and can display distance until aggro range for supported bosses.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/PunishedPineapple/Distance",
+    "Tags": [
+      "Distance",
+      "Range",
+      "Aggro",
+      "Enmity",
+      "Hate",
+      "Pull",
+      "Hitbox",
+      "Ring",
+      "Target"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/image1.png",
+      "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/image2.png"
+    ],
+    "IconUrl": "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/icon.png",
+    "Punchline": "Target distance widgets.",
+    "AcceptsFeedback": true,
+    "_isDip17Plugin": true,
+    "_Dip17Channel": "stable",
+    "IsHide": "False",
+    "TestingAssemblyVersion": "0.9.8.3",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 38163,
+    "LastUpdate": "1698753353",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Distance/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Distance/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Distance/latest.zip"
+  },
+  {
     "Author": "Left",
     "Name": "ACT Endcounter",
     "InternalName": "ACTEndcounter",
@@ -478,41 +519,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DeepDungeonDex/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DeepDungeonDex/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DeepDungeonDex/latest.zip"
-  },
-  {
-    "Author": "PunishedPineapple",
-    "Name": "Distance",
-    "Punchline": "Target distance widgets.",
-    "Description": "Displays the distance in yalms to the target (or optionally to the target's ring), and can display distance until aggro range for supported bosses.",
-    "InternalName": "Distance",
-    "AssemblyVersion": "0.9.8.3",
-    "RepoUrl": "https://github.com/PunishedPineapple/Distance",
-    "IconUrl": "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/icon.png",
-    "ImageUrls": [
-      "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/image1.png",
-      "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/image2.png"
-    ],
-    "ApplicableVersion": "any",
-    "Tags": [
-      "Distance",
-      "Range",
-      "Aggro",
-      "Enmity",
-      "Hate",
-      "Pull",
-      "Hitbox",
-      "Ring",
-      "Target"
-    ],
-    "DalamudApiLevel": 6,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.9.8.3",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1683456677",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Distance/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Distance/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Distance/latest.zip"
   },
   {
     "Author": "iamevn",
