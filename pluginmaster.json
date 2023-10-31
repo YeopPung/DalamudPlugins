@@ -36,6 +36,66 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Accountant/latest.zip"
   },
   {
+    "Author": "LeonBlade",
+    "Name": "Burning Down the House",
+    "Description": "Move around housing items with coordinates and allows you to place anywhere.",
+    "InternalName": "BDTHPlugin",
+    "AssemblyVersion": "1.5.9",
+    "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "bdth",
+      "housing",
+      "float",
+      "place",
+      "glitch",
+      "furnishing",
+      "LeonBlade"
+    ],
+    "DalamudApiLevel": 8,
+    "IconUrl": "https://github.com/LeonBlade/BDTHPlugin/raw/main/icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1698755172",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/BDTHPlugin/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/BDTHPlugin/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/BDTHPlugin/latest.zip"
+  },
+  {
+    "Author": "d87",
+    "Name": "BigPlayerDebuffs",
+    "InternalName": "BigPlayerDebuffs",
+    "AssemblyVersion": "1.1.0.8",
+    "Description": "Scales up buffs/debuffs applied by you on Target Status frames",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/rgd87/BigPlayerDebuffs",
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/rgd87/BigPlayerDebuffs/master/images/image1.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/rgd87/BigPlayerDebuffs/master/images/icon.png",
+    "Punchline": "Larger personal debuffs",
+    "Changelog": "* v1.1.0.8\n * 6.3 Dalamud Update\n",
+    "AcceptsFeedback": true,
+    "_isDip17Plugin": true,
+    "_Dip17Channel": "stable",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 156606,
+    "CategoryTags": [
+      "UI",
+      "jobs"
+    ],
+    "LastUpdate": "1698755203",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/BigPlayerDebuffs/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/BigPlayerDebuffs/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/BigPlayerDebuffs/latest.zip"
+  },
+  {
     "Author": "PunishedPineapple",
     "Name": "Distance",
     "InternalName": "Distance",
