@@ -231,6 +231,76 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Distance/latest.zip"
   },
   {
+    "Author": "Ottermandias",
+    "Name": "GatherBuddy",
+    "InternalName": "GatherBuddy",
+    "AssemblyVersion": "3.2.6.0",
+    "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations\nvia item name and a UI to keep track of special uptime and weather conditions.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
+    "Tags": [
+      "Gathering",
+      "Fishing",
+      "Miner",
+      "Botanist",
+      "Weather",
+      "Alarms",
+      "Timer"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "Punchline": "Simplify Gathering and Fishing.",
+    "AcceptsFeedback": true,
+    "_isDip17Plugin": true,
+    "_Dip17Channel": "stable",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 1168957,
+    "CategoryTags": [
+      "jobs"
+    ],
+    "LastUpdate": "1698760395",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/GatherBuddy/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/GatherBuddy/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/GatherBuddy/latest.zip"
+  },
+  {
+    "Author": "electr0sheep",
+    "Name": "Item Vendor Location",
+    "InternalName": "ItemVendorLocation",
+    "AssemblyVersion": "2.3.0.0",
+    "Description": "Adds a context menu option for items that will show you where to find items you can buy off a vendor",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/electr0sheep/ItemVendorLocation",
+    "Tags": [
+      "vendor plugin item"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/electr0sheep/ItemVendorLocation/main/Images/ContextMenu.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/electr0sheep/ItemVendorLocation/main/Images/icon.png",
+    "Punchline": "Shows you where to buy vendor items",
+    "Changelog": "- Added Chinese localization (Nuko)\n- Fix for some Aenc Ose shop data (Nuko)\n- Removed Garland Tools\n- GC bug fixes\n- Add keybinding modifier option",
+    "AcceptsFeedback": true,
+    "_isDip17Plugin": true,
+    "_Dip17Channel": "stable",
+    "IsHide": "False",
+    "TestingAssemblyVersion": "0.0.0.4",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 120858,
+    "LastUpdate": "1698760395",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ItemVendorLocation/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ItemVendorLocation/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ItemVendorLocation/latest.zip"
+  },
+  {
     "Author": "Left",
     "Name": "ACT Endcounter",
     "InternalName": "ACTEndcounter",
@@ -927,31 +997,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/InventoryTools/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/InventoryTools/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/InventoryTools/latest.zip"
-  },
-  {
-    "Author": "electr0sheep",
-    "Name": "Item Vendor Location",
-    "InternalName": "ItemVendorLocation",
-    "AssemblyVersion": "0.0.0.4",
-    "Description": "Adds a context menu option for items that will show you where to find items you can buy off a vendor",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/electr0sheep/ItemVendorLocation",
-    "Tags": [
-      "vendor",
-      "plugin",
-      "item"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "Punchline": "Shows you where to buy vendor items",
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.0.0.4",
-    "IsTestingExclusive": "True",
-    "LastUpdate": "1683456677",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ItemVendorLocation/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ItemVendorLocation/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ItemVendorLocation/latest.zip"
   },
   {
     "Author": "BitsOfAByte",

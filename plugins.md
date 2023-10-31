@@ -15,4 +15,6 @@ Current Ver | 6.4
 | goat, modded by Franz | [Discord Chat Bridge](https://github.com/reiichi001/Dalamud.DiscordBridge) | This plugin allows you to receive your chat messages via Discord. |
 | goat | [Discord Rich Presence](https://github.com/goaaats/Dalamud.RichPresence) | This plugin allows you to show your zone, job, level, name, and world in your Discord status. |
 | PunishedPineapple | [Distance](https://github.com/PunishedPineapple/Distance) | Displays the distance in yalms to the target (or optionally to the target's ring), and can display distance until aggro range for supported bosses. |
+| Ottermandias | [GatherBuddy](https://github.com/Ottermandias/GatherBuddy) | Adds commands to simplify gathering by finding nodes and fish and their locations<br>via item name and a UI to keep track of special uptime and weather conditions. |
+| electr0sheep | [Item Vendor Location](https://github.com/electr0sheep/ItemVendorLocation) | Adds a context menu option for items that will show you where to find items you can buy off a vendor |
 
