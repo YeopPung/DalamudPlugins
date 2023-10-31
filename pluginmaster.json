@@ -231,42 +231,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Distance/latest.zip"
   },
   {
-    "Author": "Ottermandias",
-    "Name": "GatherBuddy",
-    "InternalName": "GatherBuddy",
-    "AssemblyVersion": "3.2.6.0",
-    "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations\nvia item name and a UI to keep track of special uptime and weather conditions.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
-    "Tags": [
-      "Gathering",
-      "Fishing",
-      "Miner",
-      "Botanist",
-      "Weather",
-      "Alarms",
-      "Timer"
-    ],
-    "DalamudApiLevel": 8,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "LoadPriority": 0,
-    "Punchline": "Simplify Gathering and Fishing.",
-    "AcceptsFeedback": true,
-    "_isDip17Plugin": true,
-    "_Dip17Channel": "stable",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 1168957,
-    "CategoryTags": [
-      "jobs"
-    ],
-    "LastUpdate": "1698760395",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/GatherBuddy/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/GatherBuddy/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/GatherBuddy/latest.zip"
-  },
-  {
     "Author": "electr0sheep",
     "Name": "Item Vendor Location",
     "InternalName": "ItemVendorLocation",
