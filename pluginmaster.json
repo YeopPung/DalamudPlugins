@@ -32,7 +32,7 @@
     "LastUpdate": "1698750074",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Accountant/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Accountant/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Accountant/latest.zip"
   },
   {
     "Author": "Haplo064",
@@ -58,7 +58,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/AccurateCountDown/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/AccurateCountDown/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/AccurateCountDown/latest.zip"
   },
   {
     "Author": "Helios",
@@ -82,7 +82,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/AdaptiveHud/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/AdaptiveHud/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/AdaptiveHud/latest.zip"
   },
   {
     "Author": "Caraxi",
@@ -104,7 +104,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/AdventurerInNeed/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/AdventurerInNeed/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/AdventurerInNeed/latest.zip"
   },
   {
     "Author": "Gotest",
@@ -129,7 +129,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/AudibleCharacterStatus/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/AudibleCharacterStatus/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/AudibleCharacterStatus/latest.zip"
   },
   {
     "Author": "zhudotexe",
@@ -155,7 +155,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/autoSweep/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/autoSweep/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/autoSweep/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -177,7 +177,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/BetterPartyFinder/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/BetterPartyFinder/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/BetterPartyFinder/latest.zip"
   },
   {
     "Author": "d87",
@@ -204,7 +204,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/BigPlayerDebuffs/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/BigPlayerDebuffs/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/BigPlayerDebuffs/latest.zip"
   },
   {
     "Author": "ackwell",
@@ -230,7 +230,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/BrowserHost.Plugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/BrowserHost.Plugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/BrowserHost.Plugin/latest.zip"
   },
   {
     "Author": "Styr1x",
@@ -259,7 +259,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Browsingway/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Browsingway/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Browsingway/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -280,7 +280,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/BurntToast/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/BurntToast/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/BurntToast/latest.zip"
   },
   {
     "Author": "Caraxi & Ottermandias",
@@ -307,7 +307,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatAlerts/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatAlerts/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatAlerts/latest.zip"
   },
   {
     "Author": "Haplo064",
@@ -337,7 +337,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatBubbles/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatBubbles/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatBubbles/latest.zip"
   },
   {
     "Author": "kij",
@@ -360,7 +360,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatCoordinates/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatCoordinates/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatCoordinates/latest.zip"
   },
   {
     "Author": "Haplo064",
@@ -388,7 +388,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatExtender/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatExtender/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatExtender/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -407,7 +407,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatTwo/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatTwo/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatTwo/latest.zip"
   },
   {
     "Author": "Franz",
@@ -426,7 +426,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatTyper/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatTyper/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatTyper/latest.zip"
   },
   {
     "Author": "MidoriKami",
@@ -451,7 +451,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChillFrames/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChillFrames/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChillFrames/latest.zip"
   },
   {
     "Author": "NotNite",
@@ -476,7 +476,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/cl_showpos/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/cl_showpos/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/cl_showpos/latest.zip"
   },
   {
     "Author": "Chivalrik",
@@ -499,7 +499,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Compass/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Compass/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Compass/latest.zip"
   },
   {
     "Author": "Lharz",
@@ -525,7 +525,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/CurrencyAlert/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/CurrencyAlert/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/CurrencyAlert/latest.zip"
   },
   {
     "Author": "MidoriKami",
@@ -550,7 +550,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DailyDuty/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DailyDuty/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DailyDuty/latest.zip"
   },
   {
     "Author": "goat, modded by Franz",
@@ -576,7 +576,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Dalamud.DiscordBridge/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Dalamud.DiscordBridge/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Dalamud.DiscordBridge/latest.zip"
   },
   {
     "Author": "goat",
@@ -599,7 +599,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Dalamud.FindAnything/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Dalamud.FindAnything/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Dalamud.FindAnything/latest.zip"
   },
   {
     "Author": "Not Cara",
@@ -623,7 +623,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Dalamud.FullscreenCutscenes/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Dalamud.FullscreenCutscenes/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Dalamud.FullscreenCutscenes/latest.zip"
   },
   {
     "Author": "goat",
@@ -645,7 +645,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Dalamud.LoadingImage/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Dalamud.LoadingImage/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Dalamud.LoadingImage/latest.zip"
   },
   {
     "Author": "goat",
@@ -670,7 +670,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Dalamud.RichPresence/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Dalamud.RichPresence/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Dalamud.RichPresence/latest.zip"
   },
   {
     "Author": "goat",
@@ -696,7 +696,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DalamudVox/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DalamudVox/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DalamudVox/latest.zip"
   },
   {
     "Author": "perchbird",
@@ -718,7 +718,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DamageInfoPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DamageInfoPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DamageInfoPlugin/latest.zip"
   },
   {
     "Author": "Kouzukii",
@@ -745,7 +745,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DeathRecap/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DeathRecap/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DeathRecap/latest.zip"
   },
   {
     "Author": "WildWolf",
@@ -774,7 +774,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DeepDungeonDex/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DeepDungeonDex/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DeepDungeonDex/latest.zip"
   },
   {
     "Author": "jdsmith2816",
@@ -799,7 +799,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DelvUI/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DelvUI/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DelvUI/latest.zip"
   },
   {
     "Author": "PGGB",
@@ -822,7 +822,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DeviceChangeFix/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DeviceChangeFix/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DeviceChangeFix/latest.zip"
   },
   {
     "Author": "PunishedPineapple",
@@ -857,7 +857,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Distance/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Distance/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Distance/latest.zip"
   },
   {
     "Author": "ocealot",
@@ -883,7 +883,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/EasyEyes/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/EasyEyes/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/EasyEyes/latest.zip"
   },
   {
     "Author": "Dante Souza e Souza - aka lokinmodar",
@@ -917,7 +917,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Echoglossian/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Echoglossian/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Echoglossian/latest.zip"
   },
   {
     "Author": "Felys",
@@ -938,7 +938,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/EnemyListDebuffs/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/EnemyListDebuffs/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/EnemyListDebuffs/latest.zip"
   },
   {
     "Author": "Xorus",
@@ -975,7 +975,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/EngageTimer/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/EngageTimer/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/EngageTimer/latest.zip"
   },
   {
     "Author": "Eternita",
@@ -994,7 +994,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/EnmityHp/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/EnmityHp/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/EnmityHp/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -1016,7 +1016,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ExpandedSearchInfo/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ExpandedSearchInfo/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ExpandedSearchInfo/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -1035,7 +1035,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ExtraChat/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ExtraChat/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ExtraChat/latest.zip"
   },
   {
     "Author": "daemitus",
@@ -1061,7 +1061,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/FauxHollowsSolver/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/FauxHollowsSolver/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/FauxHollowsSolver/latest.zip"
   },
   {
     "Author": "CFG",
@@ -1091,7 +1091,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/FCNameColor/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/FCNameColor/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/FCNameColor/latest.zip"
   },
   {
     "Author": "X'pahtalo",
@@ -1110,7 +1110,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Ffxiv2Mqtt/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Ffxiv2Mqtt/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Ffxiv2Mqtt/latest.zip"
   },
   {
     "Author": "Franz",
@@ -1132,7 +1132,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/FlashOnTell/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/FlashOnTell/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/FlashOnTell/latest.zip"
   },
   {
     "Author": "Aireil",
@@ -1154,7 +1154,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/FlyTextFilter/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/FlyTextFilter/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/FlyTextFilter/latest.zip"
   },
   {
     "Author": "Caraxi",
@@ -1176,7 +1176,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/FPSPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/FPSPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/FPSPlugin/latest.zip"
   },
   {
     "Author": "XIV Tools",
@@ -1198,7 +1198,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/FullscreenToggle/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/FullscreenToggle/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/FullscreenToggle/latest.zip"
   },
   {
     "Author": "Ottermandias",
@@ -1231,7 +1231,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/GatherBuddy/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/GatherBuddy/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/GatherBuddy/latest.zip"
   },
   {
     "Author": "Chivalrik",
@@ -1254,7 +1254,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/GentleTouch/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/GentleTouch/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/GentleTouch/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -1273,7 +1273,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Glamaholic/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Glamaholic/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Glamaholic/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -1295,7 +1295,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Globetrotter/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Globetrotter/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Globetrotter/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -1318,7 +1318,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/GoodMemory/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/GoodMemory/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/GoodMemory/latest.zip"
   },
   {
     "Author": "MgAl2O4",
@@ -1354,7 +1354,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/HarpHero/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/HarpHero/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/HarpHero/latest.zip"
   },
   {
     "Author": "perchbird",
@@ -1376,7 +1376,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Housemate/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Housemate/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Housemate/latest.zip"
   },
   {
     "Author": "Critical_Impact",
@@ -1414,7 +1414,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/InventoryTools/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/InventoryTools/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/InventoryTools/latest.zip"
   },
   {
     "Author": "Caraxi",
@@ -1437,7 +1437,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ItemSearchPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ItemSearchPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ItemSearchPlugin/latest.zip"
   },
   {
     "Author": "ocealot",
@@ -1462,7 +1462,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/JobBars/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/JobBars/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/JobBars/latest.zip"
   },
   {
     "Author": "haplo, daemitus",
@@ -1483,7 +1483,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/JobIcons/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/JobIcons/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/JobIcons/latest.zip"
   },
   {
     "Author": "Eternita",
@@ -1502,7 +1502,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/JustBackup/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/JustBackup/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/JustBackup/latest.zip"
   },
   {
     "Author": "kalilistic",
@@ -1531,7 +1531,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Kapture/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Kapture/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Kapture/latest.zip"
   },
   {
     "Author": "Gotest",
@@ -1554,7 +1554,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/KingdomHeartsPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/KingdomHeartsPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/KingdomHeartsPlugin/latest.zip"
   },
   {
     "Author": "Caraxi",
@@ -1576,7 +1576,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MacroChain/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MacroChain/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MacroChain/latest.zip"
   },
   {
     "Disabled": false,
@@ -1610,7 +1610,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MapLinker/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MapLinker/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MapLinker/latest.zip"
   },
   {
     "Author": "fmauNeko",
@@ -1634,7 +1634,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MarketBoardPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MarketBoardPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MarketBoardPlugin/latest.zip"
   },
   {
     "Author": "RedMage1993",
@@ -1658,7 +1658,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MimicryHelper/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MimicryHelper/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MimicryHelper/latest.zip"
   },
   {
     "Author": "Eternita",
@@ -1677,7 +1677,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Mini/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Mini/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Mini/latest.zip"
   },
   {
     "Author": "daemitus",
@@ -1704,7 +1704,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MiniCactpotSolver/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MiniCactpotSolver/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MiniCactpotSolver/latest.zip"
   },
   {
     "Author": "attick",
@@ -1730,7 +1730,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MOAction/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MOAction/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MOAction/latest.zip"
   },
   {
     "Author": "Marconsou",
@@ -1760,7 +1760,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MPTickBar/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MPTickBar/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MPTickBar/latest.zip"
   },
   {
     "Author": "aers, JHerig",
@@ -1783,7 +1783,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/NamePlateDebuffs/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/NamePlateDebuffs/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/NamePlateDebuffs/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -1806,7 +1806,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Namingway/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Namingway/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Namingway/latest.zip"
   },
   {
     "Author": "kalilistic, karashiiro",
@@ -1835,7 +1835,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/NeatNoter/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/NeatNoter/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/NeatNoter/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -1858,7 +1858,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/NoSoliciting/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/NoSoliciting/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/NoSoliciting/latest.zip"
   },
   {
     "Author": "MidoriKami",
@@ -1884,7 +1884,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/NoTankYou/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/NoTankYou/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/NoTankYou/latest.zip"
   },
   {
     "Author": "Eternita",
@@ -1907,7 +1907,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/NotificationMaster/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/NotificationMaster/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/NotificationMaster/latest.zip"
   },
   {
     "Author": "Avaflow",
@@ -1930,7 +1930,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/OopsAllLalafells/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/OopsAllLalafells/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/OopsAllLalafells/latest.zip"
   },
   {
     "Author": "Meli & perchbird",
@@ -1957,7 +1957,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/orchestrion/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/orchestrion/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/orchestrion/latest.zip"
   },
   {
     "Author": "goat, modded by Franz",
@@ -1986,7 +1986,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/owofy/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/owofy/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/owofy/latest.zip"
   },
   {
     "Author": "shdwp, Avaflow",
@@ -2015,7 +2015,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PartyIcons/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PartyIcons/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PartyIcons/latest.zip"
   },
   {
     "Author": "MgAl2O4",
@@ -2042,7 +2042,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PatMe/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PatMe/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PatMe/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -2065,7 +2065,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PeepingTom/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PeepingTom/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PeepingTom/latest.zip"
   },
   {
     "Author": "tesu",
@@ -2097,7 +2097,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PennyPincher/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PennyPincher/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PennyPincher/latest.zip"
   },
   {
     "Author": "karashiiro",
@@ -2129,7 +2129,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PingPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PingPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PingPlugin/latest.zip"
   },
   {
     "Author": "Haplo064",
@@ -2163,7 +2163,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PixelPerfect/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PixelPerfect/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PixelPerfect/latest.zip"
   },
   {
     "Author": "r00telement, Pilzinsel64",
@@ -2190,7 +2190,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PlayerTags/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PlayerTags/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PlayerTags/latest.zip"
   },
   {
     "Author": "kalilistic",
@@ -2224,7 +2224,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PlayerTrack/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PlayerTrack/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PlayerTrack/latest.zip"
   },
   {
     "Author": "perchbird",
@@ -2246,7 +2246,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PrefPro/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PrefPro/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PrefPro/latest.zip"
   },
   {
     "Author": "kalilistic",
@@ -2278,7 +2278,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PriceCheck/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PriceCheck/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PriceCheck/latest.zip"
   },
   {
     "Author": "UnknownX",
@@ -2306,7 +2306,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/QoLBar/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/QoLBar/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/QoLBar/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -2328,7 +2328,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Quest Map/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Quest Map/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Quest Map/latest.zip"
   },
   {
     "Author": "Eternita, Chalkos",
@@ -2350,7 +2350,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/QuestAWAY/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/QuestAWAY/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/QuestAWAY/latest.zip"
   },
   {
     "Author": "srkizer",
@@ -2374,7 +2374,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/QuoteOfTheLobby/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/QuoteOfTheLobby/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/QuoteOfTheLobby/latest.zip"
   },
   {
     "Author": "PunishedPineapple",
@@ -2403,7 +2403,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ReadyCheckHelper/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ReadyCheckHelper/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ReadyCheckHelper/latest.zip"
   },
   {
     "Author": "Cair",
@@ -2427,7 +2427,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Redirect/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Redirect/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Redirect/latest.zip"
   },
   {
     "Author": "Caraxi",
@@ -2449,7 +2449,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/RemindMe/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/RemindMe/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/RemindMe/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -2468,7 +2468,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/RemotePartyFinder/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/RemotePartyFinder/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/RemotePartyFinder/latest.zip"
   },
   {
     "Author": "Chalkos",
@@ -2505,7 +2505,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/RepairMe/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/RepairMe/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/RepairMe/latest.zip"
   },
   {
     "Author": "akira0245",
@@ -2534,7 +2534,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Reset enmity command/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Reset enmity command/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Reset enmity command/latest.zip"
   },
   {
     "Author": "Ottermandias",
@@ -2569,7 +2569,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/RezPls/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/RezPls/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/RezPls/latest.zip"
   },
   {
     "Author": "kalilistic",
@@ -2601,7 +2601,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SillyChat/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SillyChat/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SillyChat/latest.zip"
   },
   {
     "Author": "Caraxi",
@@ -2627,7 +2627,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SimpleTweaksPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SimpleTweaksPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SimpleTweaksPlugin/latest.zip"
   },
   {
     "Author": "ocealot",
@@ -2652,7 +2652,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SkillSwap/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SkillSwap/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SkillSwap/latest.zip"
   },
   {
     "Author": "Haplo064",
@@ -2680,7 +2680,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SlideCast/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SlideCast/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SlideCast/latest.zip"
   },
   {
     "Author": "Vielle Janlenoux",
@@ -2707,7 +2707,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Snooper/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Snooper/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Snooper/latest.zip"
   },
   {
     "Author": "Sonar Team",
@@ -2753,7 +2753,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SonarPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SonarPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SonarPlugin/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -2775,7 +2775,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SoundFilter/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SoundFilter/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SoundFilter/latest.zip"
   },
   {
     "Author": "karashiiro",
@@ -2803,7 +2803,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SoundSetter/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SoundSetter/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SoundSetter/latest.zip"
   },
   {
     "Author": "VariableVixen",
@@ -2823,7 +2823,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/StackSellPrice/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/StackSellPrice/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/StackSellPrice/latest.zip"
   },
   {
     "Author": "Pohky",
@@ -2846,7 +2846,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TeleporterPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TeleporterPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TeleporterPlugin/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -2868,7 +2868,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TextBoxStyler/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TextBoxStyler/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TextBoxStyler/latest.zip"
   },
   {
     "Author": "karashiiro",
@@ -2899,7 +2899,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TextToTalk/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TextToTalk/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TextToTalk/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -2921,7 +2921,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TheGreatSeparator/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TheGreatSeparator/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TheGreatSeparator/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -2940,7 +2940,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TheHeartOfTheParty/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TheHeartOfTheParty/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TheHeartOfTheParty/latest.zip"
   },
   {
     "Author": "Nadya",
@@ -2968,7 +2968,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TidyChat/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TidyChat/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TidyChat/latest.zip"
   },
   {
     "Author": "kalilistic",
@@ -2987,7 +2987,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Tippy/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Tippy/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Tippy/latest.zip"
   },
   {
     "Author": "attick & perchbird",
@@ -3011,7 +3011,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TitleEdit/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TitleEdit/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TitleEdit/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -3034,7 +3034,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Tourist/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Tourist/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Tourist/latest.zip"
   },
   {
     "Author": "Tischel",
@@ -3057,7 +3057,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TPie/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TPie/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TPie/latest.zip"
   },
   {
     "Author": "MgAl2O4",
@@ -3090,7 +3090,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TriadBuddy/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TriadBuddy/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TriadBuddy/latest.zip"
   },
   {
     "Author": "ocealot",
@@ -3116,7 +3116,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/VFXEditor/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/VFXEditor/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/VFXEditor/latest.zip"
   },
   {
     "Author": "Dragon",
@@ -3148,7 +3148,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Visibility/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Visibility/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Visibility/latest.zip"
   },
   {
     "Author": "Haplo064",
@@ -3174,7 +3174,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/VoidList/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/VoidList/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/VoidList/latest.zip"
   },
   {
     "Author": "Avaflow",
@@ -3197,7 +3197,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Waitingway.Dalamud/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Waitingway.Dalamud/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Waitingway.Dalamud/latest.zip"
   },
   {
     "Author": "PunishedPineapple",
@@ -3231,7 +3231,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/WaymarkPresetPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/WaymarkPresetPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/WaymarkPresetPlugin/latest.zip"
   },
   {
     "Author": "Eternita",
@@ -3250,7 +3250,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Weatherman/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Weatherman/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Weatherman/latest.zip"
   },
   {
     "Author": "PunishedPineapple",
@@ -3278,7 +3278,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/WhatDidYouSay/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/WhatDidYouSay/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/WhatDidYouSay/latest.zip"
   },
   {
     "Author": "Haplo064, maintained by Franz",
@@ -3305,7 +3305,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/WheresWOLdo/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/WheresWOLdo/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/WheresWOLdo/latest.zip"
   },
   {
     "Author": "Azure Gem",
@@ -3325,7 +3325,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/WinTitle/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/WinTitle/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/WinTitle/latest.zip"
   },
   {
     "Author": "daemitus",
@@ -3351,7 +3351,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/WondrousTailsSolver/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/WondrousTailsSolver/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/WondrousTailsSolver/latest.zip"
   },
   {
     "Author": "Lady Defile",
@@ -3376,7 +3376,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Wordsmith/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Wordsmith/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Wordsmith/latest.zip"
   },
   {
     "Author": "ascclemens",
@@ -3397,7 +3397,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/XIVChat/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/XIVChat/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/XIVChat/latest.zip"
   },
   {
     "Author": "attick",
@@ -3422,7 +3422,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/XIVCombo/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/XIVCombo/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/XIVCombo/latest.zip"
   },
   {
     "Author": "Kaz Wolfe",
@@ -3451,7 +3451,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/XIVDeck.FFXIVPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/XIVDeck.FFXIVPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/XIVDeck.FFXIVPlugin/latest.zip"
   },
   {
     "Author": "Cadaeix",
@@ -3480,7 +3480,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/XIVLogger/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/XIVLogger/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/XIVLogger/latest.zip"
   },
   {
     "Author": "daemitus, hiroa",
@@ -3500,7 +3500,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ZodiacBuddy/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ZodiacBuddy/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ZodiacBuddy/latest.zip"
   },
   {
     "Author": "Left",
@@ -3523,7 +3523,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ACTEndcounter/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ACTEndcounter/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ACTEndcounter/latest.zip"
   },
   {
     "Author": "yomishino",
@@ -3552,7 +3552,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/AetherCompass/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/AetherCompass/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/AetherCompass/latest.zip"
   },
   {
     "Author": "UnknownX",
@@ -3580,7 +3580,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ARealmRecorded/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ARealmRecorded/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ARealmRecorded/latest.zip"
   },
   {
     "Author": "Icehunter",
@@ -3601,7 +3601,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/AutoTranslateXIV/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/AutoTranslateXIV/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/AutoTranslateXIV/latest.zip"
   },
   {
     "Author": "Kaz Wolfe",
@@ -3628,7 +3628,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/BatteryGauge/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/BatteryGauge/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/BatteryGauge/latest.zip"
   },
   {
     "Author": "Sl0nderman",
@@ -3657,7 +3657,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/BlueMageHelper/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/BlueMageHelper/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/BlueMageHelper/latest.zip"
   },
   {
     "Author": "Kouzukii",
@@ -3681,7 +3681,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/CharacterPanelRefined/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/CharacterPanelRefined/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/CharacterPanelRefined/latest.zip"
   },
   {
     "Author": "Azure Gem",
@@ -3717,7 +3717,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/CharSyncPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/CharSyncPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/CharSyncPlugin/latest.zip"
   },
   {
     "Author": "Arrest Everybody",
@@ -3736,7 +3736,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatEmoteColor/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatEmoteColor/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatEmoteColor/latest.zip"
   },
   {
     "Author": "Haplo064",
@@ -3767,7 +3767,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatTranslator/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatTranslator/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ChatTranslator/latest.zip"
   },
   {
     "Author": "Aelexe",
@@ -3795,7 +3795,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/CoinPouch/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/CoinPouch/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/CoinPouch/latest.zip"
   },
   {
     "Author": "ItsBexy",
@@ -3815,7 +3815,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/CrossUp/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/CrossUp/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/CrossUp/latest.zip"
   },
   {
     "Author": "goat",
@@ -3840,7 +3840,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Dalamud.CharacterSync/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Dalamud.CharacterSync/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Dalamud.CharacterSync/latest.zip"
   },
   {
     "Author": "Infi",
@@ -3868,7 +3868,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DeathRoll/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DeathRoll/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DeathRoll/latest.zip"
   },
   {
     "Author": "iamevn",
@@ -3888,7 +3888,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DomanMahjongStatus/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DomanMahjongStatus/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/DomanMahjongStatus/latest.zip"
   },
   {
     "Author": "Roselyn",
@@ -3914,7 +3914,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/EldenRing/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/EldenRing/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/EldenRing/latest.zip"
   },
   {
     "Author": "BiscuitUmU, Kazumi",
@@ -3936,7 +3936,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/FantasyPlayer.Dalamud/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/FantasyPlayer.Dalamud/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/FantasyPlayer.Dalamud/latest.zip"
   },
   {
     "Author": "Khloe Leclair",
@@ -3968,7 +3968,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/GearsetHelperPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/GearsetHelperPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/GearsetHelperPlugin/latest.zip"
   },
   {
     "Author": "Fr4nsson",
@@ -3989,7 +3989,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/HidePadlock/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/HidePadlock/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/HidePadlock/latest.zip"
   },
   {
     "Author": "Kirrana",
@@ -4014,7 +4014,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/HighFpsPhysicsPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/HighFpsPhysicsPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/HighFpsPhysicsPlugin/latest.zip"
   },
   {
     "Author": "Necoji (prev. ascclemens)",
@@ -4034,7 +4034,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/HUDManager/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/HUDManager/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/HUDManager/latest.zip"
   },
   {
     "Author": "Dragon",
@@ -4059,7 +4059,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/HuntBuddy/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/HuntBuddy/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/HuntBuddy/latest.zip"
   },
   {
     "Author": "Tischel",
@@ -4083,7 +4083,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/InventorySearchBar/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/InventorySearchBar/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/InventorySearchBar/latest.zip"
   },
   {
     "Author": "electr0sheep",
@@ -4108,7 +4108,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ItemVendorLocation/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ItemVendorLocation/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ItemVendorLocation/latest.zip"
   },
   {
     "Author": "BitsOfAByte",
@@ -4133,7 +4133,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/KikoGuide/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/KikoGuide/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/KikoGuide/latest.zip"
   },
   {
     "Author": "Infi",
@@ -4160,7 +4160,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MBHistory/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MBHistory/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MBHistory/latest.zip"
   },
   {
     "Author": "Eternita",
@@ -4181,7 +4181,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Messenger/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Messenger/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Messenger/latest.zip"
   },
   {
     "Author": "Samuelka",
@@ -4201,7 +4201,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MountCollectioner/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MountCollectioner/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MountCollectioner/latest.zip"
   },
   {
     "Author": "Gotest",
@@ -4226,7 +4226,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MouseTargetTooltip/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MouseTargetTooltip/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MouseTargetTooltip/latest.zip"
   },
   {
     "Author": "Talim",
@@ -4253,7 +4253,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MPTimer/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MPTimer/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/MPTimer/latest.zip"
   },
   {
     "Author": "Meisterlala",
@@ -4284,7 +4284,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Neko/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Neko/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/Neko/latest.zip"
   },
   {
     "Author": "Kaminaris",
@@ -4308,7 +4308,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/NextUIPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/NextUIPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/NextUIPlugin/latest.zip"
   },
   {
     "Author": "Bluefissure",
@@ -4329,7 +4329,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/NoKillPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/NoKillPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/NoKillPlugin/latest.zip"
   },
   {
     "Author": "Bluefissure",
@@ -4353,7 +4353,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/OBSPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/OBSPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/OBSPlugin/latest.zip"
   },
   {
     "Author": "Sl0nderman",
@@ -4385,7 +4385,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/OceanFishin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/OceanFishin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/OceanFishin/latest.zip"
   },
   {
     "Author": "darkarchon",
@@ -4410,7 +4410,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/OhGeeCD/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/OhGeeCD/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/OhGeeCD/latest.zip"
   },
   {
     "Author": "Caraxi",
@@ -4433,7 +4433,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PartyListLayout/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PartyListLayout/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/PartyListLayout/latest.zip"
   },
   {
     "Author": "Sevii",
@@ -4460,7 +4460,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ProperHousing/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ProperHousing/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ProperHousing/latest.zip"
   },
   {
     "Author": "srkizer",
@@ -4484,7 +4484,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ResetAudio/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ResetAudio/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ResetAudio/latest.zip"
   },
   {
     "Author": "perchbird",
@@ -4503,7 +4503,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ResLogger2.Plugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ResLogger2.Plugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/ResLogger2.Plugin/latest.zip"
   },
   {
     "Author": "Dragon",
@@ -4525,7 +4525,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SideHUDPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SideHUDPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SideHUDPlugin/latest.zip"
   },
   {
     "Author": "rennerdo30",
@@ -4549,7 +4549,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SimpleCompare/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SimpleCompare/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SimpleCompare/latest.zip"
   },
   {
     "Author": "joshua.software.dev",
@@ -4570,7 +4570,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SizeMattersFishing/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SizeMattersFishing/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SizeMattersFishing/latest.zip"
   },
   {
     "Author": "wozaiha",
@@ -4595,7 +4595,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SkillDisplay/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SkillDisplay/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SkillDisplay/latest.zip"
   },
   {
     "Author": "SupineSnail (Tinuviel)",
@@ -4615,7 +4615,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SupineSnail.JobGaugeAdjustments/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SupineSnail.JobGaugeAdjustments/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/SupineSnail.JobGaugeAdjustments/latest.zip"
   },
   {
     "Author": "Avaflow",
@@ -4639,7 +4639,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TabTab/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TabTab/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TabTab/latest.zip"
   },
   {
     "Author": "Det",
@@ -4671,7 +4671,7 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TargetFurniture/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TargetFurniture/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/TargetFurniture/latest.zip"
   },
   {
     "Author": "cassandra308",
@@ -4702,6 +4702,6 @@
     "LastUpdate": "1683456677",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/WhereAmIAgain/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/WhereAmIAgain/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/plugins/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/WhereAmIAgain/latest.zip"
   }
 ]
