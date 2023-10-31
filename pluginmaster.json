@@ -126,6 +126,70 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DailyDuty/latest.zip"
   },
   {
+    "Author": "goat, modded by Franz",
+    "Name": "Discord Chat Bridge",
+    "InternalName": "Dalamud.DiscordBridge",
+    "AssemblyVersion": "1.4.3.0",
+    "Description": "This plugin allows you to receive your chat messages via Discord.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
+    "Tags": [
+      "discord",
+      "chat"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Receive your chat messages via Discord.",
+    "Changelog": "Adds a bandaid for Discord's new username changes. Remember to thank Discord for removing discrimination from their platform. The bot also always accepted user ID numbers, but now it's explicitly mentioned in the setup window.'.\n\nAdds the following new commands:\n- xl!toggledefaultnameavatar - Switches webhook mode to use a generic bot username and avatar so messages stack. Should be combined with xl!togglesender or you will have no idea who said what.",
+    "AcceptsFeedback": true,
+    "_isDip17Plugin": true,
+    "_Dip17Channel": "stable",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 83963,
+    "CategoryTags": [
+      "utility"
+    ],
+    "LastUpdate": "1698756164",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.DiscordBridge/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.DiscordBridge/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.DiscordBridge/latest.zip"
+  },
+  {
+    "Author": "goat",
+    "Name": "Discord Rich Presence",
+    "InternalName": "Dalamud.RichPresence",
+    "AssemblyVersion": "2.0.2.0",
+    "Description": "This plugin allows you to show your zone, job, level, name, and world in your Discord status.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/goaaats/Dalamud.RichPresence",
+    "Tags": [
+      "Discord"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "Punchline": "Show your zone, job, level, name, and world in your Discord status",
+    "Changelog": "API 7 compatibility",
+    "AcceptsFeedback": true,
+    "_isDip17Plugin": true,
+    "_Dip17Channel": "stable",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 229253,
+    "CategoryTags": [
+      "utility"
+    ],
+    "LastUpdate": "1698756164",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.RichPresence/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.RichPresence/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.RichPresence/latest.zip"
+  },
+  {
     "Author": "PunishedPineapple",
     "Name": "Distance",
     "InternalName": "Distance",
