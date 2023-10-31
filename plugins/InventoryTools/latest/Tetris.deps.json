@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Tetris/1.6.1.6": {
+        "dependencies": {
+          "Dalamud.ContextMenu": "1.2.2"
+        },
+        "runtime": {
+          "Tetris.dll": {}
+        }
+      },
+      "Dalamud.ContextMenu/1.2.2": {
+        "runtime": {
+          "lib/net7.0-windows7.0/Dalamud.ContextMenu.dll": {
+            "assemblyVersion": "1.2.2.0",
+            "fileVersion": "1.2.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tetris/1.6.1.6": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dalamud.ContextMenu/1.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k+bCV7Xyxx/MCWFIEucSkQxQ9w+Zzz/FwIFOkSAh+13/F8IngivbRuL5NpDz9eAhlqnkifcPIycIKSauxNWHUg==",
+      "path": "dalamud.contextmenu/1.2.2",
+      "hashPath": "dalamud.contextmenu.1.2.2.nupkg.sha512"
+    }
+  }
+}

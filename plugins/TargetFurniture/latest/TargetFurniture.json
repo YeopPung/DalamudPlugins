@@ -1,0 +1,46 @@
+{
+  "Disabled": false,
+  "Testing": false,
+  "ScheduledForDeletion": false,
+  "InstalledFromUrl": "",
+  "WorkingPluginId": "d0846fc2-14d5-4202-9797-8bf9a288d43e",
+  "IsThirdParty": false,
+  "EffectiveVersion": "1.0.1.7",
+  "Author": "Det",
+  "Name": "Target Furniture",
+  "Punchline": "You can now select furnitures from the Housing Menu",
+  "Description": "Currently, the only possible way to select a housing item is to click the furniture itself, and this can be a problem if you have multiple items close to each other.\n\nThis plugin adds a new option in the Housing Menu that targets the furniture for you",
+  "Changelog": "6.3 update",
+  "Tags": [
+    "Casual",
+    "Housing"
+  ],
+  "CategoryTags": [
+    "utility"
+  ],
+  "IsHide": false,
+  "InternalName": "TargetFurniture",
+  "AssemblyVersion": "1.0.1.7",
+  "TestingAssemblyVersion": null,
+  "IsTestingExclusive": false,
+  "RepoUrl": "https://github.com/InitialDet/TargetFurniture",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 8,
+  "DownloadCount": 0,
+  "LastUpdate": 0,
+  "DownloadLinkInstall": null,
+  "DownloadLinkUpdate": null,
+  "DownloadLinkTesting": null,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "CanUnloadAsync": false,
+  "SupportsProfiles": true,
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/image1.png"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/icon.png",
+  "AcceptsFeedback": true,
+  "FeedbackMessage": null,
+  "_Dip17Channel": null
+}
