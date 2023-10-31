@@ -11,8 +11,8 @@ $pluginBlacklistUrl = "https://raw.githubusercontent.com/dohwacorp/DalamudAssets
 $wc = New-Object system.Net.WebClient
 $blackList = $wc.downloadString($pluginBlacklistUrl) | ConvertFrom-Json
 
-$dlTemplateInstall = "https://github.com/dohwacorp/DalamudPlugins/raw/main/stable/{0}/latest.zip"
-$dlTemplateUpdate = "https://github.com/dohwacorp/DalamudPlugins/raw/main/stable/{0}/latest.zip"
+$dlTemplateInstall = "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/{0}/latest.zip"
+$dlTemplateUpdate = "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/stable/{1}/latest.zip"
 $apiLevel = 8
 
 $thisPath = Get-Location
