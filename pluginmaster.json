@@ -865,6 +865,30 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/NamePlateDebuffs/latest.zip"
   },
   {
+    "Author": "Ottermandias, Adam, Wintermute",
+    "Name": "Penumbra",
+    "Description": "Runtime mod loader and manager.",
+    "InternalName": "Penumbra",
+    "AssemblyVersion": "0.7.3.2",
+    "RepoUrl": "https://github.com/xivdev/Penumbra",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "modding"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadPriority": 69420,
+    "LoadRequiredState": 2,
+    "LoadSync": true,
+    "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1698774039",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Penumbra/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Penumbra/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Penumbra/latest.zip"
+  },
+  {
     "Author": "karashiiro",
     "Name": "PingPlugin",
     "InternalName": "PingPlugin",

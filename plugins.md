@@ -36,6 +36,7 @@ Current Ver | 6.4
 | daemitus | [ezMiniCactpot](https://github.com/daemitus/MiniCactpotSolver) | This plugin highlights tiles and lines in MiniCactpot that represent the best potential action you can take. |
 | Bluefissure | MultiHit | Papa asked me for this so here it is. |
 | aers, JHerig, abashby | [Nameplate Debuffs](https://github.com/jherig/NamePlateDebuffs) | Displays your debuffs on enemy nameplates. |
+| Ottermandias, Adam, Wintermute | [Penumbra](https://github.com/xivdev/Penumbra) | Runtime mod loader and manager. |
 | karashiiro | [PingPlugin](https://github.com/karashiiro/PingPlugin) | A ping display plugin for Dalamud. |
 | Anna | [Quest Map](https://git.anna.lgbt/anna/QuestMap) | Explore quests and their rewards.<br>- Search for quest names or their rewards, including instances,<br>  beast tribes, minions, etc.<br>- See an interactive map of quest requirements and unlocks.<br>- Open a quest info window even for quests you haven't completed.<br>- Open quest starting locations on the map or open quests in the journal.<br><br>Icons: treasure map by Anthony Ledoux from the Noun Project and<br>locked book by Anthony Ledoux from the Noun Project |
 | Chalkos | [RepairMe](https://github.com/chalkos/RepairMe) | Helps you notice when your gear needs to be repaired or has materia to be extracted. |
