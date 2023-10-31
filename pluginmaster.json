@@ -96,6 +96,36 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/BigPlayerDebuffs/latest.zip"
   },
   {
+    "Author": "MidoriKami",
+    "Name": "Daily Duty",
+    "InternalName": "DailyDuty",
+    "AssemblyVersion": "4.0.3.4",
+    "Description": "Automatically track and complete many daily and weekly tasks.\n\n/dd help → Display all available commands",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/MidoriKami/DailyDuty",
+    "Tags": [
+      "utility"
+    ],
+    "CategoryTags": [
+      "Utility",
+      "Other"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Easily Track Daily and Weekly tasks",
+    "AcceptsFeedback": false,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 997807,
+    "LastUpdate": "1698755498",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DailyDuty/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DailyDuty/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DailyDuty/latest.zip"
+  },
+  {
     "Author": "PunishedPineapple",
     "Name": "Distance",
     "InternalName": "Distance",
