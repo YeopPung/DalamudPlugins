@@ -1093,6 +1093,35 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/RezPls/latest.zip"
   },
   {
+    "Author": "Caraxi",
+    "Name": "Simple Tweaks Plugin",
+    "InternalName": "SimpleTweaksPlugin",
+    "AssemblyVersion": "1.8.9.2",
+    "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "Punchline": "This was supposed to be simple...",
+    "AcceptsFeedback": true,
+    "IsHide": "False",
+    "TestingAssemblyVersion": "0.1.4.0",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 2948362,
+    "CategoryTags": [
+      "UI",
+      "other",
+      "utility",
+      "social"
+    ],
+    "LastUpdate": "1698928478",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleTweaksPlugin/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleTweaksPlugin/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleTweaksPlugin/latest.zip"
+  },
+  {
     "Author": "Det",
     "Name": "Target Furniture",
     "InternalName": "TargetFurniture",
@@ -2507,30 +2536,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleCompare/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleCompare/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleCompare/latest.zip"
-  },
-  {
-    "Author": "Caraxi",
-    "Name": "Simple Tweaks",
-    "Description": "Collection of simple ideas that are too small to warrent their own plugin.\n/tweaks to open the config\nTweaks:\n - Lock chat size and position\n - Show exact percentage for item durability and spiritbond\n - Show current desynthesis level on desythable items.\n - Command to open character directory\n - Command to change tooltip settings.",
-    "InternalName": "SimpleTweaksPlugin",
-    "AssemblyVersion": "0.1.4.0",
-    "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 1,
-    "IsHide": "False",
-    "DownloadCount": 0,
-    "TestingAssemblyVersion": "0.1.4.0",
-    "IsTestingExclusive": "True",
-    "CategoryTags": [
-      "UI",
-      "other",
-      "utility",
-      "social"
-    ],
-    "LastUpdate": "1683456677",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleTweaksPlugin/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleTweaksPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleTweaksPlugin/latest.zip"
   },
   {
     "Author": "joshua.software.dev",
