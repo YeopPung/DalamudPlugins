@@ -956,6 +956,34 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/orchestrion/latest.zip"
   },
   {
+    "Author": "MgAl2O4",
+    "Name": "Pat Me",
+    "InternalName": "PatMe",
+    "AssemblyVersion": "1.8.2.0",
+    "Description": "Did you ever wonder how many times your Lala gets a pat? Well, now you can count it!",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "pat",
+      "lala"
+    ],
+    "CategoryTags": [
+      "social"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "Punchline": "Pat counter",
+    "AcceptsFeedback": true,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 127646,
+    "LastUpdate": "1698929799",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PatMe/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PatMe/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PatMe/latest.zip"
+  },
+  {
     "Author": "Ottermandias, Adam, Wintermute",
     "Name": "Penumbra",
     "Description": "Runtime mod loader and manager.",
