@@ -984,6 +984,33 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PatMe/latest.zip"
   },
   {
+    "Author": "Anna",
+    "Name": "Peeping Tom",
+    "InternalName": "PeepingTom",
+    "AssemblyVersion": "1.7.15",
+    "Description": "Shows who is currently or was previously targeting you.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://git.anna.lgbt/anna/PeepingTom",
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Shows who is currently or was previously targeting you.",
+    "AcceptsFeedback": true,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 408335,
+    "CategoryTags": [
+      "UI",
+      "social"
+    ],
+    "LastUpdate": "1698930056",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PeepingTom/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PeepingTom/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PeepingTom/latest.zip"
+  },
+  {
     "Author": "Ottermandias, Adam, Wintermute",
     "Name": "Penumbra",
     "Description": "Runtime mod loader and manager.",
