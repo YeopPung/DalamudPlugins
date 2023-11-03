@@ -1,0 +1,15 @@
+{
+  "Author": "Caraxi",
+  "Name": "Simple Heels",
+  "InternalName": "SimpleHeels",
+  "AssemblyVersion": "0.8.0.0",
+  "Description": "Adjust the position of your character model",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "Adjust the position of your character model",
+  "AcceptsFeedback": true
+}
