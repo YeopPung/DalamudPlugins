@@ -23,7 +23,7 @@
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://github.com/dohwacorp/DalamudPlugins/raw/main/plugins/Accountant/images/icon.png",
+  "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Accountant/images/icon.png",
   "Punchline": "Character task timers.",
   "AcceptsFeedback": true
 }
