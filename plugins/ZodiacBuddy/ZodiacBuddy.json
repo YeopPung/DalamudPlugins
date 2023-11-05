@@ -15,5 +15,6 @@
   "Punchline": "Complete your Zodiac relic with style.",
   "AcceptsFeedback": true,
   "_isDip17Plugin": true,
-  "_Dip17Channel": "stable"
+  "_Dip17Channel": "stable",
+  "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ZodiacBuddy/images/icon.png"
 }

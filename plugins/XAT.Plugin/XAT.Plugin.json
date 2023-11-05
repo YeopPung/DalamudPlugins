@@ -10,5 +10,6 @@
     "animation",
     "xat",
     "camera"
-  ]
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/XAT.Plugin/images/icon.png"
 }

@@ -19,5 +19,11 @@
   "Punchline": "Improved Waymark Management",
   "AcceptsFeedback": true,
   "_isDip17Plugin": true,
-  "_Dip17Channel": "stable"
+  "_Dip17Channel": "stable",
+  "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/WaymarkPresetPlugin/images/icon.png",
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/WaymarkPresetPlugin/images/image1.png",
+    "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/WaymarkPresetPlugin/images/image2.png",
+    "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/WaymarkPresetPlugin/images/image3.png"
+  ]
 }

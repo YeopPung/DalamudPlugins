@@ -19,5 +19,6 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Easily Track Daily and Weekly tasks",
-  "AcceptsFeedback": false
+  "AcceptsFeedback": false,
+  "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DailyDuty/images/icon.png"
 }

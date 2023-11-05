@@ -12,5 +12,6 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Shows who is currently or was previously targeting you.",
-  "AcceptsFeedback": true
+  "AcceptsFeedback": true,
+  "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PeepingTom/images/icon.png"
 }

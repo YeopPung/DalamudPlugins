@@ -24,5 +24,6 @@
   "Punchline": "Highlighting of Raises and detrimental status effects.",
   "AcceptsFeedback": true,
   "_isDip17Plugin": true,
-  "_Dip17Channel": "stable"
+  "_Dip17Channel": "stable",
+  "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/RezPls/images/icon.png"
 }

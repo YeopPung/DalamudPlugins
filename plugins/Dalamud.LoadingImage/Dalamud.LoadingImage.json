@@ -12,5 +12,6 @@
   "Punchline": "Shows the destination zone's concept art while loading",
   "AcceptsFeedback": true,
   "_isDip17Plugin": true,
-  "_Dip17Channel": "stable"
+  "_Dip17Channel": "stable",
+  "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.LoadingImage/images/icon.png"
 }

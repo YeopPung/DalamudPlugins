@@ -14,5 +14,6 @@
   "Punchline": "Browse the market board from anywhere.",
   "AcceptsFeedback": true,
   "_isDip17Plugin": true,
-  "_Dip17Channel": "stable"
+  "_Dip17Channel": "stable",
+  "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MarketBoardPlugin/images/icon.png"
 }

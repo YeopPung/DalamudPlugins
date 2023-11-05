@@ -11,5 +11,6 @@
   "LoadSync": false,
   "LoadPriority": 0,
   "Punchline": "This was supposed to be simple...",
-  "AcceptsFeedback": true
+  "AcceptsFeedback": true,
+  "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleTweaksPlugin/images/icon.png"
 }

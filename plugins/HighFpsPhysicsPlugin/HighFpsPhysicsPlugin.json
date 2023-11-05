@@ -17,5 +17,6 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Reduces the refresh rate of movement physics, \"fixing\" it at high fps.",
-  "AcceptsFeedback": true
+  "AcceptsFeedback": true,
+  "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/HighFpsPhysicsPlugin/images/icon.png"
 }

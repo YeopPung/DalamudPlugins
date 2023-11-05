@@ -19,5 +19,6 @@
   ],
   "IconUrl": "",
   "Punchline": "Customizable ImGui hotbars",
-  "AcceptsFeedback": true
+  "AcceptsFeedback": true,
+  "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/QoLBar/images/icon.png"
 }
