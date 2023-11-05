@@ -241,7 +241,7 @@
     "AcceptsFeedback": false,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
-    "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ChillFrames/images/Icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ChillFrames/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 74682,
@@ -517,6 +517,34 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Distance/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Distance/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Distance/latest.zip"
+  },
+  {
+    "Author": "Felys",
+    "Name": "EnemyListDebuffs",
+    "InternalName": "EnemyListDebuffs",
+    "AssemblyVersion": "0.3.8.0",
+    "Description": "Displays your debuffs on the enemy list. Original implementation credit to aers.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Felys1998/EnemyListDebuffs",
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "Punchline": "Because tracking your DoTs shouldn't be difficult.",
+    "AcceptsFeedback": true,
+    "_isDip17Plugin": true,
+    "_Dip17Channel": "stable",
+    "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/EnemyListDebuffs/images/icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 93769,
+    "CategoryTags": [
+      "UI"
+    ],
+    "LastUpdate": "1699216834",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/EnemyListDebuffs/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/EnemyListDebuffs/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/EnemyListDebuffs/latest.zip"
   },
   {
     "Author": "NightmareXIV",
