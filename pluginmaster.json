@@ -741,7 +741,7 @@
     "Author": "electr0sheep",
     "Name": "Item Vendor Location",
     "InternalName": "ItemVendorLocation",
-    "AssemblyVersion": "2.3.0.0",
+    "AssemblyVersion": "2.3.1.0",
     "Description": "Adds a context menu option for items that will show you where to find items you can buy off a vendor",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/electr0sheep/ItemVendorLocation",
@@ -766,7 +766,7 @@
     "TestingAssemblyVersion": "0.0.0.4",
     "IsTestingExclusive": "False",
     "DownloadCount": 120858,
-    "LastUpdate": "1698760395",
+    "LastUpdate": "1699213193",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ItemVendorLocation/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ItemVendorLocation/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ItemVendorLocation/latest.zip"
