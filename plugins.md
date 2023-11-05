@@ -17,6 +17,7 @@ Current Ver | 6.4
 | Asgard | Brio | Control actors during GPose sessions. |
 | Haplo064, Khayle | [Chat Bubbles](https://github.com/Haplo064/ChatBubbles) | Using native chat bubble display, see who is talking about what in a more natural fashion. |
 | kij | [ChatCoordinates](https://github.com/kissorjeyabalan/dalamud-chatcoordinates) | Places flag marker on map from coordinates in chat.<br>Opens map with given coordinates for current or given zone.<br>See "/coord" for configuration and usage info. |
+| MidoriKami | [Chill Frames](https://github.com/MidoriKami/ChillFrames) | Tired of your GPU melting your face off while just running around? Why render at 240 FPS when you're just staring at that gathering node? Fret no more! Chill Frames allows you dynamically limit your framerate when doing unimportant tasks!<br><br>/pcf help → Display all available commands |
 | MidoriKami | [Daily Duty](https://github.com/MidoriKami/DailyDuty) | Automatically track and complete many daily and weekly tasks.<br><br>/dd help → Display all available commands |
 | goat, modded by Franz | [Discord Chat Bridge](https://github.com/reiichi001/Dalamud.DiscordBridge) | This plugin allows you to receive your chat messages via Discord. |
 | goat | [Ultrawide Cutscenes](https://github.com/goaaats/Dalamud.FullscreenCutscenes) | This plugin removes the "letterboxing" bars when watching cutscenes on ultrawide monitors.<br>Beware! You may see things that you are not supposed to be seeing, such as upcoming NPCs popping in or T-posing.<br><br>Thanks to aers for finding this. |
@@ -38,6 +39,7 @@ Current Ver | 6.4
 | Jawslouis | [MakePlace Plugin](https://github.com/jawslouis/MakePlacePlugin) | Automatically save & load interior and exterior house layouts. Import/export layouts from the MakePlace program. |
 | Bluefissure | [MapLinker](https://github.com/Bluefissure/MapLinker) | Automatically record the maplinks in chat and retrieval later. |
 | fmauNeko | [Market board](https://github.com/fmauNeko/MarketBoardPlugin) | Browse the market board. /pmb to open. |
+| Sevii | Material UI | Auto updating Material UI with customizable accent color and more. Icon by Meconate |
 | daemitus | [ezMiniCactpot](https://github.com/daemitus/MiniCactpotSolver) | This plugin highlights tiles and lines in MiniCactpot that represent the best potential action you can take. |
 | Bluefissure | MultiHit | Papa asked me for this so here it is. |
 | aers, JHerig, abashby | [Nameplate Debuffs](https://github.com/jherig/NamePlateDebuffs) | Displays your debuffs on enemy nameplates. |

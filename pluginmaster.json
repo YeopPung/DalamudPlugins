@@ -221,6 +221,37 @@
   },
   {
     "Author": "MidoriKami",
+    "Name": "Chill Frames",
+    "InternalName": "ChillFrames",
+    "AssemblyVersion": "2.0.0.3",
+    "Description": "Tired of your GPU melting your face off while just running around? Why render at 240 FPS when you're just staring at that gathering node? Fret no more! Chill Frames allows you dynamically limit your framerate when doing unimportant tasks!\n\n/pcf help → Display all available commands",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/MidoriKami/ChillFrames",
+    "Tags": [
+      "utility"
+    ],
+    "CategoryTags": [
+      "Utility"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "Punchline": "Limit Framerate while out of combat",
+    "AcceptsFeedback": false,
+    "_isDip17Plugin": true,
+    "_Dip17Channel": "stable",
+    "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ChillFrames/images/Icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 74682,
+    "LastUpdate": "1699216423",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ChillFrames/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ChillFrames/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ChillFrames/latest.zip"
+  },
+  {
+    "Author": "MidoriKami",
     "Name": "Daily Duty",
     "InternalName": "DailyDuty",
     "AssemblyVersion": "4.0.3.4",
@@ -892,6 +923,34 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MarketBoardPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MarketBoardPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MarketBoardPlugin/latest.zip"
+  },
+  {
+    "Author": "Sevii",
+    "Name": "Material UI",
+    "InternalName": "MaterialUI",
+    "AssemblyVersion": "1.4.9.0",
+    "Description": "Auto updating Material UI with customizable accent color and more. Icon by Meconate",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "ui",
+      "penumbra",
+      "material",
+      "skotlex",
+      "sevii",
+      "accent",
+      "color"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadPriority": 1,
+    "IconUrl": "https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/images/icon.png",
+    "Punchline": "Auto updating Material UI with customizable colors.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1699216560",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MaterialUI/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MaterialUI/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MaterialUI/latest.zip"
   },
   {
     "Author": "daemitus",
