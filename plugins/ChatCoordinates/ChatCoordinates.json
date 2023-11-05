@@ -13,5 +13,6 @@
   "Punchline": "Places flag marker on map from coordinates in chat.",
   "AcceptsFeedback": true,
   "_isDip17Plugin": true,
-  "_Dip17Channel": "stable"
+  "_Dip17Channel": "stable",
+  "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ChatCoordinates/images/icon.png"
 }

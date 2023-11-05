@@ -12,5 +12,6 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Split flytext into multiple flytext.",
-  "AcceptsFeedback": true
+  "AcceptsFeedback": true,
+  "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MultiHit/images/icon.png"
 }

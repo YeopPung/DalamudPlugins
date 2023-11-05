@@ -35,5 +35,6 @@
   "AcceptsFeedback": true,
   "FeedbackMessage": null,
   "_isDip17Plugin": false,
-  "_Dip17Channel": null
+  "_Dip17Channel": null,
+  "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/TextAdvance/images/icon.png"
 }

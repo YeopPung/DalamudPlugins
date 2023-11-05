@@ -11,5 +11,6 @@
   "LoadSync": false,
   "LoadPriority": 0,
   "Punchline": "Chat Commands for Teleporting",
-  "AcceptsFeedback": true
+  "AcceptsFeedback": true,
+  "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/TeleporterPlugin/images/icon.png"
 }

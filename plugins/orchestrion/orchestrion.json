@@ -17,5 +17,9 @@
   "LoadPriority": 0,
   "Punchline": "Adds a simple front-end for browsing and changing the in-game BGM.",
   "Changelog": "Update for 6.2.",
-  "AcceptsFeedback": true
+  "AcceptsFeedback": true,
+  "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/orchestrion/images/icon.png",
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/orchestrion/images/image1.png"
+  ]
 }
