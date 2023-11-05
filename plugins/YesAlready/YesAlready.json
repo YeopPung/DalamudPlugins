@@ -13,6 +13,5 @@
   "ImageUrls": [],
   "IconUrl": "https://github.com/daemitus/YesAlready/raw/master/res/icon.png",
   "Punchline": "Clicks Yes in various dialogs you've specified.",
-  "AcceptsFeedback": true,
-  "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/YesAlready/images/icon.png"
+  "AcceptsFeedback": true
 }
