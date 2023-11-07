@@ -1,0 +1,23 @@
+{
+  "Author": "perchbird",
+  "Name": "Damage Info",
+  "InternalName": "DamageInfoPlugin",
+  "AssemblyVersion": "2.3.0.2",
+  "Description": "Configurable options for in-game fly text color based on damage type, with additional settings for damage source and fly text decluttering options.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/lmcintyre/DamageInfoPlugin",
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "Modifies in-game fly-text for more (or less) damage information.",
+  "AcceptsFeedback": true,
+  "_isDip17Plugin": true,
+  "_Dip17Channel": "stable",
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DamageInfoPlugin/images/image1.png",
+    "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DamageInfoPlugin/images/image2.png",
+    "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DamageInfoPlugin/images/image3.png"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DamageInfoPlugin/images/icon.png"
+}
