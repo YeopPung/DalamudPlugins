@@ -797,6 +797,31 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Glamourer/latest.zip"
   },
   {
+    "Author": "LeonBlade",
+    "Name": "Heels Plugin",
+    "Description": "Offsets your character off the ground for when wearing heels.",
+    "InternalName": "HeelsPlugin",
+    "AssemblyVersion": "1.3.4",
+    "RepoUrl": "https://github.com/LeonBlade/HeelsPlugin",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "heels",
+      "high heels",
+      "height",
+      "offset",
+      "leonblade"
+    ],
+    "DalamudApiLevel": 8,
+    "IconUrl": "https://github.com/LeonBlade/HeelsPlugin/raw/main/icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1699373085",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/HeelsPlugin/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/HeelsPlugin/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/HeelsPlugin/latest.zip"
+  },
+  {
     "Author": "Kirrana",
     "Name": "High FPS Physics Fix",
     "InternalName": "HighFpsPhysicsPlugin",
