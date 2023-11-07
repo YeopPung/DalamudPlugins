@@ -864,6 +864,30 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/JobBars/latest.zip"
   },
   {
+    "Author": "Chirp",
+    "Name": "Ktisis",
+    "InternalName": "Ktisis",
+    "AssemblyVersion": "0.2.18.0",
+    "Description": "A robust posing tool for creating screenshots in GPose.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
+    "Tags": [
+      "gpose",
+      "posing"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadPriority": 0,
+    "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
+    "Punchline": "A robust posing tool for creating screenshots in GPose.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1699357507",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Ktisis/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Ktisis/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Ktisis/latest.zip"
+  },
+  {
     "Author": "Caraxi",
     "Name": "Macro Chain",
     "InternalName": "MacroChain",
