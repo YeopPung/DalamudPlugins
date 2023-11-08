@@ -26,14 +26,14 @@
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Accountant/images/icon.png",
     "Punchline": "타이머 플러그인",
-    "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 205422,
     "LastUpdate": "1698752105",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Accountant/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Accountant/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Accountant/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Accountant/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "yomishino",
@@ -53,14 +53,14 @@
     "IconUrl": "",
     "Punchline": "내가 쓴 스킬의 AoE 표시",
     "Changelog": "v2.0 new features & updates: \n - Effect range for automatically triggered actions, such as heals from Earthly Star when the status effect expires \n - Effect range for summoned pets/companions in addition to ACN/SMN/SCH pets, such as DRK's Esteem and MCH's Autoturret (PvP) \n - Improved implementation and other bug fixes",
-    "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1698763093",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ActionEffectRange/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ActionEffectRange/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ActionEffectRange/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ActionEffectRange/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "LeonBlade",
@@ -88,7 +88,8 @@
     "LastUpdate": "1698755172",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/BDTHPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/BDTHPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/BDTHPlugin/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/BDTHPlugin/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "d87",
@@ -108,7 +109,6 @@
     "IconUrl": "https://raw.githubusercontent.com/rgd87/BigPlayerDebuffs/master/images/icon.png",
     "Punchline": "디버프 크기 키우기",
     "Changelog": "* v1.1.0.8\n * 6.3 Dalamud Update\n",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IsHide": "False",
@@ -121,7 +121,8 @@
     "LastUpdate": "1698755203",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/BigPlayerDebuffs/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/BigPlayerDebuffs/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/BigPlayerDebuffs/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/BigPlayerDebuffs/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Asgard",
@@ -142,14 +143,14 @@
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/AsgardXIV/Brio/main/Resources/Images/BrioIcon.png",
     "Punchline": "단체 자세 관련 플러그인",
-    "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1698763093",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Brio/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Brio/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Brio/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Brio/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Haplo064, Khayle",
@@ -177,7 +178,6 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/Haplo064/ChatBubbles/main/ChatBubbles/images/icon.png",
     "Punchline": "말풍선 플러그인",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IsHide": "False",
@@ -189,7 +189,8 @@
     "LastUpdate": "1698763093",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ChatBubbles/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ChatBubbles/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ChatBubbles/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ChatBubbles/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "kij",
@@ -204,7 +205,6 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "채팅으로 맵에 깃발 꽂기",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ChatCoordinates/images/icon.png",
@@ -218,7 +218,8 @@
     "LastUpdate": "1698763093",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ChatCoordinates/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ChatCoordinates/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ChatCoordinates/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ChatCoordinates/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "MidoriKami",
@@ -239,7 +240,6 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "전투시 중이 아닌 경우 프레임을 낮춰줍니다.",
-    "AcceptsFeedback": false,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ChillFrames/images/icon.png",
@@ -249,7 +249,8 @@
     "LastUpdate": "1699216423",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ChillFrames/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ChillFrames/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ChillFrames/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ChillFrames/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Disabled": false,
@@ -282,7 +283,6 @@
     "CanUnloadAsync": false,
     "SupportsProfiles": true,
     "ImageUrls": null,
-    "AcceptsFeedback": true,
     "FeedbackMessage": null,
     "_Dip17Channel": null,
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/CustomizePlus/images/icon.png",
@@ -292,7 +292,8 @@
     "LastUpdate": "1699370750",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/CustomizePlus/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/CustomizePlus/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/CustomizePlus/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/CustomizePlus/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "MidoriKami",
@@ -315,7 +316,6 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "일일/주간 체크리스트",
-    "AcceptsFeedback": false,
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DailyDuty/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -323,7 +323,8 @@
     "LastUpdate": "1698755498",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DailyDuty/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DailyDuty/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DailyDuty/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DailyDuty/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "goat, modded by Franz",
@@ -344,7 +345,6 @@
     "LoadPriority": 0,
     "Punchline": "인게임 채팅을 디스코드로 받아보세요.",
     "Changelog": "Adds a bandaid for Discord's new username changes. Remember to thank Discord for removing discrimination from their platform. The bot also always accepted user ID numbers, but now it's explicitly mentioned in the setup window.'.\n\nAdds the following new commands:\n- xl!toggledefaultnameavatar - Switches webhook mode to use a generic bot username and avatar so messages stack. Should be combined with xl!togglesender or you will have no idea who said what.",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IsHide": "False",
@@ -356,7 +356,8 @@
     "LastUpdate": "1698756164",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.DiscordBridge/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.DiscordBridge/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.DiscordBridge/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.DiscordBridge/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "goat",
@@ -376,7 +377,6 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "와이드 해상도 좌우 잘림 개선",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.FullscreenCutscenes/images/icon.png",
@@ -386,7 +386,8 @@
     "LastUpdate": "1698763093",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.FullscreenCutscenes/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.FullscreenCutscenes/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.FullscreenCutscenes/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.FullscreenCutscenes/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "goat",
@@ -400,7 +401,6 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "Shows the destination zone's concept art while loading",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.LoadingImage/images/icon.png",
@@ -413,7 +413,8 @@
     "LastUpdate": "1698763093",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.LoadingImage/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.LoadingImage/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.LoadingImage/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.LoadingImage/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "goat",
@@ -432,7 +433,6 @@
     "LoadPriority": 0,
     "Punchline": "디스코드 상태로 당신의 게임 정보를 표시하세요.",
     "Changelog": "API 7 compatibility",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.RichPresence/images/icon.png",
@@ -445,7 +445,8 @@
     "LastUpdate": "1698756164",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.RichPresence/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.RichPresence/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.RichPresence/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Dalamud.RichPresence/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "perchbird",
@@ -460,7 +461,6 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "보다 많은(또는 적은) 인게임 데미지 정보를 표시해줍니다.",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "ImageUrls": [
@@ -478,7 +478,8 @@
     "LastUpdate": "1699358023",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DamageInfoPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DamageInfoPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DamageInfoPlugin/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DamageInfoPlugin/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Kouzukii",
@@ -502,7 +503,6 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "사망원인 분석",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DeathRecap/images/icon.png",
@@ -515,7 +515,8 @@
     "LastUpdate": "1698763093",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DeathRecap/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DeathRecap/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DeathRecap/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DeathRecap/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "WildWolf",
@@ -537,7 +538,6 @@
     "LoadPriority": 0,
     "Punchline": "딥던전 관련 정보 표시",
     "Changelog": "",
-    "AcceptsFeedback": false,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DeepDungeonDex/images/icon.png",
@@ -550,7 +550,8 @@
     "LastUpdate": "1698763093",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DeepDungeonDex/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DeepDungeonDex/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DeepDungeonDex/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DeepDungeonDex/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "PunishedPineapple",
@@ -581,7 +582,6 @@
     ],
     "IconUrl": "https://github.com/PunishedPineapple/Distance/raw/main/docs/Images/icon.png",
     "Punchline": "대상과의 거리 표시",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IsHide": "False",
@@ -590,7 +590,8 @@
     "LastUpdate": "1698763093",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Distance/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Distance/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Distance/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Distance/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Felys",
@@ -605,7 +606,6 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "적대 목록 도트 표시",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/EnemyListDebuffs/images/icon.png",
@@ -618,7 +618,8 @@
     "LastUpdate": "1699216834",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/EnemyListDebuffs/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/EnemyListDebuffs/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/EnemyListDebuffs/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/EnemyListDebuffs/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "NightmareXIV",
@@ -633,7 +634,6 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "적대 목록 HP 표시",
-    "AcceptsFeedback": false,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/EnmityHp/images/icon.png",
@@ -643,7 +643,8 @@
     "LastUpdate": "1698763093",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/EnmityHp/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/EnmityHp/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/EnmityHp/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/EnmityHp/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "daemitus",
@@ -662,7 +663,6 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/daemitus/FauxHollowsSolver/master/res/icon.png",
     "Punchline": "총당님 도우미",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IsHide": "False",
@@ -674,7 +674,8 @@
     "LastUpdate": "1698763545",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/FauxHollowsSolver/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/FauxHollowsSolver/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/FauxHollowsSolver/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/FauxHollowsSolver/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Caraxi",
@@ -689,7 +690,6 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "프레임 표시",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/FPSPlugin/images/icon.png",
@@ -702,7 +702,8 @@
     "LastUpdate": "1698763545",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/FPSPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/FPSPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/FPSPlugin/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/FPSPlugin/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Ottermandias",
@@ -726,7 +727,6 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "채집물, 낚시 등 관련 정보",
-    "AcceptsFeedback": true,
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/GatherBuddy/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -737,7 +737,8 @@
     "LastUpdate": "1698768268",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/GatherBuddy/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/GatherBuddy/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/GatherBuddy/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/GatherBuddy/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Anna",
@@ -752,7 +753,6 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "플러그인으로 저장하는 투영 세트",
-    "AcceptsFeedback": true,
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Glamaholic/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -760,7 +760,8 @@
     "LastUpdate": "1699372887",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Glamaholic/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Glamaholic/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Glamaholic/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Glamaholic/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Ottermandias",
@@ -792,7 +793,8 @@
     "LastUpdate": "1699207708",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Glamourer/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Glamourer/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Glamourer/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Glamourer/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "LeonBlade",
@@ -818,7 +820,8 @@
     "LastUpdate": "1699373085",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/HeelsPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/HeelsPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/HeelsPlugin/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/HeelsPlugin/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Kirrana",
@@ -839,7 +842,6 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "Reduces the refresh rate of movement physics, \"fixing\" it at high fps.",
-    "AcceptsFeedback": true,
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/HighFpsPhysicsPlugin/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -847,7 +849,8 @@
     "LastUpdate": "1698776381",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/HighFpsPhysicsPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/HighFpsPhysicsPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/HighFpsPhysicsPlugin/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/HighFpsPhysicsPlugin/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Tischel",
@@ -866,7 +869,6 @@
     "LoadPriority": 0,
     "Punchline": "인벤토리 검색 플러그인",
     "Changelog": "1.3.0.0\n- Added support for Patch 6.4.",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/InventorySearchBar/images/icon.png",
@@ -876,7 +878,8 @@
     "LastUpdate": "1698763545",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/InventorySearchBar/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/InventorySearchBar/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/InventorySearchBar/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/InventorySearchBar/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Critical_Impact",
@@ -915,7 +918,8 @@
     "LastUpdate": "1698763545",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/InventoryTools/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/InventoryTools/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/InventoryTools/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/InventoryTools/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "electr0sheep",
@@ -939,7 +943,6 @@
     "IconUrl": "https://raw.githubusercontent.com/electr0sheep/ItemVendorLocation/main/Images/icon.png",
     "Punchline": "아이템 판매 위치 알려주는 플러그인",
     "Changelog": "- Added Chinese localization (Nuko)\n- Fix for some Aenc Ose shop data (Nuko)\n- Removed Garland Tools\n- GC bug fixes\n- Add keybinding modifier option",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IsHide": "False",
@@ -948,7 +951,8 @@
     "LastUpdate": "1699213193",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ItemVendorLocation/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ItemVendorLocation/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ItemVendorLocation/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ItemVendorLocation/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "ocealot",
@@ -967,7 +971,6 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "직업 게이지 바",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/JobBars/images/icon.png",
@@ -980,7 +983,8 @@
     "LastUpdate": "1698763545",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/JobBars/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/JobBars/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/JobBars/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/JobBars/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Chirp",
@@ -1004,7 +1008,8 @@
     "LastUpdate": "1699357507",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Ktisis/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Ktisis/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Ktisis/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Ktisis/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Caraxi",
@@ -1019,7 +1024,6 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "매크로를 연결해서 사용해보세요.",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MacroChain/images/icon.png",
@@ -1032,7 +1036,8 @@
     "LastUpdate": "1699269461",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MacroChain/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MacroChain/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MacroChain/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MacroChain/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Jawslouis",
@@ -1055,14 +1060,14 @@
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/icon.png",
     "Punchline": "하우징 프리셋 플러그인",
-    "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1698929525",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MakePlacePlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MakePlacePlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MakePlacePlugin/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MakePlacePlugin/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Bluefissure",
@@ -1078,7 +1083,6 @@
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/Bluefissure/MapLinker/master/images/icon.png",
     "Punchline": "맵 깃발을 목록으로 기록",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IsHide": "False",
@@ -1090,7 +1094,8 @@
     "LastUpdate": "1698763545",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MapLinker/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MapLinker/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MapLinker/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MapLinker/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "fmauNeko",
@@ -1106,7 +1111,6 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "어디서든 장터게시판 시세를 확인할 수 있는 플러그인",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MarketBoardPlugin/images/icon.png",
@@ -1120,7 +1124,8 @@
     "LastUpdate": "1698763545",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MarketBoardPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MarketBoardPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MarketBoardPlugin/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MarketBoardPlugin/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Sevii",
@@ -1148,7 +1153,8 @@
     "LastUpdate": "1699216560",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MaterialUI/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MaterialUI/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MaterialUI/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MaterialUI/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "akira0245, Ori",
@@ -1172,14 +1178,14 @@
     "IconUrl": "https://i.imgur.com/OSxqew4.png",
     "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
     "Changelog": "Update after 6.4.\nFixed electric guitar UI issue.",
-    "AcceptsFeedback": false,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1699423431",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MidiBard2/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MidiBard2/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MidiBard2/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MidiBard2/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "daemitus",
@@ -1195,7 +1201,6 @@
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/daemitus/MiniCactpotSolver/master/res/icon.png",
     "Punchline": "일일복권 도우미",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IsHide": "False",
@@ -1207,7 +1212,8 @@
     "LastUpdate": "1698763545",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MiniCactpotSolver/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MiniCactpotSolver/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MiniCactpotSolver/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MiniCactpotSolver/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Bluefissure",
@@ -1223,7 +1229,6 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "화면에 뜨는 Flytext를 여러개로 나누어주는 플러그인",
-    "AcceptsFeedback": true,
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MultiHit/images/Icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -1231,7 +1236,8 @@
     "LastUpdate": "1698763545",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MultiHit/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MultiHit/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MultiHit/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MultiHit/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "aers, JHerig, abashby",
@@ -1246,7 +1252,6 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "디버프를 이름표 옆에 표시해주는 플러그인",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/NamePlateDebuffs/images/icon.png",
@@ -1260,7 +1265,8 @@
     "LastUpdate": "1698763545",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/NamePlateDebuffs/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/NamePlateDebuffs/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/NamePlateDebuffs/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/NamePlateDebuffs/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "perchbird (originally Meli)",
@@ -1281,7 +1287,6 @@
     "LoadPriority": 0,
     "Punchline": "현재 BGM을 표시하고 변경하는 플러그인",
     "Changelog": "Update for 6.2.",
-    "AcceptsFeedback": true,
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/orchestrion/images/icon.png",
     "ImageUrls": [
       "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/orchestrion/images/image1.png"
@@ -1295,7 +1300,8 @@
     "LastUpdate": "1698777701",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/orchestrion/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/orchestrion/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/orchestrion/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/orchestrion/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Disabled": false,
@@ -1330,7 +1336,6 @@
     "SupportsProfiles": true,
     "ImageUrls": null,
     "IconUrl": "https://github.com/chirpxiv/PalettePlus/raw/main/icon.png",
-    "AcceptsFeedback": true,
     "FeedbackMessage": null,
     "_Dip17Channel": null,
     "IsHide": "False",
@@ -1339,7 +1344,8 @@
     "LastUpdate": "1699352461",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PalettePlus/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PalettePlus/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PalettePlus/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PalettePlus/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "MgAl2O4",
@@ -1360,7 +1366,6 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "쓰담 받은 횟수 기록",
-    "AcceptsFeedback": true,
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PatMe/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -1368,7 +1373,8 @@
     "LastUpdate": "1698929799",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PatMe/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PatMe/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PatMe/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PatMe/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Anna",
@@ -1384,7 +1390,6 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "누가 날 보는지 확인",
-    "AcceptsFeedback": true,
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PeepingTom/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -1396,7 +1401,8 @@
     "LastUpdate": "1698930056",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PeepingTom/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PeepingTom/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PeepingTom/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PeepingTom/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Ottermandias, Adam, Wintermute",
@@ -1420,7 +1426,8 @@
     "LastUpdate": "1698805906",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Penumbra/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Penumbra/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Penumbra/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Penumbra/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "karashiiro",
@@ -1445,7 +1452,6 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/karashiiro/PingPlugin/main/Assets/icon.png",
     "Punchline": "A ping display plugin for Dalamud.",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IsHide": "False",
@@ -1457,7 +1463,8 @@
     "LastUpdate": "1698763545",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PingPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PingPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PingPlugin/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PingPlugin/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Kouzukii",
@@ -1486,14 +1493,14 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PriceInsight/images/icon.png",
     "Punchline": "마우스 오버로 장터 시세를 확인",
-    "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 220075,
     "LastUpdate": "1699214189",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PriceInsight/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PriceInsight/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PriceInsight/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PriceInsight/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "UnknownX",
@@ -1515,7 +1522,6 @@
       ""
     ],
     "Punchline": "커스텀 가능한 단축바",
-    "AcceptsFeedback": true,
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/QoLBar/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -1523,7 +1529,8 @@
     "LastUpdate": "1698929154",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/QoLBar/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/QoLBar/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/QoLBar/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/QoLBar/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Anna",
@@ -1538,7 +1545,6 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "퀘스트 정보를 알려주는 플러그인",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/QuestMap/images/icon.png",
@@ -1548,7 +1554,8 @@
     "LastUpdate": "1698763545",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/QuestMap/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/QuestMap/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/QuestMap/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/QuestMap/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Chalkos",
@@ -1578,7 +1585,6 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPluginsD17/main/stable/RepairMe/images/icon.png",
     "Punchline": "수리 내구도 알림",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IsHide": "False",
@@ -1590,7 +1596,8 @@
     "LastUpdate": "1698763545",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/RepairMe/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/RepairMe/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/RepairMe/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/RepairMe/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Ottermandias",
@@ -1616,7 +1623,6 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "부활 에스나 필요한 사람 보여줌",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/RezPls/images/icon.png",
@@ -1629,7 +1635,8 @@
     "LastUpdate": "1698763545",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/RezPls/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/RezPls/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/RezPls/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/RezPls/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Caraxi",
@@ -1644,14 +1651,14 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "힐 높이 조절",
-    "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1699003944",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleHeels/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleHeels/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleHeels/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleHeels/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Caraxi",
@@ -1666,7 +1673,6 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "편의 기능 제공 플러그인",
-    "AcceptsFeedback": true,
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleTweaksPlugin/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -1680,7 +1686,8 @@
     "LastUpdate": "1699219148",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleTweaksPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleTweaksPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleTweaksPlugin/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleTweaksPlugin/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Det",
@@ -1707,7 +1714,6 @@
     "IconUrl": "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/icon.png",
     "Punchline": "가구 타겟팅 플러그인",
     "Changelog": "6.3 update",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IsHide": "False",
@@ -1716,7 +1722,8 @@
     "LastUpdate": "1698763545",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/TargetFurniture/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/TargetFurniture/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/TargetFurniture/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/TargetFurniture/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Pohky",
@@ -1731,7 +1738,6 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "텔레포트를 명령어로",
-    "AcceptsFeedback": true,
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/TeleporterPlugin/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
@@ -1743,7 +1749,8 @@
     "LastUpdate": "1698928895",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/TeleporterPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/TeleporterPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/TeleporterPlugin/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/TeleporterPlugin/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Disabled": false,
@@ -1771,7 +1778,6 @@
     "LoadPriority": 0,
     "CanUnloadAsync": false,
     "ImageUrls": null,
-    "AcceptsFeedback": true,
     "FeedbackMessage": null,
     "_isDip17Plugin": false,
     "_Dip17Channel": null,
@@ -1782,7 +1788,8 @@
     "LastUpdate": "1698763545",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/TextAdvance/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/TextAdvance/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/TextAdvance/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/TextAdvance/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "MgAl2O4",
@@ -1801,7 +1808,6 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "트리플 트라이어드 도우미",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/TriadBuddy/images/icon.png",
@@ -1819,7 +1825,8 @@
     "LastUpdate": "1698763545",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/TriadBuddy/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/TriadBuddy/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/TriadBuddy/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/TriadBuddy/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "ocealot",
@@ -1838,7 +1845,6 @@
     "LoadSync": false,
     "LoadPriority": 69,
     "Punchline": "VFX 에디터 및 뷰어",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/VFXEditor/images/icon.png",
@@ -1851,7 +1857,8 @@
     "LastUpdate": "1698763545",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/VFXEditor/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/VFXEditor/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/VFXEditor/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/VFXEditor/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Dragon",
@@ -1876,7 +1883,6 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "여러 대상 카테고리를 보이게/안보이게 설정",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Visibility/images/icon.png",
@@ -1889,7 +1895,8 @@
     "LastUpdate": "1698763545",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Visibility/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Visibility/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Visibility/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Visibility/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Avaflow, NPittinger",
@@ -1907,7 +1914,6 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "대기열 표시 플러그인",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Waitingway.Dalamud/images/icon.png",
@@ -1917,7 +1923,8 @@
     "LastUpdate": "1698763545",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Waitingway.Dalamud/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Waitingway.Dalamud/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Waitingway.Dalamud/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Waitingway.Dalamud/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "PunishedPineapple, abashby",
@@ -1938,7 +1945,6 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "지면징 프리셋",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/WaymarkPresetPlugin/images/icon.png",
@@ -1956,7 +1962,8 @@
     "LastUpdate": "1698763545",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/WaymarkPresetPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/WaymarkPresetPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/WaymarkPresetPlugin/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/WaymarkPresetPlugin/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "NightmareXIV",
@@ -1971,7 +1978,6 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "보이는 날씨와 시간을 조절할 수 있는 플러그인",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Weatherman/images/icon.png",
@@ -1981,7 +1987,8 @@
     "LastUpdate": "1699370490",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Weatherman/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Weatherman/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Weatherman/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Weatherman/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Asgard",
@@ -2003,7 +2010,8 @@
     "LastUpdate": "1698766466",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/XAT.Plugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/XAT.Plugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/XAT.Plugin/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/XAT.Plugin/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Attick",
@@ -2022,7 +2030,6 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "콤보 자동으로 바꿔주는 플러그인",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/XIVCombo/images/icon.png",
@@ -2035,7 +2042,8 @@
     "LastUpdate": "1699356681",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/XIVCombo/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/XIVCombo/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/XIVCombo/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/XIVCombo/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "daemitus",
@@ -2052,14 +2060,14 @@
     "ImageUrls": [],
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/YesAlready/images/Icon.png",
     "Punchline": "자동으로 예를 눌러주는 플러그인",
-    "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1698763545",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/YesAlready/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/YesAlready/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/YesAlready/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/YesAlready/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "daemitus, hiroa",
@@ -2076,7 +2084,6 @@
     "ImageUrls": [],
     "IconUrl": "https://raw.githubusercontent.com/daemitus/ZodiacBuddy/master/images/icon.png",
     "Punchline": "고대무기 관련 정보",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IsHide": "False",
@@ -2085,7 +2092,8 @@
     "LastUpdate": "1698763545",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ZodiacBuddy/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ZodiacBuddy/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ZodiacBuddy/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ZodiacBuddy/latest.zip",
+    "AcceptsFeedback": false
   },
   {
     "Author": "Nagi'to Atreides",
@@ -2110,7 +2118,6 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "Case-Insensitive Slash Commands",
-    "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "testing",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/testing/Casexile/images/icon.png",
@@ -2121,6 +2128,7 @@
     "LastUpdate": "1699415108",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/testing/Casexile/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/testing/Casexile/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/testing/Casexile/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/testing/Casexile/latest.zip",
+    "AcceptsFeedback": false
   }
 ]
