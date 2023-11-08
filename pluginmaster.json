@@ -2086,8 +2086,8 @@
     "TestingAssemblyVersion": "1.0.0.0",
     "IsTestingExclusive": "True",
     "LastUpdate": "1699413553",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Casexile/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Casexile/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Casexile/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/testing/Casexile/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/testing/Casexile/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/testing/Casexile/latest.zip"
   }
 ]
