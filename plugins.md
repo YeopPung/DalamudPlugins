@@ -10,20 +10,20 @@ Current Ver | 6.4
 
 | 제작자 | 플러그인 | 설명 |
 |---------------|---------------|-----------------|
-| Ottermandias | [Accountant](https://github.com/Ottermandias/Accountant) | Keep track of retainer, airship, submersible, aetherial wheel and crop timers<br>as well as several miscallaneous tasks of multiple characters. |
+| Ottermandias | [Accountant](https://github.com/Ottermandias/Accountant) | 집사, 비공정, 잠수함, 일일/주간 복권 등 타이머를 표시해주는 플러그인입니다. |
 | yomishino | [ActionEffectRange](https://github.com/yomishino/FFXIVActionEffectRange) | This plugin provides a visual cue on the effect range of the AoE action you just used.<br><br>May be used as a supplement/replacement to the actions' VFXs in showing effect range related information, such as where has the action landed and how large an area it covered. |
-| LeonBlade | [Burning Down the House](https://github.com/LeonBlade/BDTHPlugin) | Move around housing items with coordinates and allows you to place anywhere. |
-| d87 | [BigPlayerDebuffs](https://github.com/rgd87/BigPlayerDebuffs) | Scales up buffs/debuffs applied by you on Target Status frames |
+| LeonBlade | [Burning Down the House](https://github.com/LeonBlade/BDTHPlugin) | 하우징 아이템들을 위치 제약에 상관없이 설치해보세요. |
+| d87 | [BigPlayerDebuffs](https://github.com/rgd87/BigPlayerDebuffs) | 대상에게 건 디버프를 크게 보여줍니다. |
 | Asgard | Brio | Control actors during GPose sessions. |
-| Haplo064, Khayle | [Chat Bubbles](https://github.com/Haplo064/ChatBubbles) | Using native chat bubble display, see who is talking about what in a more natural fashion. |
+| Haplo064, Khayle | [Chat Bubbles](https://github.com/Haplo064/ChatBubbles) | 말풍선으로 누가 어떤 이야기를 하는지 보다 자연스럽게 확인할 수 있습니다. |
 | kij | [ChatCoordinates](https://github.com/kissorjeyabalan/dalamud-chatcoordinates) | Places flag marker on map from coordinates in chat.<br>Opens map with given coordinates for current or given zone.<br>See "/coord" for configuration and usage info. |
-| MidoriKami | [Chill Frames](https://github.com/MidoriKami/ChillFrames) | Tired of your GPU melting your face off while just running around? Why render at 240 FPS when you're just staring at that gathering node? Fret no more! Chill Frames allows you dynamically limit your framerate when doing unimportant tasks!<br><br>/pcf help → Display all available commands |
+| MidoriKami | [Chill Frames](https://github.com/MidoriKami/ChillFrames) | 전투시 중이 아닌 경우 프레임을 낮춰줍니다.<br><br>/pcf help → 사용 가능한 모든 명령어 |
 | XIV Tools | Customize+ | A plugin that allows you to create and apply Anamnesis-style body scaling full time. |
 | MidoriKami | [Daily Duty](https://github.com/MidoriKami/DailyDuty) | Automatically track and complete many daily and weekly tasks.<br><br>/dd help → Display all available commands |
-| goat, modded by Franz | [Discord Chat Bridge](https://github.com/reiichi001/Dalamud.DiscordBridge) | This plugin allows you to receive your chat messages via Discord. |
+| goat, modded by Franz | [Discord Chat Bridge](https://github.com/reiichi001/Dalamud.DiscordBridge) | 이 플러그인은 인게임 채팅을 디스코드로 받을 수 있게 해줍니다. |
 | goat | [Ultrawide Cutscenes](https://github.com/goaaats/Dalamud.FullscreenCutscenes) | This plugin removes the "letterboxing" bars when watching cutscenes on ultrawide monitors.<br>Beware! You may see things that you are not supposed to be seeing, such as upcoming NPCs popping in or T-posing.<br><br>Thanks to aers for finding this. |
 | goat | Fancy Loading Screens | This plugin shows the destination zone's concept art while loading.<br>NOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry! |
-| goat | [Discord Rich Presence](https://github.com/goaaats/Dalamud.RichPresence) | This plugin allows you to show your zone, job, level, name, and world in your Discord status. |
+| goat | [Discord Rich Presence](https://github.com/goaaats/Dalamud.RichPresence) | 이 플러그인은 당신의 위치, 직업, 레벨, 이름, 그리고 서버를 디스코드 상태에 표시해줍니다. |
 | perchbird | [Damage Info](https://github.com/lmcintyre/DamageInfoPlugin) | Configurable options for in-game fly text color based on damage type, with additional settings for damage source and fly text decluttering options. |
 | Kouzukii | [Death Recap](https://github.com/Kouzukii/ffxiv-deathrecap) | Quickly figure out what killed you or your party members!<br><br>Shows:<br>- Healing<br>- Damage taken<br>- Debuffs<br>- Buffs<br>- Barriers<br>- Addle, Feint, Reprisal on damage source |
 | WildWolf | [DeepDungeonDex](https://github.com/wolfcomp/DeepDungeonDex) | A live bestiary for Deep Dungeon.<br>Shows target mob aggro type, a subjective threat level, status vulnerabilities, and a general overview of notable mechanics.<br>Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with deep dungeon mechanics and the class being played.<br>Information is accurate to the best of my knowledge based on crowdsourced information, but I could use your help! Please open an issue on the GitHub if you'd like to correct inaccurate or untested data.<br>Original by Strati |
@@ -33,7 +33,7 @@ Current Ver | 6.4
 | daemitus | [ezFauxHollows](https://github.com/daemitus/FauxHollowsSolver) | This plugin highlights tiles in Faux Hollows that represent the best potential action you can take. |
 | Caraxi | [FPS Plugin](https://github.com/Caraxi/FPSPlugin) | Display game FPS. It really is that simple. |
 | Ottermandias | [GatherBuddy](https://github.com/Ottermandias/GatherBuddy) | Adds commands to simplify gathering by finding nodes and fish and their locations<br>via item name and a UI to keep track of special uptime and weather conditions. |
-| Anna | [Glamaholic](https://git.anna.lgbt/anna/Glamaholic) | Create and save as many glamour plates as you want. Activate up to 15 of them<br>at once at the Glamour Dresser. Supports exporting and importing plates for<br>easy sharing.<br> |
+| Anna | [Glamaholic](https://git.anna.lgbt/anna/Glamaholic) | 하는 만큼의 투영 세트를 저장하세요. 20개 이상 저장할 수 있습니다. export와 import 지원.<br> |
 | Ottermandias | [Glamourer](https://github.com/Ottermandias/Glamourer) | Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra. |
 | LeonBlade | [Heels Plugin](https://github.com/LeonBlade/HeelsPlugin) | Offsets your character off the ground for when wearing heels. |
 | Kirrana | [High FPS Physics Fix](https://github.com/Kirrana/xivlauncher_physics_plugin) | Causes the game's physics to work at higher FPS by making it update every few frames. <br>Toggle with '/physics t', or use on/off instead of t. <br>May cause excessive jiggling at lower FPS values. <br>Disabling the entire plugin after turning on/off with /physics requires reboot to reenable. |
@@ -42,7 +42,7 @@ Current Ver | 6.4
 | electr0sheep | [Item Vendor Location](https://github.com/electr0sheep/ItemVendorLocation) | Adds a context menu option for items that will show you where to find items you can buy off a vendor |
 | ocealot | [JobBars](https://github.com/0ceal0t/JobBars) | Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN |
 | Chirp | [Ktisis](https://github.com/ktisis-tools/Ktisis) | A robust posing tool for creating screenshots in GPose. |
-| Caraxi | [Macro Chain](https://github.com/Caraxi/MacroChain) | Allows for a macro to continue onto the next macro by using '/nextmacro' on the last line of a macro.<br>Adding '/nextmacro' on the last line of Macro #01 will automatically execute Macro #02<br>Adding '/nextmacro down' on the last line of Macro #01 will automatically execute Macro #11<br>Also allows executing any macro from chat using '/runmacro' but this command cannot be used while macros are running. |
+| Caraxi | [Macro Chain](https://github.com/Caraxi/MacroChain) | 매크로의 마지막 줄에 '/nextmacro'를 넣어서 다음 매크로가 이어서 실행되게 합니다.<br>1번 매크로의 마지막 줄에 '/nextmacro' 를 입력해두면, 자동으로 2번 매크로가 실행됩니다.<br>1번 매크로의 마지막 줄에 '/nextmacro down' 를 입력해두면 자동으로 11번 매크로가 실행됩니다.<br>또한, 채팅창에 '/runmacro' 를 입력하면 그 매크로를 실행해주지만, 매크로 내에서 사용할 수는 없습니다. |
 | Jawslouis | [MakePlace Plugin](https://github.com/jawslouis/MakePlacePlugin) | Automatically save & load interior and exterior house layouts. Import/export layouts from the MakePlace program. |
 | Bluefissure | [MapLinker](https://github.com/Bluefissure/MapLinker) | Automatically record the maplinks in chat and retrieval later. |
 | fmauNeko | [Market board](https://github.com/fmauNeko/MarketBoardPlugin) | Browse the market board. /pmb to open. |
@@ -54,7 +54,7 @@ Current Ver | 6.4
 | Chirp | [Palette+](https://github.com/chirpxiv/PalettePlus) | Custom color palettes for FFXIV characters. |
 | MgAl2O4 | Pat Me | Did you ever wonder how many times your Lala gets a pat? Well, now you can count it! |
 | Anna | [Peeping Tom](https://git.anna.lgbt/anna/PeepingTom) | Shows who is currently or was previously targeting you. |
-| Ottermandias, Adam, Wintermute | [Penumbra](https://github.com/xivdev/Penumbra) | Runtime mod loader and manager. |
+| Ottermandias, Adam, Wintermute | [Penumbra](https://github.com/xivdev/Penumbra) | 모드 적용 및 관리 플러그인 |
 | karashiiro | [PingPlugin](https://github.com/karashiiro/PingPlugin) | A ping display plugin for Dalamud. |
 | Kouzukii | [Price Insight](https://github.com/kouzukii/ffxiv-priceinsight) | Whenever you mouseover an item, it will show you the NQ/HQ marketboard prices at the bottom as well as the most recent purchase.<br>Prices are retrieved from Universalis.app and cached for 90 minutes.<br>To refresh a price you can tap Alt while hovering over an item.<br> |
 | UnknownX | [QoL Bar](https://github.com/UnknownX7/QoLBar) | A plugin designed to provide a simple, customizable and always available interface for chat commands<br>or other plugins to alleviate the need for using macros and hotbar space to achieve similar results.<br><br>The plugin should initially appear as a small box on the bottom center of the game window. |
