@@ -103,6 +103,8 @@ Foreach-Object {
     $updateLink = $dlTemplateUpdate -f "plugins", $internalName
     $content | add-member -Force -Name "DownloadLinkUpdate" $updateLink -MemberType NoteProperty
 
+    $content | add-member -Force -Name "AcceptsFeedback" $False -MemberType NoteProperty
+
     $output.Add($content)
 }
 
@@ -157,6 +159,8 @@ Foreach-Object {
         $updateLink = $dlTemplateUpdate -f "testing", $internalName
         $content | add-member -Force -Name "DownloadLinkUpdate" $updateLink -MemberType NoteProperty
 
+        $content | add-member -Force -Name "AcceptsFeedback" $False -MemberType NoteProperty
+        
         $output.Add($content)
     }
 }
