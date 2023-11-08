@@ -554,6 +554,37 @@
     "AcceptsFeedback": false
   },
   {
+    "Author": "Tischel",
+    "Name": "DelvUI",
+    "InternalName": "DelvUI",
+    "AssemblyVersion": "2.0.3.1",
+    "Description": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/delvui/delvui",
+    "Tags": [
+      "UI"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "Punchline": "A modern HUD replacement built for customization.",
+    "_isDip17Plugin": true,
+    "_Dip17Channel": "stable",
+    "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DelvUI/images/icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 333081,
+    "CategoryTags": [
+      "UI"
+    ],
+    "LastUpdate": "1699436838",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DelvUI/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DelvUI/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/DelvUI/latest.zip",
+    "AcceptsFeedback": false
+  },
+  {
     "Author": "PunishedPineapple",
     "Name": "Distance",
     "InternalName": "Distance",
@@ -619,6 +650,49 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/EnemyListDebuffs/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/EnemyListDebuffs/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/EnemyListDebuffs/latest.zip",
+    "AcceptsFeedback": false
+  },
+  {
+    "Author": "Xorus",
+    "Name": "EngageTimer",
+    "InternalName": "EngageTimer",
+    "AssemblyVersion": "2.2.5.2",
+    "Description": "Finally, display all the numbers when starting a countdown!\nComes with an accurate pull timer that starts when you or any of your party members enter combat.\n\nFeatures :\n- Big countdown that displays all the numbers\n- Customizable big-number textures (default, yellow, WoW style or custom files)\n- Display combat time in the Server Info Bar, and/or a floating window\n- OBS browser-source compatible page with countdown and current combat duration\n\nWhy the OBS thing ? Well, it can be useful if you want a big stylized stopwatch in your recordings.\nSee repository for more info.\n\nFeel free so send me feedback, bugs and potential improvements!",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/xorus/EngageTimer",
+    "Tags": [
+      "countdown",
+      "pull timer",
+      "stopwatch",
+      "OBS",
+      "overlay",
+      "streaming",
+      "combat"
+    ],
+    "CategoryTags": [
+      "jobs"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/image1.png",
+      "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/image2.png",
+      "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/image3.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/icon.png",
+    "Punchline": "Complete combat countdown, pull timer and OBS overlay",
+    "Changelog": "- Floating Window: option to change the countdown color when casting a spell that will result in a pre-pull.\n- Floating Window: uses the global font-scale, you might need to adjust the font size after the update.\n- Settings: support for closing the settings window with Escape (WindowSystem features)",
+    "_isDip17Plugin": true,
+    "_Dip17Channel": "stable",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 410863,
+    "LastUpdate": "1699436463",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/EngageTimer/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/EngageTimer/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/EngageTimer/latest.zip",
     "AcceptsFeedback": false
   },
   {
@@ -1495,6 +1569,44 @@
     "AcceptsFeedback": false
   },
   {
+    "Author": "Haplo064",
+    "Name": "Pixel Perfect",
+    "InternalName": "PixelPerfect",
+    "AssemblyVersion": "3.0.3.0",
+    "Description": "Showing exactly where to stand since 2020.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Haplo064/PixelPerfect",
+    "Tags": [
+      "Hitbox",
+      "Overlay",
+      "Indicator"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/image1.png",
+      "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/image2.png",
+      "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/image3.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/icon.png",
+    "Punchline": "Reveals your hitbox, with customisable features.",
+    "_isDip17Plugin": true,
+    "_Dip17Channel": "stable",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 325878,
+    "CategoryTags": [
+      "UI"
+    ],
+    "LastUpdate": "1699436452",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PixelPerfect/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PixelPerfect/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PixelPerfect/latest.zip",
+    "AcceptsFeedback": false
+  },
+  {
     "Author": "Kouzukii",
     "Name": "Price Insight",
     "InternalName": "PriceInsight",
@@ -2157,6 +2269,35 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/testing/Casexile/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/testing/Casexile/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/testing/Casexile/latest.zip",
+    "AcceptsFeedback": false
+  },
+  {
+    "Author": "Tischel",
+    "Name": "DelvCD",
+    "InternalName": "DelvCD",
+    "AssemblyVersion": "0.4.0.1",
+    "Description": "DelvCD provides highly customizable UI elements that can be used to track cooldows, status and more with configurable conditions.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/DelvUI/DelvCD",
+    "Tags": [
+      "UI"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "Punchline": "Customizable UI elements to track cooldowns, status and more.",
+    "_isDip17Plugin": true,
+    "_Dip17Channel": "testing",
+    "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/testing/DelvCD/images/icon.png",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.4.0.1",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1699436828",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/testing/DelvCD/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/testing/DelvCD/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/testing/DelvCD/latest.zip",
     "AcceptsFeedback": false
   }
 ]
