@@ -797,6 +797,34 @@
     "AcceptsFeedback": false
   },
   {
+    "Author": "Anna",
+    "Name": "Globetrotter",
+    "InternalName": "Globetrotter",
+    "AssemblyVersion": "1.2.9",
+    "Description": "Automatically shows where treasure maps are located.\n\nIcon: Map by Adrien Coquet from the Noun Project",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://git.anna.lgbt/anna/Globetrotter",
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "Punchline": "Automatically shows where treasure maps are located.",
+    "_isDip17Plugin": true,
+    "_Dip17Channel": "stable",
+    "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Globetrotter/images/Icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 322739,
+    "CategoryTags": [
+      "utility"
+    ],
+    "LastUpdate": "1699426215",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Globetrotter/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Globetrotter/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Globetrotter/latest.zip",
+    "AcceptsFeedback": false
+  },
+  {
     "Author": "LeonBlade",
     "Name": "Heels Plugin",
     "Description": "Offsets your character off the ground for when wearing heels.",
