@@ -47,6 +47,7 @@ Current Ver | 6.4
 | Bluefissure | [MapLinker](https://github.com/Bluefissure/MapLinker) | Automatically record the maplinks in chat and retrieval later. |
 | fmauNeko | [Market board](https://github.com/fmauNeko/MarketBoardPlugin) | Browse the market board. /pmb to open. |
 | Sevii | Material UI | Auto updating Material UI with customizable accent color and more. Icon by Meconate |
+| akira0245, Ori | [MidiBard 2](https://midibard.org) | Bard performance using midi files or keyboard.<br>- Solo and ensemble mode support<br>- Text commands for instrument equip and switch<br>Supported by FFXIV Bards & Bands Community: discord.gg/ff14bard |
 | daemitus | [ezMiniCactpot](https://github.com/daemitus/MiniCactpotSolver) | This plugin highlights tiles and lines in MiniCactpot that represent the best potential action you can take. |
 | Bluefissure | MultiHit | Papa asked me for this so here it is. |
 | aers, JHerig, abashby | [Nameplate Debuffs](https://github.com/jherig/NamePlateDebuffs) | Displays your debuffs on enemy nameplates. |
