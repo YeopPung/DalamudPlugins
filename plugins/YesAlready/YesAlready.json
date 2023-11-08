@@ -12,6 +12,6 @@
   "LoadPriority": 1,
   "ImageUrls": [],
   "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/YesAlready/images/Icon.png",
-  "Punchline": "Clicks Yes in various dialogs you've specified.",
+  "Punchline": "자동으로 예를 눌러주는 플러그인",
   "AcceptsFeedback": true
 }

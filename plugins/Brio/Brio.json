@@ -16,6 +16,6 @@
   "LoadSync": false,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/AsgardXIV/Brio/main/Resources/Images/BrioIcon.png",
-  "Punchline": "Actor control for GPose.",
+  "Punchline": "단체 자세 관련 플러그인",
   "AcceptsFeedback": true
 }

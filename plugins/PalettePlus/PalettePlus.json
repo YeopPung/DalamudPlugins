@@ -8,7 +8,7 @@
   "EffectiveVersion": "0.3.10.0",
   "Author": "Chirp",
   "Name": "Palette+",
-  "Punchline": "Custom color palettes for FFXIV characters.",
+  "Punchline": "캐릭터의 머리, 눈, 피부색 등을 변경하는 플러그인",
   "Description": "Custom color palettes for FFXIV characters.",
   "Changelog": null,
   "Tags": [

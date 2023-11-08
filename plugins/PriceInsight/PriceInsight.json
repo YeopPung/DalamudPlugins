@@ -24,6 +24,6 @@
     "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PriceInsight/images/image1.png"
   ],
   "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PriceInsight/images/icon.png",
-  "Punchline": "See item marketboard prices on hover!",
+  "Punchline": "마우스 오버로 장터 시세를 확인",
   "AcceptsFeedback": true
 }

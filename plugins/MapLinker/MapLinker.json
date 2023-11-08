@@ -11,7 +11,7 @@
   "LoadSync": false,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/Bluefissure/MapLinker/master/images/icon.png",
-  "Punchline": "Record the maplinks in chat",
+  "Punchline": "맵 깃발을 목록으로 기록",
   "AcceptsFeedback": true,
   "_isDip17Plugin": true,
   "_Dip17Channel": "stable"

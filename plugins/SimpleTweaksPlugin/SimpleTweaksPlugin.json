@@ -10,7 +10,7 @@
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
-  "Punchline": "This was supposed to be simple...",
+  "Punchline": "편의 기능 제공 플러그인",
   "AcceptsFeedback": true,
   "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleTweaksPlugin/images/icon.png"
 }

@@ -1,7 +1,8 @@
 {
   "Author": "LeonBlade",
   "Name": "Burning Down the House",
-  "Description": "Move around housing items with coordinates and allows you to place anywhere.",
+  "Punchline":"하우징 플러그인",
+  "Description": "하우징 아이템들을 위치 제약에 상관없이 설치해보세요.",
   "InternalName": "BDTHPlugin",
   "AssemblyVersion": "1.5.9",
   "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",

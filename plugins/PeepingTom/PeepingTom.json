@@ -11,7 +11,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "Shows who is currently or was previously targeting you.",
+  "Punchline": "누가 날 보는지 확인",
   "AcceptsFeedback": true,
   "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PeepingTom/images/icon.png"
 }

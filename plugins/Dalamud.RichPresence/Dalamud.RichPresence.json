@@ -3,7 +3,7 @@
   "Name": "Discord Rich Presence",
   "InternalName": "Dalamud.RichPresence",
   "AssemblyVersion": "2.0.2.0",
-  "Description": "This plugin allows you to show your zone, job, level, name, and world in your Discord status.",
+  "Description": "이 플러그인은 당신의 위치, 직업, 레벨, 이름, 그리고 서버를 디스코드 상태에 표시해줍니다.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/goaaats/Dalamud.RichPresence",
   "Tags": [
@@ -13,7 +13,7 @@
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
-  "Punchline": "Show your zone, job, level, name, and world in your Discord status",
+  "Punchline": "디스코드 상태로 당신의 게임 정보를 표시하세요.",
   "Changelog": "API 7 compatibility",
   "AcceptsFeedback": true,
   "_isDip17Plugin": true,

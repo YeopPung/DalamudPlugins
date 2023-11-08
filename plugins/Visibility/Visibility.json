@@ -20,7 +20,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "Allows you to hide players, pets, chocobos and minions.",
+  "Punchline": "여러 대상 카테고리를 보이게/안보이게 설정",
   "AcceptsFeedback": true,
   "_isDip17Plugin": true,
   "_Dip17Channel": "stable",

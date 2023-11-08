@@ -15,7 +15,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "Adds a simple front-end for browsing and changing the in-game BGM.",
+  "Punchline": "현재 BGM을 표시하고 변경하는 플러그인",
   "Changelog": "Update for 6.2.",
   "AcceptsFeedback": true,
   "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/orchestrion/images/icon.png",

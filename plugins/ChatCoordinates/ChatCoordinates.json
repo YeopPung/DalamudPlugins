@@ -10,7 +10,7 @@
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
-  "Punchline": "Places flag marker on map from coordinates in chat.",
+  "Punchline": "채팅으로 맵에 깃발 꽂기",
   "AcceptsFeedback": true,
   "_isDip17Plugin": true,
   "_Dip17Channel": "stable",

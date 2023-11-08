@@ -16,7 +16,7 @@
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
-  "Punchline": "Pat counter",
+  "Punchline": "쓰담 받은 횟수 기록",
   "AcceptsFeedback": true,
   "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PatMe/images/icon.png"
 }

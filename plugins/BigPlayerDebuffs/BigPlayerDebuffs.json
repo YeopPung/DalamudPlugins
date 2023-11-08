@@ -3,7 +3,7 @@
   "Name": "BigPlayerDebuffs",
   "InternalName": "BigPlayerDebuffs",
   "AssemblyVersion": "1.1.0.8",
-  "Description": "Scales up buffs/debuffs applied by you on Target Status frames",
+  "Description": "대상에게 건 디버프를 크게 보여줍니다.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/rgd87/BigPlayerDebuffs",
   "DalamudApiLevel": 8,
@@ -14,7 +14,7 @@
     "https://raw.githubusercontent.com/rgd87/BigPlayerDebuffs/master/images/image1.png"
   ],
   "IconUrl": "https://raw.githubusercontent.com/rgd87/BigPlayerDebuffs/master/images/icon.png",
-  "Punchline": "Larger personal debuffs",
+  "Punchline": "디버프 크기 키우기",
   "Changelog": "* v1.1.0.8\n * 6.3 Dalamud Update\n",
   "AcceptsFeedback": true,
   "_isDip17Plugin": true,

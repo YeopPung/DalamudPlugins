@@ -10,7 +10,7 @@
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
-  "Punchline": "Modifies in-game fly-text for more (or less) damage information.",
+  "Punchline": "보다 많은(또는 적은) 인게임 데미지 정보를 표시해줍니다.",
   "AcceptsFeedback": true,
   "_isDip17Plugin": true,
   "_Dip17Channel": "stable",

@@ -13,7 +13,7 @@
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
-  "Punchline": "Crowdsourced FFXIV login queue times, now with Discord queue notification features.",
+  "Punchline": "대기열 표시 플러그인",
   "AcceptsFeedback": true,
   "_isDip17Plugin": true,
   "_Dip17Channel": "stable",

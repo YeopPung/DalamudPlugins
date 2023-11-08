@@ -18,7 +18,7 @@
     "https://raw.githubusercontent.com/electr0sheep/ItemVendorLocation/main/Images/ContextMenu.png"
   ],
   "IconUrl": "https://raw.githubusercontent.com/electr0sheep/ItemVendorLocation/main/Images/icon.png",
-  "Punchline": "Shows you where to buy vendor items",
+  "Punchline": "아이템 판매 위치 알려주는 플러그인",
   "Changelog": "- Added Chinese localization (Nuko)\n- Fix for some Aenc Ose shop data (Nuko)\n- Removed Garland Tools\n- GC bug fixes\n- Add keybinding modifier option",
   "AcceptsFeedback": true,
   "_isDip17Plugin": true,

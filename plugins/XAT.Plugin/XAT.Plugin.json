@@ -1,7 +1,7 @@
 {
   "Author": "Asgard",
   "Name": "XAT",
-  "Punchline": "Create and edit animations and cutscenes.",
+  "Punchline": "애니메이션과 컷신을 만들고 수정할 수 있는 플러그인",
   "Description": "Create and edit animations and cutscenes.",
   "AssemblyVersion": "2023.1.11.2051",
   "InternalName": "XAT.Plugin",

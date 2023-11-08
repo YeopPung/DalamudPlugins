@@ -11,7 +11,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "Browse the market board from anywhere.",
+  "Punchline": "어디서든 장터게시판 시세를 확인할 수 있는 플러그인",
   "AcceptsFeedback": true,
   "_isDip17Plugin": true,
   "_Dip17Channel": "stable",

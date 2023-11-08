@@ -21,7 +21,7 @@
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
-  "Punchline": "Highlighting of Raises and detrimental status effects.",
+  "Punchline": "부활 에스나 필요한 사람 보여줌",
   "AcceptsFeedback": true,
   "_isDip17Plugin": true,
   "_Dip17Channel": "stable",

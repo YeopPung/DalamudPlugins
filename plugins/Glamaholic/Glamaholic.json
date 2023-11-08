@@ -3,14 +3,14 @@
   "Name": "Glamaholic",
   "InternalName": "Glamaholic",
   "AssemblyVersion": "1.9.13.0",
-  "Description": "Create and save as many glamour plates as you want. Activate up to 15 of them\nat once at the Glamour Dresser. Supports exporting and importing plates for\neasy sharing.\n",
+  "Description": "하는 만큼의 투영 세트를 저장하세요. 20개 이상 저장할 수 있습니다. export와 import 지원.\n",
   "ApplicableVersion": "any",
   "RepoUrl": "https://git.anna.lgbt/anna/Glamaholic",
   "DalamudApiLevel": 8,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
-  "Punchline": "Save and swap your glamour plates.",
+  "Punchline": "플러그인으로 저장하는 투영 세트",
   "AcceptsFeedback": true,
   "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Glamaholic/images/icon.png"
 }

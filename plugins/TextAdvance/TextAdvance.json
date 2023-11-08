@@ -8,7 +8,7 @@
   "IsAvailableForTesting": false,
   "Author": "NightmareXIV",
   "Name": "TextAdvance",
-  "Punchline": null,
+  "Punchline": "컷신, 대화 박스 자동 스킵",
   "Description": "Quest speedrunning assistance tool. Automatically skips subtitle boxes and confirms cutscene skipping",
   "Changelog": null,
   "Tags": null,

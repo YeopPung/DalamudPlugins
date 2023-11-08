@@ -18,6 +18,6 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/icon.png",
-  "Punchline": "Automatically save & load furniture layouts in your house.",
+  "Punchline": "하우징 프리셋 플러그인",
   "AcceptsFeedback": true
 }

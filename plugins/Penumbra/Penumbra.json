@@ -1,7 +1,7 @@
 {
     "Author": "Ottermandias, Adam, Wintermute",
     "Name": "Penumbra",
-    "Description": "Runtime mod loader and manager.",
+    "Description": "모드 적용 및 관리 플러그인",
     "InternalName": "Penumbra",
     "AssemblyVersion": "0.7.3.2",
     "RepoUrl": "https://github.com/xivdev/Penumbra",

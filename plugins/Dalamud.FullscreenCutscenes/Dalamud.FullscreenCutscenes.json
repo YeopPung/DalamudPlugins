@@ -15,7 +15,7 @@
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
-  "Punchline": "Remove letterboxing from cutscenes on ultrawide monitors.",
+  "Punchline": "와이드 해상도 좌우 잘림 개선",
   "AcceptsFeedback": true,
   "_isDip17Plugin": true,
   "_Dip17Channel": "stable",

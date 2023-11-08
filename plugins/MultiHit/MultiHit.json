@@ -11,7 +11,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "Split flytext into multiple flytext.",
+  "Punchline": "화면에 뜨는 Flytext를 여러개로 나누어주는 플러그인",
   "AcceptsFeedback": true,
   "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/MultiHit/images/Icon.png"
 }

@@ -25,7 +25,7 @@
     "https://raw.githubusercontent.com/goatcorp/DalamudPluginsD17/main/stable/RepairMe/images/image4.png"
   ],
   "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPluginsD17/main/stable/RepairMe/images/icon.png",
-  "Punchline": "Never forget to repair & extract materia again!",
+  "Punchline": "수리 내구도 알림",
   "AcceptsFeedback": true,
   "_isDip17Plugin": true,
   "_Dip17Channel": "stable"

@@ -16,7 +16,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "Live monster data for Deep Dungeons.",
+  "Punchline": "딥던전 관련 정보 표시",
   "Changelog": "",
   "AcceptsFeedback": false,
   "_isDip17Plugin": true,

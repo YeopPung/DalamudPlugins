@@ -21,7 +21,7 @@
     "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/image1.png"
   ],
   "IconUrl": "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/icon.png",
-  "Punchline": "You can now select furnitures from the Housing Menu",
+  "Punchline": "가구 타겟팅 플러그인",
   "Changelog": "6.3 update",
   "AcceptsFeedback": true,
   "_isDip17Plugin": true,

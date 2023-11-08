@@ -10,7 +10,7 @@
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
-  "Punchline": "Chat Commands for Teleporting",
+  "Punchline": "텔레포트를 명령어로",
   "AcceptsFeedback": true,
   "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/TeleporterPlugin/images/icon.png"
 }
