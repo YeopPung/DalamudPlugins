@@ -11,8 +11,8 @@ $pluginBlacklistUrl = "https://raw.githubusercontent.com/dohwacorp/DalamudAssets
 $wc = New-Object system.Net.WebClient
 $blackList = $wc.downloadString($pluginBlacklistUrl) | ConvertFrom-Json
 
-$dlTemplateInstall = "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/{0}/latest.zip"
-$dlTemplateUpdate = "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/{1}/latest.zip"
+$dlTemplateInstall = "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/{1}/{0}/latest.zip"
+$dlTemplateUpdate = "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/{0}/{1}/latest.zip"
 $apiLevel = 8
 
 $thisPath = Get-Location
@@ -94,10 +94,10 @@ Foreach-Object {
     }
     $content | add-member -Force -Name "LastUpdate" $updateDate -MemberType NoteProperty
 
-    $installLink = $dlTemplateInstall -f $internalName, "False"
+    $installLink = $dlTemplateInstall -f $internalName, "plugins"
     $content | add-member -Force -Name "DownloadLinkInstall" $installLink -MemberType NoteProperty
 
-    $installLink = $dlTemplateInstall -f $internalName, "True"
+    $installLink = $dlTemplateInstall -f $internalName, "plugins"
     $content | add-member -Force -Name "DownloadLinkTesting" $installLink -MemberType NoteProperty
 
     $updateLink = $dlTemplateUpdate -f "plugins", $internalName
@@ -148,13 +148,13 @@ Foreach-Object {
         }
         $content | add-member -Force -Name "LastUpdate" $updateDate -MemberType NoteProperty
 
-        $installLink = $dlTemplateInstall -f $internalName, "True"
+        $installLink = $dlTemplateInstall -f $internalName, "testing"
         $content | add-member -Force -Name "DownloadLinkInstall" $installLink -MemberType NoteProperty
 
-        $installLink = $dlTemplateInstall -f $internalName, "True"
+        $installLink = $dlTemplateInstall -f $internalName, "testing"
         $content | add-member -Force -Name "DownloadLinkTesting" $installLink -MemberType NoteProperty
 
-        $updateLink = $dlTemplateUpdate -f "plugins", $internalName
+        $updateLink = $dlTemplateUpdate -f "testing", $internalName
         $content | add-member -Force -Name "DownloadLinkUpdate" $updateLink -MemberType NoteProperty
 
         $output.Add($content)
