@@ -2327,5 +2327,33 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/testing/DelvCD/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/testing/DelvCD/latest.zip",
     "AcceptsFeedback": false
+  },
+  {
+    "Author": "Marethyu",
+    "Name": "Where's my mouse",
+    "InternalName": "WhereIsMyMouse",
+    "AssemblyVersion": "0.0.0.6",
+    "Description": "Add UI element on top of the mouse like circle to keep track of your mouse location during gameplay.\nOpen settings with /wmm",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Pythyu/WhereIsMyMouse",
+    "Tags": [
+      "mouse",
+      "UI",
+      "visibility"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadPriority": 0,
+    "Punchline": "Allows you to not lose track of your mouse on the screen",
+    "_isDip17Plugin": true,
+    "_Dip17Channel": "testing",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "0.0.0.6",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1699500124",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/testing/WhereIsMyMouse/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/testing/WhereIsMyMouse/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/testing/WhereIsMyMouse/latest.zip",
+    "AcceptsFeedback": false
   }
 ]
