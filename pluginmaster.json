@@ -1698,6 +1698,35 @@
     "AcceptsFeedback": false
   },
   {
+    "Author": "Cair",
+    "Name": "Redirect",
+    "InternalName": "Redirect",
+    "AssemblyVersion": "1.2.1.5",
+    "Description": "Easily change the targeting priority for spells and abilities. Queue macros, sprint, and potions! Type /redirect to configure.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/cairthenn/Redirect",
+    "CategoryTags": [
+      "jobs",
+      "utility"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "Punchline": "Change where your actions are going, queue macros, queue sprint, and queue potions!",
+    "_isDip17Plugin": true,
+    "_Dip17Channel": "stable",
+    "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Redirect/images/icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 32604,
+    "LastUpdate": "1699500269",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Redirect/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Redirect/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Redirect/latest.zip",
+    "AcceptsFeedback": false
+  },
+  {
     "Author": "Chalkos",
     "Name": "RepairMe",
     "InternalName": "RepairMe",
@@ -1827,6 +1856,54 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleTweaksPlugin/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleTweaksPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleTweaksPlugin/latest.zip",
+    "AcceptsFeedback": false
+  },
+  {
+    "Author": "Sonar Team",
+    "Name": "Sonar",
+    "InternalName": "SonarPlugin",
+    "AssemblyVersion": "0.5.4.1",
+    "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. Support is only provided in the Sonar Support discord.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://discord.gg/K7y24Rr",
+    "Tags": [
+      "Sonar",
+      "Hunt",
+      "Hunts",
+      "Fate",
+      "Fates",
+      "Relay",
+      "Relays",
+      "Automated",
+      "Automatic"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://assets.ffxivsonar.com/dalamud/image1.png",
+      "https://assets.ffxivsonar.com/dalamud/image2.png",
+      "https://assets.ffxivsonar.com/dalamud/image3.png",
+      "https://assets.ffxivsonar.com/dalamud/image4.png",
+      "https://assets.ffxivsonar.com/dalamud/image5.png"
+    ],
+    "IconUrl": "https://assets.ffxivsonar.com/dalamud/logo.png",
+    "Punchline": "Automatically send and receive hunt and fate relays.",
+    "Changelog": "See the Sonar Support discord #announcements channel for more information",
+    "_isDip17Plugin": true,
+    "_Dip17Channel": "stable",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 329243,
+    "LastUpdate": "1699503180",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SonarPlugin/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SonarPlugin/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SonarPlugin/latest.zip",
     "AcceptsFeedback": false
   },
   {
