@@ -49,6 +49,7 @@ Current Ver | 6.4
 | Caraxi | [Macro Chain](https://github.com/Caraxi/MacroChain) | 매크로의 마지막 줄에 '/nextmacro'를 넣어서 다음 매크로가 이어서 실행되게 합니다.<br>1번 매크로의 마지막 줄에 '/nextmacro' 를 입력해두면, 자동으로 2번 매크로가 실행됩니다.<br>1번 매크로의 마지막 줄에 '/nextmacro down' 를 입력해두면 자동으로 11번 매크로가 실행됩니다.<br>또한, 채팅창에 '/runmacro' 를 입력하면 그 매크로를 실행해주지만, 매크로 내에서 사용할 수는 없습니다. |
 | Jawslouis | [MakePlace Plugin](https://github.com/jawslouis/MakePlacePlugin) | Automatically save & load interior and exterior house layouts. Import/export layouts from the MakePlace program. |
 | Bluefissure | [MapLinker](https://github.com/Bluefissure/MapLinker) | Automatically record the maplinks in chat and retrieval later. |
+| MidoriKami | [Mappy](https://github.com/MidoriKami/Mappy) | Replaces the ingame map with an ImGui implementation with several additional features. |
 | fmauNeko | [Market board](https://github.com/fmauNeko/MarketBoardPlugin) | Browse the market board. /pmb to open. |
 | Sevii | Material UI | Auto updating Material UI with customizable accent color and more. Icon by Meconate |
 | akira0245, Ori | [MidiBard 2](https://midibard.org) | Bard performance using midi files or keyboard.<br>- Solo and ensemble mode support<br>- Text commands for instrument equip and switch<br>Supported by FFXIV Bards & Bands Community: discord.gg/ff14bard |
