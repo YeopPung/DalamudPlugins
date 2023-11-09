@@ -15,6 +15,7 @@ Current Ver | 6.4
 | LeonBlade | [Burning Down the House](https://github.com/LeonBlade/BDTHPlugin) | 하우징 아이템들을 위치 제약에 상관없이 설치해보세요. |
 | d87 | [BigPlayerDebuffs](https://github.com/rgd87/BigPlayerDebuffs) | 대상에게 건 디버프를 크게 보여줍니다. |
 | Asgard | Brio | Control actors during GPose sessions. |
+| Styr1x | [Browsingway](https://github.com/Styr1x/Browsingway) | Renders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.<br>Use the settings button below or the '/bw config' command to configure.<br>Based on the BrowserHost plugin by ackwell. |
 | Haplo064, Khayle | [Chat Bubbles](https://github.com/Haplo064/ChatBubbles) | 말풍선으로 누가 어떤 이야기를 하는지 보다 자연스럽게 확인할 수 있습니다. |
 | kij | [ChatCoordinates](https://github.com/kissorjeyabalan/dalamud-chatcoordinates) | Places flag marker on map from coordinates in chat.<br>Opens map with given coordinates for current or given zone.<br>See "/coord" for configuration and usage info. |
 | MidoriKami | [Chill Frames](https://github.com/MidoriKami/ChillFrames) | 전투시 중이 아닌 경우 프레임을 낮춰줍니다.<br><br>/pcf help → 사용 가능한 모든 명령어 |
