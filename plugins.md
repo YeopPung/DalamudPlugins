@@ -71,6 +71,7 @@ Current Ver | 6.4
 | Det | [Target Furniture](https://github.com/InitialDet/TargetFurniture) | Currently, the only possible way to select a housing item is to click the furniture itself, and this can be a problem if you have multiple items close to each other.<br><br>This plugin adds a new option in the Housing Menu that targets the furniture for you |
 | Pohky | [Teleporter](https://github.com/pohky/TeleporterPlugin) | Adds Chat Commands to Teleport to Aetherytes or Areas by Name.<br>e.g. /tp Quarrymill or /tpm South Shroud<br>Supports setting up an Alias for Aetherytes to be used with Teleporter Commands<br>e.g. /tp home instead of /tp Estate Hall (Free Company) |
 | NightmareXIV | [TextAdvance](https://github.com/NightmareXIV/TextAdvance) | Quest speedrunning assistance tool. Automatically skips subtitle boxes and confirms cutscene skipping |
+| Meoiswa | Tilted | 조건에 따라 카메라 각도/거리를 자동으로 조정합니다. |
 | MgAl2O4 | TriadBuddy | Triple triad solver, NPC matches only.<br>- highlights next move during mini game<br>- evaluates all deck presets before match<br>- deck optimizer for NPC<br>- adds more details to card collection window |
 | ocealot | [VFXEditor](https://github.com/0ceal0t/Dalamud-VFXEditor) | VFX, animation, and sound editing plugin. Icon by PAPACHIN |
 | Dragon | [Visibility](https://github.com/SheepGoMeh/VisibilityPlugin) | Allows you to hide players, pets, chocobos and minions.<br>Includes VoidList, which is a better blacklist.<br>Accessible via /pvis<br>More information available via /xlhelp |

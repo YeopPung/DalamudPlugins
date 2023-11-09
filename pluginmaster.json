@@ -1932,6 +1932,34 @@
     "AcceptsFeedback": false
   },
   {
+    "Author": "Meoiswa",
+    "Name": "Tilted",
+    "InternalName": "Tilted",
+    "AssemblyVersion": "3.1.0.0",
+    "Description": "조건에 따라 카메라 각도/거리를 자동으로 조정합니다.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "UI",
+      "tweak",
+      "camera",
+      "combat"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "Punchline": "조건에 따라 카메라를 조정합니다.",
+    "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Tilted/images/icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 8424,
+    "LastUpdate": "1699499463",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Tilted/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Tilted/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/Tilted/latest.zip",
+    "AcceptsFeedback": false
+  },
+  {
     "Author": "MgAl2O4",
     "Name": "TriadBuddy",
     "InternalName": "TriadBuddy",
