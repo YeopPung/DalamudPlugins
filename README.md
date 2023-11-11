@@ -1,52 +1,34 @@
-# DO NOT SUBMIT TO THIS REPOSITORY
-![shiba-with-glitch-stop](https://user-images.githubusercontent.com/707827/187081616-943b1ad9-d169-4f3c-9ab4-6a0452aefe08.jpg)
+## Dalamud 플러그인 레포지토리
 
-This repository has been deprecated by [DalamudPluginsD17](https://github.com/goatcorp/DalamudPluginsD17), which offers a much simpler submission and review process.
+이 레포지토리는 한국 [Dalamud](https://github.com/dohwacorp/Dalamud)에서 사용되는 플러그인을 제공합니다.
 
-If DalamudPluginsD17 does not meet your requirements, please contact us and we can work something out.
+플러그인들은 서드파티 개발자로부터 관리됩니다. 플러그인이 여기 있다고 우리가 보증한다는 의미는 아니며, 제출 규칙/표준을 준수한다는 의미일 뿐입니다.
 
-The original README follows after the cut.
+대다수의 플러그인은 해외 Dalamud 공식 제공 플러그인 [PluginDistD17](https://github.com/goatcorp/PluginDistD17)에서 제공되는 플러그인을 한국 Dalamud에서 동작하는 버전으로 제공됩니다.
 
----
+### 플러그인 설치
 
-## Dalamud plugin repository
+플러그인을 설치하기 위해서는 Dalamud.Updater를 이용하여 Dalamud를 활성화를 해야합니다. Dalamud가 로드된 이후에 `/xlplugins` 게임 명령어를 통해 플러그인 설치를 열 수 있습니다.
 
-This repository hosts plugin binaries that are used with [Dalamud](https://github.com/goatcorp/Dalamud), which is managed by [FFXIVQuickLauncher](https://github.com/goaaats/FFXIVQuickLauncher).
+여기에서 플러그인을 수동으로 다운로드할 필요가 없습니다. 플러그인 설치는 게임 내에서 직접 처리됩니다.
 
-They are made and maintained by third party developers. Plugins being on here doesn't mean that we endorse them, it just means that they follow our rules/standards for submissions.
+### 이러한 플러그인은 거절됩니다.
 
-### Installing Plugins
+ - *자동*, 사용자의 직접적인 상호작용 없이 데이터를 가져오거나 요청을 만드는 경우
+ - *스펙을 벗어난 방식*, 플레이어가 일반적인 방법으로 불가능한 작업을 서버에 요청하는 경우
 
-To install plugins, you'll need to use XIVLauncher with the in-game addon (Dalamud) enabled. Once Dalamud has loaded, you can type `/xlplugins` in game to open a plugin installed.
+#### 플러그인 추가/업데이트
 
-You do not need to download any of the plugins here manually. Plugin installation is handled inside of the game directly.
+플러그인의 하위 폴더를 만들어 PR을 생성합니다. 하위 폴더의 이름은 플러그인의 "InternalName"(DLL 파일명)으로 지정하고 같은 이름의 [플러그인 정의 Json](https://github.com/goatcorp/DalamudPlugins/blob/master/plugins/owofy/owofy.json)을 포함해야 합니다. 또한 플러그인 DLL, 종속성, 리소스 및 플러그인 정의 json이 포함된 "latest.zip"이라는 압축 파일도 플러그인 DLL과 같은 폴더에 포함되어야 합니다.
 
-### Making a plugin
+플러그인 아이콘은 "YourPlugin/images/"에 "icon.png"로 저장해야 합니다. 아이콘은 플러그인의 기능을 대표할 수 있어야 하며, 투명도가 있어야 하고 최대 512×512 픽셀이어야 합니다.
 
-Please see the [API documentation](https://goatcorp.github.io/Dalamud/api/index.html) for information about creating plugins.
+로컬에 설치된 플러그인의 AssemblyVersion이 이 리포지토리에 푸시된 플러그인 정의 json의 "AssemblyVersion" 필드와 일치하지 않으면 플러그인을 강제로 다시 다운로드해야 합니다.
 
-### What should my plugin not do?
-Make sure that your plugin does not directly interact with the game servers in a way that is:
-<br>a) *automatic*, as in polling data or making requests without direct interaction from the user.
-<br>b) *outside of specification*, as in allowing the player to do submit things to the server that would not be possible by normal means.
+이에 대한 샘플은 [sample plugin](https://github.com/goatcorp/DalamudPlugins/blob/master/plugins/owofy)을 참조하세요.
 
-#### Publishing/updating your plugin
+#### 플러그인 테스트
 
-Create a pull request with your own subfolder in the plugins directory of this folder. It should be named the "internal" name(name of the DLL) of your plugin and contain a [plugin definition file](https://github.com/goatcorp/DalamudPlugins/blob/master/plugins/owofy/owofy.json) with the same name.
-It should also contain a zip called "latest.zip" containing your plugin DLL, dependencies, resources and the plugin definition json in the same folder as the plugin DLL.
+새 플러그인을 출시하거나 큰 변경을 할 때는 먼저 이 저장소의 ``testing`` 폴더에 플러그인을 PR해 주세요. 이렇게 하면 테스트 릴리스를 받기로 선택한 사용자가 설치 관리자에서 플러그인을 볼 수 있습니다. [Discord](https://discord.gg/Fdb9TTW9aD)에 가입하여 테스트를 공유 할 수 있습니다.
 
-An icon for your plugin has to be in "YourPlugin/images/" as "icon.png". The icon has to be representative of what your plugin does, ideally have transparency and be at max, 512 by 512 pixels.
-
-When the AssemblyVersion of the locally installed plugin doesn't match the "AssemblyVersion" field of the plugin definition json pushed to this repository, a redownload of the plugin is forced.
-
-For a sample of this, please see my [sample plugin](https://github.com/goatcorp/DalamudPlugins/blob/master/plugins/owofy).
-
-#### Plugin testing
-
-When releasing a new plugin or making bigger changes, please PR your plugin inside the ``testing`` folder on this repository first - this lets users that opt into receiving testing releases see the plugin in their installer. You can join our [Discord server](https://discord.gg/3NMcUV5) to make an announcement in our testers channel.
-
-This should usually not take more than a week - but it helps weeding out bigger issues that could cause crashes or prevent the plugin from being updated.
-
----
-
-When submitting a plugin, please consider our [Acceptable Use Policy](https://github.com/goatcorp/FFXIVQuickLauncher/wiki/Acceptable-Use-Policy-(Official-Plugin-Repository)) & [Terms of Service](https://github.com/goatcorp/FFXIVQuickLauncher/wiki/Terms-and-Conditions-of-Use-(XIVLauncher,-Dalamud-&-Official-Plugin-Repository)), which, for example, detail the rights you need to grant us when uploading a plugin to this repository.
+이 과정은 보통 일주일 이상 걸리지 않지만, 충돌을 일으키거나 플러그인 업데이트를 방해할 수 있는 더 큰 문제를 걸러내는 데 도움이 됩니다.
