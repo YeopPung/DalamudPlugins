@@ -97,8 +97,11 @@ Foreach-Object {
     $installLink = $dlTemplateInstall -f $internalName, "plugins"
     $content | add-member -Force -Name "DownloadLinkInstall" $installLink -MemberType NoteProperty
 
-    $installLink = $dlTemplateInstall -f $internalName, "plugins"
-    $content | add-member -Force -Name "DownloadLinkTesting" $installLink -MemberType NoteProperty
+    if ($testingPath | Test-Path)
+    {
+        $installLink = $dlTemplateInstall -f $internalName, "testing"
+        $content | add-member -Force -Name "DownloadLinkTesting" $installLink -MemberType NoteProperty
+    }
 
     $updateLink = $dlTemplateUpdate -f "plugins", $internalName
     $content | add-member -Force -Name "DownloadLinkUpdate" $updateLink -MemberType NoteProperty
