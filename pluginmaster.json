@@ -1969,7 +1969,7 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "You do not talk about Fight Club, same for Submarines",
+    "Punchline": "잠수정 관리 플러그인",
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SubmarineTracker/images/icon.png",
