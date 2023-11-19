@@ -56,6 +56,7 @@ Current Ver | 6.4
 | Sevii | Material UI | Auto updating Material UI with customizable accent color and more. Icon by Meconate |
 | akira0245, Ori | [MidiBard 2](https://midibard.org) | Bard performance using midi files or keyboard.<br>- Solo and ensemble mode support<br>- Text commands for instrument equip and switch<br>Supported by FFXIV Bards & Bands Community: discord.gg/ff14bard |
 | daemitus | [ezMiniCactpot](https://github.com/daemitus/MiniCactpotSolver) | This plugin highlights tiles and lines in MiniCactpot that represent the best potential action you can take. |
+| JayceOfSpades | [Mini-Mappingway](https://github.com/jaycewhite/MiniMappingway) | A plugin to show your friends and FC members on the minimap. Customise the markers and toggle whether you want to see friends, FC members, or both, in the settings! Icon by @Miendoodle on twitter. Thanks nya for the idea! |
 | Bluefissure | MultiHit | Papa asked me for this so here it is. |
 | aers, JHerig, abashby | [Nameplate Debuffs](https://github.com/jherig/NamePlateDebuffs) | Displays your debuffs on enemy nameplates. |
 | perchbird (originally Meli) | [Orchestrion Plugin](https://github.com/lmcintyre/OrchestrionPlugin) | Orchestrion Plugin allows you to change the currently playing in-game BGM. It includes<br>a curated list of the most accurate in-game song titles, so you know exactly what's playing,<br>if you want to know later! Add favorite songs to separate them from the rest.<br>Note: This plugin does not currently allow you to play actual orchestrion songs. |
