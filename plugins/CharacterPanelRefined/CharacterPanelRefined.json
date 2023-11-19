@@ -19,10 +19,10 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "ImageUrls": [
-    "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/image1.png",
-    "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/image2.png"
+    "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/CharacterPanelRefined/images/image1.png",
+    "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/CharacterPanelRefined/images/image2.png"
   ],
-  "IconUrl": "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/icon.png",
+  "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/CharacterPanelRefined/images/icon.png",
   "Punchline": "캐릭터 정보를 상세화 하여 치명타 및 직격과 같은 유용한 정보를 표시합니다.",
   "AcceptsFeedback": true,
   "_isDip17Plugin": true,
