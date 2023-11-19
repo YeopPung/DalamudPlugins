@@ -2567,6 +2567,39 @@
     "AcceptsFeedback": false
   },
   {
+    "Author": "yomishino",
+    "Name": "Aether Compass",
+    "InternalName": "AetherCompass",
+    "AssemblyVersion": "1.6.2.2",
+    "Description": "This plugin detects certain objects/NPCs such as Aether Currents nearby and shows where they are by various ways, e.g. pointing to their locations on screen and notifying you in Chat.\n\nCurrently detects:\n\t- Aether Currents\n\t- Mob Hunt Elite Marks\n\t- Gathering Points\n\t- [Experimental] Island Sanctuary Gathering Objects and Animals\n\t- [Experimental] Quest-related NPCs/Objects\n\t- [Experimental] Eureka Elementals (by apetih) \n\nNote: Because most objects/NPCs are not loaded when they are too faraway or when there are too many entities nearby (such as too many player characters), they will not be detected in this case.\n\nIcon by Lumas Arkfrost",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/yomishino/FFXIVAetherCompass",
+    "Tags": [
+      "map",
+      "compass"
+    ],
+    "CategoryTags": [
+      "UI"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/yomishino/FFXIVAetherCompass/master/res/img/icon_by_arkfrostlumas.png",
+    "Punchline": "Compasses that detect and mark certain nearby objects/NPCs",
+    "_isDip17Plugin": true,
+    "_Dip17Channel": "testing-live",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.6.2.2",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1700382697",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/testing/AetherCompass/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/testing/AetherCompass/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/testing/AetherCompass/latest.zip",
+    "AcceptsFeedback": false
+  },
+  {
     "Author": "Nagi'to Atreides",
     "Name": "Casexile",
     "InternalName": "Casexile",
