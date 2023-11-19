@@ -12,6 +12,7 @@ Current Ver | 6.4
 |---------------|---------------|-----------------|
 | Ottermandias | [Accountant](https://github.com/Ottermandias/Accountant) | 집사, 비공정, 잠수함, 일일/주간 복권 등 타이머를 표시해주는 플러그인입니다. |
 | yomishino | [ActionEffectRange](https://github.com/yomishino/FFXIVActionEffectRange) | This plugin provides a visual cue on the effect range of the AoE action you just used.<br><br>May be used as a supplement/replacement to the actions' VFXs in showing effect range related information, such as where has the action landed and how large an area it covered. |
+| UnknownX | [A Realm Recorded](https://github.com/UnknownX7/ARealmRecorded) | Adds additional features to the duty recorder and automatically starts it in most instances. |
 | LeonBlade | [Burning Down the House](https://github.com/LeonBlade/BDTHPlugin) | 하우징 아이템들을 위치 제약에 상관없이 설치해보세요. |
 | d87 | [BigPlayerDebuffs](https://github.com/rgd87/BigPlayerDebuffs) | 대상에게 건 디버프를 크게 보여줍니다. |
 | Asgard | Brio | Control actors during GPose sessions. |
