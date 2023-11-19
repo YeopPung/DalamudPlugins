@@ -1866,6 +1866,7 @@
     "Punchline": "준비확인 기능 확장",
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
+    "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/ReadyCheckHelper/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 71242,
