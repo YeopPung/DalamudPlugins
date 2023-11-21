@@ -20,6 +20,7 @@ Current Ver | 6.4
 | Kouzukii | [Character Panel Refined](https://github.com/Kouzukii/ffxiv-characterstatus-refined) | Character Panel Refined cuts away useless information from the character panel, while adding useful stats like critical hit and direct hit percentages as well as estimates damage output to allow for easier comparison of gear. |
 | Haplo064, Khayle | [Chat Bubbles](https://github.com/Haplo064/ChatBubbles) | 말풍선으로 누가 어떤 이야기를 하는지 보다 자연스럽게 확인할 수 있습니다. |
 | kij | [ChatCoordinates](https://github.com/kissorjeyabalan/dalamud-chatcoordinates) | Places flag marker on map from coordinates in chat.<br>Opens map with given coordinates for current or given zone.<br>See "/coord" for configuration and usage info. |
+| Anna | [Chat 2](https://git.anna.lgbt/anna/ChatTwo) | Chat 2 is a complete rewrite of the in-game chat window as a plugin. It<br>supports:<br><br>- Unlimited tabs<br>- Tabs that always send to a certain channel<br>- More flexible filtering<br>- RGB channel colouring<br>- Completely variable font size<br>- Sidebar tabs<br>- Unread counts<br>- Screenshot mode (obfuscate names) |
 | MidoriKami | [Chill Frames](https://github.com/MidoriKami/ChillFrames) | 전투시 중이 아닌 경우 프레임을 낮춰줍니다.<br><br>/pcf help → 사용 가능한 모든 명령어 |
 | XIV Tools | Customize+ | A plugin that allows you to create and apply Anamnesis-style body scaling full time. |
 | MidoriKami | [Daily Duty](https://github.com/MidoriKami/DailyDuty) | Automatically track and complete many daily and weekly tasks.<br><br>/dd help → Display all available commands |
