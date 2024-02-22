@@ -14,6 +14,7 @@ Current Ver | 6.4
 | yomishino | [ActionEffectRange](https://github.com/yomishino/FFXIVActionEffectRange) | This plugin provides a visual cue on the effect range of the AoE action you just used.<br><br>May be used as a supplement/replacement to the actions' VFXs in showing effect range related information, such as where has the action landed and how large an area it covered. |
 | UnknownX | [A Realm Recorded](https://github.com/UnknownX7/ARealmRecorded) | Adds additional features to the duty recorder and automatically starts it in most instances. |
 | LeonBlade | [Burning Down the House](https://github.com/LeonBlade/BDTHPlugin) | 하우징 아이템들을 위치 제약에 상관없이 설치해보세요. |
+| Mienna | Beachcomber | This solver examines your Island Sanctuary data (including your Isleventory!) to provide recommendations to maximize your Seafarer's Cowrie earnings.<br><br>Made in collaboration with the Overseas Casuals. |
 | d87 | [BigPlayerDebuffs](https://github.com/rgd87/BigPlayerDebuffs) | 대상에게 건 디버프를 크게 보여줍니다. |
 | Asgard | Brio | Control actors during GPose sessions. |
 | Styr1x | [Browsingway](https://github.com/Styr1x/Browsingway) | Renders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.<br>Use the settings button below or the '/bw config' command to configure.<br>Based on the BrowserHost plugin by ackwell. |
