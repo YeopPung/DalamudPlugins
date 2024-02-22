@@ -2655,6 +2655,36 @@
     "AcceptsFeedback": false
   },
   {
+    "Author": "PunishedPineapple",
+    "Name": "Say What?",
+    "InternalName": "WhatDidYouSay",
+    "AssemblyVersion": "1.0.2.1",
+    "Description": "Prints NPC speech bubbles to the chat log.  Please check the plugin settings and your chat log filters to make sure that they are compatible with each other.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/PunishedPineapple/WhatDidYouSay",
+    "Tags": [
+      "Chat",
+      "NPC"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/image1.png",
+      "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/image2.png"
+    ],
+    "IconUrl": "https://github.com/PunishedPineapple/WhatDidYouSay/raw/main/docs/Images/icon.png",
+    "Punchline": "Persistent NPC Flavor Text",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 19775,
+    "LastUpdate": "1708611110",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/WhatDidYouSay/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/WhatDidYouSay/latest.zip",
+    "AcceptsFeedback": false
+  },
+  {
     "Author": "Asgard",
     "Name": "XAT",
     "Punchline": "애니메이션과 컷신을 만들고 수정할 수 있는 플러그인",
