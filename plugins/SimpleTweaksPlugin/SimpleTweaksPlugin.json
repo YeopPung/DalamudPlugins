@@ -2,15 +2,15 @@
   "Author": "Caraxi",
   "Name": "Simple Tweaks Plugin",
   "InternalName": "SimpleTweaksPlugin",
-  "AssemblyVersion": "1.8.9.2",
+  "AssemblyVersion": "1.9.7.2",
   "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
   "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "편의 기능 제공 플러그인",
-  "AcceptsFeedback": true,
-  "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/SimpleTweaksPlugin/images/icon.png"
+  "Punchline": "This was supposed to be simple...",
+  "AcceptsFeedback": true
 }
