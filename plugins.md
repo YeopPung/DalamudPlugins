@@ -24,7 +24,6 @@ Current Ver | 6.4
 | Anna | [Chat 2](https://git.anna.lgbt/anna/ChatTwo) | Chat 2 is a complete rewrite of the in-game chat window as a plugin. It<br>supports:<br><br>- Unlimited tabs<br>- Tabs that always send to a certain channel<br>- More flexible filtering<br>- RGB channel colouring<br>- Completely variable font size<br>- Sidebar tabs<br>- Unread counts<br>- Screenshot mode (obfuscate names) |
 | MidoriKami | [Chill Frames](https://github.com/MidoriKami/ChillFrames) | 전투시 중이 아닌 경우 프레임을 낮춰줍니다.<br><br>/pcf help → 사용 가능한 모든 명령어 |
 | XIV Tools | Customize+ | A plugin that allows you to create and apply Anamnesis-style body scaling full time. |
-| MidoriKami | [Daily Duty](https://github.com/MidoriKami/DailyDuty) | Automatically track and complete many daily and weekly tasks.<br><br>/dd help → Display all available commands |
 | goat | [Ultrawide Cutscenes](https://github.com/goaaats/Dalamud.FullscreenCutscenes) | This plugin removes the "letterboxing" bars when watching cutscenes on ultrawide monitors.<br>Beware! You may see things that you are not supposed to be seeing, such as upcoming NPCs popping in or T-posing.<br><br>Thanks to aers for finding this. |
 | goat | Fancy Loading Screens | This plugin shows the destination zone's concept art while loading.<br>NOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry! |
 | goat | [Discord Rich Presence](https://github.com/goaaats/Dalamud.RichPresence) | 이 플러그인은 당신의 위치, 직업, 레벨, 이름, 그리고 서버를 디스코드 상태에 표시해줍니다. |
