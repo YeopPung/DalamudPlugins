@@ -1815,7 +1815,7 @@
     "Author": "MgAl2O4",
     "Name": "Pat Me",
     "InternalName": "PatMe",
-    "AssemblyVersion": "1.8.2.0",
+    "AssemblyVersion": "1.9.0.1",
     "Description": "Did you ever wonder how many times your Lala gets a pat? Well, now you can count it!",
     "ApplicableVersion": "any",
     "Tags": [
@@ -1825,16 +1825,16 @@
     "CategoryTags": [
       "social"
     ],
-    "DalamudApiLevel": 8,
+    "DalamudApiLevel": 9,
     "LoadRequiredState": 0,
     "LoadSync": false,
+    "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "쓰담 받은 횟수 기록",
-    "IconUrl": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PatMe/images/icon.png",
+    "Punchline": "Pat counter",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 127646,
-    "LastUpdate": "1698929799",
+    "LastUpdate": "1712119495",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PatMe/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dohwacorp/DalamudPlugins/main/plugins/PatMe/latest.zip",
     "AcceptsFeedback": false

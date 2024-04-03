@@ -68,7 +68,6 @@ Current Ver | 6.4
 | aers, JHerig, abashby | [Nameplate Debuffs](https://github.com/jherig/NamePlateDebuffs) | Displays your debuffs on enemy nameplates. |
 | perchbird (originally Meli) | [Orchestrion Plugin](https://github.com/lmcintyre/OrchestrionPlugin) | Orchestrion Plugin allows you to change the currently playing in-game BGM. It includes<br>a curated list of the most accurate in-game song titles, so you know exactly what's playing,<br>if you want to know later! Add favorite songs to separate them from the rest.<br>Note: This plugin does not currently allow you to play actual orchestrion songs. |
 | Chirp | [Palette+](https://github.com/chirpxiv/PalettePlus) | Custom color palettes for FFXIV characters. |
-| MgAl2O4 | Pat Me | Did you ever wonder how many times your Lala gets a pat? Well, now you can count it! |
 | Anna | [Peeping Tom](https://git.anna.lgbt/anna/PeepingTom) | Shows who is currently or was previously targeting you. |
 | Ottermandias, Adam, Wintermute | [Penumbra](https://github.com/xivdev/Penumbra) | 모드 적용 및 관리 플러그인 |
 | karashiiro | [PingPlugin](https://github.com/karashiiro/PingPlugin) | A ping display plugin for Dalamud. |
